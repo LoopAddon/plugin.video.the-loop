@@ -1,8 +1,8 @@
 <dir>
         <name>Fan Zone</name>
         <link>FanZone.xml</link>
-        <animated_thumbnail>https://is.gd/7bgBhy<animated_thumbnail>
-        <thumbnail>https://is.gd/7bgBhy<thumbnail>
+        <animated_thumbnail>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/theloop_fanzone.png<animated_thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/theloop_fanzone.png<thumbnail>
         <animated_fanart>https://is.gd/7bgBhy<animated_fanart>
         <fanart>https://is.gd/7bgBhy<fanart>
 </dir>
