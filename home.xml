@@ -1,9 +1,9 @@
 <dir>
         <name>Fan Zone</name>
         <link>FanZone.xml</link>
-        <animated_thumbnail><animated_thumbnail>
-        <thumbnail><thumbnail>
-        <animated_fanart><animated_fanart>
+        <animated_thumbnail>https://i.imgur.com/09I56CX.png<animated_thumbnail>
+        <thumbnail>https://i.imgur.com/09I56CX.png<thumbnail>
+        <animated_fanart>https://i.imgur.com/09I56CX.png<animated_fanart>
         <fanart>https://i.imgur.com/09I56CX.png<fanart>
 </dir>
 
