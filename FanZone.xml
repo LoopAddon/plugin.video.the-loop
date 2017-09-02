@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<channels>
 <dir>
         <name>Test</name>
         <link></link>
@@ -107,4 +106,3 @@
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
-<channels>
