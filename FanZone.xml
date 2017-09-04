@@ -1,14 +1,14 @@
 <dir>
-        <name>AA links</name>
-        <link>http%3A%2F%2Ftvcatchup.com%2Fwatch%2Faljazeera&mode=2&name=Al+Jazeera+-+Al+Jazeera+World<link>
+        <name>Test Link 1</name>
+        <link><link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/09I56CX.png<fanart>
+        <fanart><fanart>
 </dir>
 
 <dir>
-        <name></name>
+        <nameTest Link 2</name>
         <link></link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
