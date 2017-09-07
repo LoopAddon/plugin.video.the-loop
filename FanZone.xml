@@ -1,6 +1,6 @@
 <dir>
         <name>Test Link 1</name>
-        <link><link>
+        <link>http://185.142.239.164:3135/NFL/Network/index.m3u8<link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
