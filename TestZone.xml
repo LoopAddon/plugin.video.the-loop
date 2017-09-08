@@ -1,11 +1,11 @@
-<dir>
-        <name>Test</name>
-        <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8</link>
+<item>
+        <name>Test Darts</name>
+        <link>http%3A%2F%2Fwww.laola1.tv%2Fen-int%2Flivestream%2Fpdc-european-darts-tour-mannheim-day-1-afternoon-session-len&amp;type=video&quot;</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/8HazFEz.png</thumbnail>
         <animated_fanart></animated_fanart>
         <fanart>https://i.imgur.com/8HazFEz.png</fanart>
-</dir>
+</item>
 
 <dir>
         <name></name>
