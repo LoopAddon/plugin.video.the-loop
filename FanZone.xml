@@ -152,13 +152,13 @@
 <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>17:30GMT Sheffield Wednesday vs Nottingham Forest</title>
 <link>plugin://plugin.video.sportsdevil/url=http://www.streamhd.eu//football/sheffield-wednesday-vs-nottingham-forest-live-stream-1081.php</sportsdevil>
 <referer></referer>
 <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 <item>
 <title>17:30GMT Stoke City vs Manchester United</title>
 <sportsdevil>http://www.streamhd.eu//football/stoke-city-vs-manchester-united-live-stream-1081.php</sportsdevil>
