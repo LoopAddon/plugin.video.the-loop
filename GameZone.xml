@@ -1,107 +1,494 @@
 <item>
-        <name>Test Link 1</name>
-        <link>http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/9PV0lhZ.png</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>https://i.imgur.com/9PV0lhZ.png</fanart>
+<title>[COLORred][B]07:30 [/COLOR][/B][COLORwhite][B]Melbourne Storm v Parramatta Eels [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/premiersports.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
-
-<dir>
-        <name></name>
-        <link></link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail></thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</dir>
+<item>
+<title>[COLORred][B]08:00 [/COLOR][/B][COLORwhite][B]MotoGP San Marino Grand Prix [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]08:00 [/COLOR][/B][COLORwhite][B]MotoGP San Marino Grand Prix [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]08:30 [/COLOR][/B][COLORwhite][B]New Zealand v Argentina [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]10:30 [/COLOR][/B][COLORwhite][B]Tour of Britain [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]10:40 [/COLOR][/B][COLORwhite][B]Manly Warrinagh Sea Eagles v Penrith Panthers [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/premiersports.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]11:00 [/COLOR][/B][COLORwhite][B]Australia v South Africa [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]11:15 [/COLOR][/B][COLORwhite][B]UD Oliveirense vs Porto II [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:00 [/COLOR][/B][COLORwhite][B]Arminia Bielefeld v MSV Duisburg [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:00 [/COLOR][/B][COLORwhite][B]Real Madrid v Levante [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:00 [/COLOR][/B][COLORwhite][B]Real Madrid v Levante [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:00 [/COLOR][/B][COLORwhite][B]Real Madrid v Levante [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:00 [/COLOR][/B][COLORwhite][B]British Superbikes Cadwell Park [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/euro2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Manchester City v Liverpool [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Manchester City v Liverpool [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Manchester City v Liverpool [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Omega European Masters [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Omega European Masters [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]13:00 [/COLOR][/B][COLORwhite][B]UCI Vuelta a Espana [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/euro1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]13:30 [/COLOR][/B][COLORwhite][B]DTM: Nurnburgring [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]14:00 [/COLOR][/B][COLORwhite][B]Bath v Saracens [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]14:30 [/COLOR][/B][COLORwhite][B]Mainz 05 vs Bayer Leverkusen [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Leicester City vs Chelsea [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix6.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Leicester City vs Chelsea [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Arsenal vs AFC Bournemouth [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix7.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Arsenal vs AFC Bournemouth [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Everton vs Tottenham Hotspur [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Everton vs Tottenham Hotspur [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:15 [/COLOR][/B][COLORwhite][B]Valencia vs Atletico Madrid [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:15 [/COLOR][/B][COLORwhite][B]Hull KR v Widnes Vikings [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]16:00 [/COLOR][/B][COLORwhite][B]Tondela vs Pacos de Ferreira [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]16:00 [/COLOR][/B][COLORwhite][B]Nice vs Monaco [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]16:30 [/COLOR][/B][COLORwhite][B]Northampton v Leicester [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:00 [/COLOR][/B][COLORwhite][B]US Open [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/euro1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:00 [/COLOR][/B][COLORwhite][B]Juventus vs Chievo [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:00 [/COLOR][/B][COLORwhite][B]Juventus vs Chievo [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:15 [/COLOR][/B][COLORwhite][B]Catalans Dragons v Featherstone Rovers [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Stoke City vs Manchester United [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Stoke City vs Manchester United [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Stoke City vs Manchester United [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Sheffield Wednesday vs Nottingham Forest [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Sevilla v Eibar [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix6.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Sheffield Wednesday vs Nottingham Forest [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Hoffenheim vs Bayern Munchen [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Hoffenheim vs Bayern Munchen [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/btespn.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Hoffenheim vs Bayern Munchen [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]18:00 [/COLOR][/B][COLORwhite][B]Indy Women In Tech [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]18:15 [/COLOR][/B][COLORwhite][B]Maritimo vs Rio Ave [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:00 [/COLOR][/B][COLORwhite][B]Indy Women In Tech [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Castres v Montpellier [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Sampdoria vs Roma [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Sampdoria vs Roma [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Barcelona vs Espanyol [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Barcelona vs Espanyol [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/hd2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Barcelona vs Espanyol [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]20:30 [/COLOR][/B][COLORwhite][B]Porto vs Chaves [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]21:30 [/COLOR][/B][COLORwhite][B]Toronto Wolfpack v Barrow Raiders [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]22:30 [/COLOR][/B][COLORwhite][B]New York City FC v Portland [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]00:30 [/COLOR][/B][COLORwhite][B]NASCAR: Federated Auto Parts 400 [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]00:30 [/COLOR][/B][COLORwhite][B]NASCAR: Federated Auto Parts 400 [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sptv5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]00:30 [/COLOR][/B][COLORwhite][B]New England Revolution v Montreal Impact [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]01:00 [/COLOR][/B][COLORwhite][B]UFC: 215 [/COLOR][/B]</title><sportsdevil>http://sstream.net/bt2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]03:00 [/COLOR][/B][COLORwhite][B]UFC: 215 [/COLOR][/B]</title><sportsdevil>http://sstream.net/hd4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]03:00 [/COLOR][/B][COLORwhite][B]UFC: 215 [/COLOR][/B]</title><sportsdevil>http://sstream.net/sptv1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]03:15 [/COLOR][/B][COLORwhite][B]Roman Gonzalez v Wisaksil Wangek [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky3.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]07:10 [/COLOR][/B][COLORwhite][B]Cronulla Sharks v North Queensland Cowboys [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/premiersports.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]07:40 [/COLOR][/B][COLORwhite][B]MotoGP San Marino Grand Prix [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt2.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]11:00 [/COLOR][/B][COLORwhite][B]Omega European Masters [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]11:00 [/COLOR][/B][COLORwhite][B]Tour of Britain [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/mix4.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]11:00 [/COLOR][/B][COLORwhite][B]Deportivo La Coruna v Real Sociedad [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/sky5.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]11:30 [/COLOR][/B][COLORwhite][B]Inter Milan v SPAL [/COLOR][/B]</title>
+<sportsdevil>http://sstream.net/bt1.html</sportsdevil>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
