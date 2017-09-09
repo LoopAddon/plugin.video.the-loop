@@ -84,7 +84,7 @@
 </item>
 <plugin>
 <title>15:00GMT Arsenal vs Bournemouth</title>
-<link>http://www.streamhd.eu//football/arsenal-vs-bournemouth-live-stream-1081.php</link>
+<link>plugin://plugin.video.sportsdevil/http://www.streamhd.eu//football/arsenal-vs-bournemouth-live-stream-1081.php</link>
 <referer></referer>
 <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
 <fanart></fanart>
