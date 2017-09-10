@@ -1,6 +1,6 @@
 <plugin>
  <title>12:00GMT Real Madrid vs Levante</title>
- <link></link>
+ <link>plugin://plugin.video.sportsdevil&url=http://ustreamyx.com/stream.php?id=bt-sport-2</link>
  <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
  <fanart></fanart>
  </plugin>
