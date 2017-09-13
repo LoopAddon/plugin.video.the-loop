@@ -1,8 +1,8 @@
-<plugin>
+<item>
    <title>Test Link 1</title>
-   <link>plugin://plugin.video.f4mtester/?iurl=https://live145.vkuserlive.com/637613/live/4glI0wxDfBA/playlist.m3u8</link>
+   <link>http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/164.ts</link>
    <animated_thumbnail></animated_thumbnail>
    <thumbnail>https://i.imgur.com/8HazFEz.png</thumbnail>
    <animated_fanart></animated_fanart>
    <fanart>https://i.imgur.com/8HazFEz.png</fanart>
-</plugin>
+</item>
