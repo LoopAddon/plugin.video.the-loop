@@ -1,16 +1,10 @@
 <plugin>
-	<title>[COLOR orange]EPL:Manchester Utd vs Everton K.O 16.00[/COLOR]</title>
+	<title>[COLOR orange]EPL:Espanyol vs Celta Vigo]</title>
 	<link>
-	    <sublink>plugin://program.plexus/?mode=1&url=acestream://623687ccc7bf028bd61694053f54119425fab9c0(Acestream)</sublink>
-		<sublink>plugin://program.plexus/?mode=1&url=acestream://e061202217ea02d1c62e03688eaa3a60ee7b6829(Acestream)</sublink>
-		<sublink>plugin://program.plexus/?mode=1&url=acestream://5291a22aaee8cb2e2d28f655d95b14ab3aa999cb(Acestream)</sublink>
-		<sublink>plugin://program.plexus/?mode=1&url=acestream://bd90b972fafedec4211b18b6c34a5c2253ae94de(Acestream)</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky3.html</sublink>
-	        <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://hdhub.live/channel/channel-1-live-stream.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.insport24.com/p/manchester-united-vs-everton.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tykestv.space/supersunday</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.arysports.ml/p/sports-11-hd_17.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sports-stream.net/ch12.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://www.streamhd.eu//football/espanyol-vs-celta-vigo-live-stream-516.php</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.napaxsport.club/manchester-united-vs-everton/</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-united-live-stream</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html</sublink>
