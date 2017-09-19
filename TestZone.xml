@@ -1,11 +1,4 @@
 <plugin>
-        <title>[COLORgold][B]SCHEDULED GAMES BELOW ENJOY!![/COLOR][/B]<title>
-        <sportsdevil></sportsdevil>
-        <referer></referer>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-</plugin>
-<plugin>
         <title>[COLORwhite][B]7:45 PM Leicester City vs Liverpool[/COLOR][/B]<title>
         <link>
         <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/liverpool-live-stream</sublink>
