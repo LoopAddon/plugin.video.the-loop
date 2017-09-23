@@ -28,12 +28,12 @@
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv3.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html</sublink>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn-live-stream-watch-tsn-1-online-channel-free</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn4-live-stream-watch-tsn4-channel-online-free</sublink>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn5-live-stream-watch-tsn5-channel-online-free</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/watch-nbc-sport-networks-live-online-nbc-sport-networks-usa</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-2-hd-live-stream</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-11-hd-live-stream</sublink></link>
+                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn-live-stream-watch-tsn-1-online-channel-free/</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn4-live-stream-watch-tsn4-channel-online-free/</sublink>
+                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn5-live-stream-watch-tsn5-channel-online-free/</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/watch-nbc-sport-networks-live-online-nbc-sport-networks-usa/</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-2-hd-live-stream/</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-11-hd-live-stream/</sublink></link>
 	<animated_thumbnail></animated_thumbnail>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -41,9 +41,9 @@
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]7:45 PM Chelsea vs Nottingham Forest[/COLOR][/B]<title>
+	<title>[COLORwhite][B]1:00 PM PDC International Darts Open[/COLOR][/B]<title>
 	<link>
-	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/chelsea-live-stream</sublink>
+	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.laola1.tv/de-at/amp-video/pdc-european-darts-tour-riesa-tag-2-nachmittag-session-lde</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd5.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/chelsea-vs-nottingham-forest-live-stream-416.php</sublink></link>
