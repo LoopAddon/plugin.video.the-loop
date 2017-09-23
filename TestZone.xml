@@ -43,10 +43,8 @@
 <plugin>
 	<title>[COLORwhite][B]1:00 PM PDC International Darts Open[/COLOR][/B]</title>
 	<link>
-	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://l1tvintegration-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-969063_i-8859175220170923121302_k-0_q-_t-hds/laola25_1@342473/index_230k_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd5.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/chelsea-vs-nottingham-forest-live-stream-416.php</sublink></link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://l1tvintegration-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-969063_i-4676775120170923122934_k-0_q-_t-hds/laola25_1@342473/index_1200k_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on&hdntl</sublink>
+                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://l1tvintegration-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-969063_i-8859175220170923121302_k-0_q-_t-hds/laola25_1@342473/index_230k_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on</sublink></link>
 	<animated_thumbnail></animated_thumbnail>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -65,3 +63,52 @@
 	<content></content>
 </plugin>
 
+<plugin>
+	<title>[COLORwhite][B]7:45 PM Arsenal vs Doncaster[/COLOR][/B]<title>
+	<link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/arsenal-live-stream</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/arsenal-vs-doncaster-rovers-live-stream-416.php</sublink></link>
+	<animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+	<content></content>
+</plugin>
+		
+<plugin>
+	<title>[COLORwhite][B]7:45 PM Arsenal vs Doncaster[/COLOR][/B]<title>
+	<link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/arsenal-live-stream</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/arsenal-vs-doncaster-rovers-live-stream-416.php</sublink></link>
+	<animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+	<content></content>
+</plugin>
+		
+<plugin>
+	<title>[COLORwhite][B]7:45 PM Arsenal vs Doncaster[/COLOR][/B]<title>
+	<link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/arsenal-live-stream</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/arsenal-vs-doncaster-rovers-live-stream-416.php</sublink></link>
+	<animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+	<content></content>
+</plugin>
+		
+<plugin>
+	<title>[COLORwhite][B]7:45 PM Arsenal vs Doncaster[/COLOR][/B]<title>
+	<link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/arsenal-live-stream</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/arsenal-vs-doncaster-rovers-live-stream-416.php</sublink></link>
+	<animated_thumbnail></animated_thumbnail>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+	<content></content>
+</plugin>
+		
+		
