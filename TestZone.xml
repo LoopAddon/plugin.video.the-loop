@@ -1,5 +1,5 @@
 <plugin>
-	<title>[COLORwhite][B]SCHEDULED GAMES FOR WEDNESDAY 20TH SEPTEMBER BELOW ENJOY!![/COLOR][/B]<title>
+	<title>[COLORwhite][B]SCHEDULED GAMES FOR SATURDAY 23rd SEPTEMBER BELOW ENJOY!![/COLOR][/B]</title>
 	<sportsdevil>http</sportsdevil>
 	<referer></referer>
 	<thumbnail></thumbnail>
@@ -7,17 +7,16 @@
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]7:45 PM WBA vs Man City[/COLOR][/B]</title>
+	<title>[COLORwhite][B]12:00 Rangers vs Celtic[/COLOR][/B]</title>
 	<link>
-	    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-city-live-stream</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/west-bormwich-albion-vs-manchester-city-live-stream-416.php/</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-2-hd-live-stream/</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-11-hd-live-stream/</sublink>
+	    <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</sublink></link>
-    <fanart></fanart>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/sky-sports-1-full-hd-live-stream-720-1080p/</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-12-hd-live-stream/</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/01-sportsnet-ontario-live-stream-watch-sportsnet-ontario-online-free</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink></link>
+	<fanart></fanart>
 	<content></content>
 </plugin>
 
