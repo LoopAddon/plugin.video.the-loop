@@ -1,5 +1,5 @@
 <plugin>
-	<title>[COLORwhite][B]SCHEDULED GAMES FOR SAT 23rd SEPTEMBER BELOW ENJOY!![/COLOR][/B]</title>
+	<title>[COLORwhite][B]SCHEDULED GAMES FOR SAT 23rd SEPTEMBER BELOW[/COLOR][/B]</title>
 	<sportsdevil>http</sportsdevil>
 	<referer></referer>
 	<thumbnail></thumbnail>
@@ -15,7 +15,6 @@
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/sky-sports-1-full-hd-live-stream-720-1080p/</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-12-hd-live-stream/</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/01-sportsnet-ontario-live-stream-watch-sportsnet-ontario-online-free</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
                 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/rangers-vs-celtic-live-stream-749.php</sublink></link>
 	<fanart></fanart>
 	<content></content>
