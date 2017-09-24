@@ -1,6 +1,6 @@
 <item>
-        <name>Test Link 1</name>
-        <link>http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8<link>
+        <name>Movies</name>
+        <link>http://njmweb.we.bs/movies/movies_test.m3u<link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
         <animated_fanart></animated_fanart>
