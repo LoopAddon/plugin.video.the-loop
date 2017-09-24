@@ -48,10 +48,10 @@
 	<content></content>
 </item>
 
-<plugin>
-	<title>[COLORwhite][B]2pm Jacksonville Jaguars vs Baltimore Ravens[/COLOR][/B]</title>
+<item>
+	<title>[COLORwhite][B]Narcos[/COLOR][/B]</title>
 	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//nfl/baltimore-ravens-vs-jacksonville-jaguars-live-stream-374.php</sublink>
+		<sublink>http://dl.funsaber.net/serial/Narcos/season%201/720/Narcos.S01E01.720p.WEBrip.Funsaber_Net.mkv</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky3.html</sublink></link>
 	<animated_thumbnail></animated_thumbnail>
