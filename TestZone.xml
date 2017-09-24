@@ -7,7 +7,7 @@
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]12:00 Rangers vs Celtic[/COLOR][/B]<title>
+	<title>[COLORwhite][B]12:00 Rangers vs Celtic[/COLOR][/B]</title>
 	<link>
 	    <sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://adf.ly/1nTLE1;name=LOOP TV</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink>
