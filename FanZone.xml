@@ -1,5 +1,5 @@
 <plugin>
-	<title>[COLORwhite][B]SCHEDULED GAMES FOR SUN 24th SEPTEMBER BELOW[/COLOR][/B]</title>
+	<title>[COLORwhite][B]SCHEDULED GAMES FOR SUN 2nd OCTOBER BELOW[/COLOR][/B]</title>
 	<sportsdevil>http</sportsdevil>
 	<referer></referer>
 	<thumbnail></thumbnail>
@@ -7,7 +7,7 @@
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]Bufallo Bills vs Atlanta Falcons[/COLOR][/B]</title>
+	<title>[COLORwhite][B]Bufallo Bills vs Atlanta Falcons[/COLOR][/B]<title>
 	<link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink>
                 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
@@ -19,7 +19,7 @@
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]<title>
+	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]</title>
 	<link>
 	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/san-francisco-49ers-live-streaming<sublink>
@@ -43,7 +43,7 @@
 </plugin>
 
 <item>
-	<title>[COLORwhite][B]Nightmare[/COLOR][/B]</title>
+	<title>[COLORwhite][B]Nightmare[/COLOR][/B]<title>
 	<link>
 		<sublink>http://dl.funsaber.net/serial/Narcos/season 1/720/Narcos.S01E01.720p.WEBrip.Funsaber_Net.mkv</sublink>
 		<sublink>http://sv4avadl.uploadet.ir/Movie/2017/08/911.Nightmare.2016.Lifetime.720p.HDrip.X264.AVADL.CO.mp4</sublink>
@@ -55,7 +55,7 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Tampa Bay Buccaneers[/COLOR][/B]<title>
+	<title>[COLORwhite][B]21:00 Tampa Bay Buccaneers[/COLOR][/B]</title>
 	<link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/ny-giants-live-streaming</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink>
@@ -67,7 +67,7 @@
 </plugin>
 		
 <plugin>
-	<title>[COLORwhite][B]/COLOR]21:00Denver Broncos vs Oakland Raiders [/B]<title>
+	<title>[COLORwhite][B]/COLOR]21:00 Denver Broncos vs Oakland Raiders [/B]</title>
 	<link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
