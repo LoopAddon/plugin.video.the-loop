@@ -1,25 +1,25 @@
 <plugin>
-	<title>[COLORwhite][B]SCHEDULED GAMES FOR SUN 2nd OCTOBER BELOW[/COLOR][/B]</title>
+	<title>[COLORwhite][B]SCHEDULED GAMES FOR FRIDAY 13TH OCTOBER BELOW[/COLOR][/B]</title>
 	<sportsdevil>http</sportsdevil>
 	<referer></referer>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </plugin>
 
-<plugin>
-	<title>[COLORwhite][B]Bufallo Bills vs Atlanta Falcons[/COLOR][/B]<title>
+<item>
+	<title>[COLORwhite][B]LIVE PDC DARTS[/COLOR][/B]<title>
 	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/sky-sports-1-full-hd-live-stream-720-1080p/</sublink></link>
+		<sublink>https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-990905_i-2219315520171013165723_k-0_q-_t-hds/laola22_1@571387/index_298_av-p.m3u8?hd=10&b=0-1700&custom-mdt=on&rebase=on</sublink>
+                <sublink>https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-990905_i-2219315520171013165723_k-0_q-_t-hds/laola22_1@571387/index_298_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on</sublink></link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html<sublink>
+                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/sky-sports-1-full-hd-live-stream-720-1080p/<sublink>
 	<fanart></fanart>
 	<content></content>
-</plugin>
+</item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]</title>
+	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]<title>
 	<link>
 	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/san-francisco-49ers-live-streaming<sublink>
@@ -32,7 +32,7 @@
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Los Angeles Chargers vs Philadelphia Eagles[/COLOR][/B]</title>
+	<title>[COLORwhite][B]21:00 Los Angeles Chargers vs Philadelphia Eagles[/COLOR][/B]<title>
 	<link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/Philadelphia_Eagles_at_Los_Angeles_Chargers_live_NFL/nfl9</sublink></link>
@@ -55,7 +55,7 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Tampa Bay Buccaneers[/COLOR][/B]</title>
+	<title>[COLORwhite][B]21:00 Tampa Bay Buccaneers[/COLOR][/B]<title>
 	<link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/ny-giants-live-streaming</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink>
@@ -67,7 +67,7 @@
 </plugin>
 		
 <plugin>
-	<title>[COLORwhite][B]21:00 Denver Broncos vs Oakland Raiders[/COLOR][/B]</title>
+	<title>[COLORwhite][B]21:00 Denver Broncos vs Oakland Raiders[/COLOR][/B]<title>
 	<link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
