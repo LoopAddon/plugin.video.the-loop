@@ -19,7 +19,7 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]</title>
+	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]<title>
 	<link>
 	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/san-francisco-49ers-live-streaming</sublink>
