@@ -19,10 +19,10 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]<title>
+	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]</title>
 	<link>
 	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/san-francisco-49ers-live-streaming<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/san-francisco-49ers-live-streaming</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/Philadelphia_Eagles_at_Los_Angeles_Chargers_live_NFL</sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/San_Francisco_49ers_at_Arizona_Cardinals_live_NFL/stream2</sublink></link>
 	<animated_thumbnail></animated_thumbnail>
