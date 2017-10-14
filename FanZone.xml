@@ -7,10 +7,10 @@
 </plugin>
 
 <item>
-	<title>[COLORwhite][B]LIVE PDC DARTS[/COLOR][/B]</title>
+	<title>[COLORwhite][B]13:00 LIVE PDC DARTS[/COLOR][/B]</title>
 	<link>
-		<sublink>https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-990905_i-2219315520171013165723_k-0_q-_t-hds/laola22_1@571387/index_298_av-p.m3u8?hd=10&b=0-1700&custom-mdt=on&rebase=on</sublink>
-                <sublink>https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-990905_i-2219315520171013165723_k-0_q-_t-hds/laola22_1@571387/index_298_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on</sublink></link>
+		<sublink>https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-990906_i-6281150920171014104712_k-0_q-_t-hds/laola49_1@571415/index_298_av-p.m3u8?hd=10&b=0-1700&custom-mdt=on&rebase=on</sublink>
+                <sublink>https://univlivel1tv-lh.akamaihd.net/i/p-1_u-0_l-l1tv_a-darts_european_darts_tour_c-GB_e-990906_i-6281150920171014104712_k-0_q-_t-hds/laola49_1@571415/index_298_av-p.m3u8?sd=10&b=0-1700&custom-mdt=on&rebase=on</sublink></link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html<sublink>
                 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html<sublink>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/sky-sports-1-full-hd-live-stream-720-1080p/<sublink>
@@ -19,13 +19,15 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Arizona Cardinals vs San Fransisco 49ers[/COLOR][/B]<title>
+	<title>[COLORwhite][B]Liverpool vs Man Utd[/COLOR][/B]</title>
 	<link>
-	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/san-francisco-49ers-live-streaming</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/Philadelphia_Eagles_at_Los_Angeles_Chargers_live_NFL</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/San_Francisco_49ers_at_Arizona_Cardinals_live_NFL/stream2</sublink></link>
-	<animated_thumbnail></animated_thumbnail>
+	  	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/liverpool-live-stream</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
+                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/liverpool-vs-manchester-united-live-stream-206.php</sublink>
+		<sublink>plugin://plugin.video.f4mTester/?url=%24doregex%5Bget_sxstream%5D%7CUser-Agent%3DSportstv204&mode=17&regexs=%7Bu%27get_sxstream%27%3A%20%7B%27refer%27%3A%20u%27http%3A//tvhistories.com%27%2C%20%27page%27%3A%20u%27http%3A//tvhistories.com/001sportstv204/skyS1.php%27%2C%20%27expre%27%3A%20u%27href%3D.%2A%5B%22%2C%5C%27%5D%28.%2Askysports1-live/playlist.%2A%3F%29%5B%22%2C%5C%27%5D%27%7D%7D</sublink></link>
     <thumbnail></thumbnail>
     <fanart></fanart>
 	<content></content>
