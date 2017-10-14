@@ -68,7 +68,7 @@
 </plugin>
 		
 <plugin>
-	<title>[COLORwhite][B]Tottenham vs Bournemouth[/COLOR][/B]<title>
+	<title>[COLORwhite][B]Tottenham vs Bournemouth[/COLOR][/B]</title>
 	<link>
 		<sublink>plugin://program.plexus/?mode=1&url=acestream://32a62e640eabdabc5c18ed472b06029fbb3ae323(acestream)</sublink></link>
 		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html<sublink>
