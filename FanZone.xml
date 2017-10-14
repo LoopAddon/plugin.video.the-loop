@@ -19,35 +19,36 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]Liverpool vs Man Utd[/COLOR][/B]</title>
+	<title>[COLORwhite][B]15:00 Burnley vs West Ham[/COLOR][/B]</title>
 	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/liverpool-vs-manchester-united-live-stream-206.php</sublink></link>
+                <sublink>plugin://program.plexus/?mode=1&url=acestream://18c5e30255a5cd82a00c1fc4c007268f92927871(Acestream)</sublink></link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html<sublink>
+                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/liverpool-vs-manchester-united-live-stream-206.php<sublink><link>
     <thumbnail></thumbnail>>
     <fanart></fanart>
 	<content></content>
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Los Angeles Chargers vs Philadelphia Eagles[/COLOR][/B]<title>
+	<title>[COLORwhite][B]15:00 Crystal Palace vs Chelsea[/COLOR][/B]</title>
 	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/Philadelphia_Eagles_at_Los_Angeles_Chargers_live_NFL/nfl9</sublink></link>
+                <sublink>plugin://program.plexus/?mode=1&url=acestream://f4911bb67515816a4a0d00cac2eb24f297e61e01(acestream)</sublink></link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/Philadelphia_Eagles_at_Los_Angeles_Chargers_live_NFL/nfl9<sublink>
 	<animated_thumbnail></animated_thumbnail>
     <thumbnail></thumbnail>
     <fanart></fanart>
 	<content></content>
 </plugin>
 
-<item>
-	<title>[COLORwhite][B]Nightmare[/COLOR][/B]<title>
+<plugin>
+	<title>[COLORwhite][B]Man City vs Stoke[/COLOR][/B]</title>
 	<link>
-		<sublink>http://dl.funsaber.net/serial/Narcos/season 1/720/Narcos.S01E01.720p.WEBrip.Funsaber_Net.mkv</sublink>
-		<sublink>http://sv4avadl.uploadet.ir/Movie/2017/08/911.Nightmare.2016.Lifetime.720p.HDrip.X264.AVADL.CO.mp4</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky3.html</sublink></link>
+		<sublink>plugin://program.plexus/?mode=1&url=acestream://8d4ebf6c4d2a823f499406797e53802dab7841cd(acestream)</sublink></link>
+		<sublink>http://sv4avadl.uploadet.ir/Movie/2017/08/911.Nightmare.2016.Lifetime.720p.HDrip.X264.AVADL.CO.mp4<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky3.html<sublink>
 	<animated_thumbnail></animated_thumbnail>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -55,11 +56,11 @@
 </item>
 
 <plugin>
-	<title>[COLORwhite][B]21:00 Tampa Bay Buccaneers[/COLOR][/B]<title>
+	<title>[COLORwhite][B]Swansea vs Huddersfield[/COLOR][/B]</title>
 	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/ny-giants-live-streaming</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/New_York_Giants_at_Tampa_Bay_Buccaneers_live_NFL/stream1</sublink></link>
+		<sublink>plugin://program.plexus/?mode=1&url=acestream://e7f90e0eb029c5ce015490cc41095faa50d7b70c(acestream)</sublink></link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/New_York_Giants_at_Tampa_Bay_Buccaneers_live_NFL/stream1<sublink>
 	<animated_thumbnail></animated_thumbnail>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -67,11 +68,11 @@
 </plugin>
 		
 <plugin>
-	<title>[COLORwhite][B]21:00 Denver Broncos vs Oakland Raiders[/COLOR][/B]<title>
+	<title>[COLORwhite][B]Tottenham vs Bournemouth[/COLOR][/B]<title>
 	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/denver-broncos-vs-oakland-raiders-live-streaming</sublink></link>
+		<sublink>plugin://program.plexus/?mode=1&url=acestream://32a62e640eabdabc5c18ed472b06029fbb3ae323(acestream)</sublink></link>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html<sublink>
+		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/denver-broncos-vs-oakland-raiders-live-streaming<sublink>
 	<animated_thumbnail></animated_thumbnail>
     <thumbnail></thumbnail>
     <fanart></fanart>
