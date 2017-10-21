@@ -15,7 +15,7 @@
 </item>
 
 <plugin>
-<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Chelsea vs Watford [/COLOR][B]</title>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Chelsea vs Watford [/COLOR][/B]</title>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://stream.net/sky1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
