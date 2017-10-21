@@ -36,7 +36,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-united-live-stream-live-stream<sublink>
 <sublink>http://www.streamhd.eu//football/huddersfield-vs-manchester-united-live-stream-159.php</sublink><link>
-
+<plugin>
+  
 <plugin>
 <title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Manchester City vs Burnley [/COLOR][/B]</title>
 <link>
@@ -45,7 +46,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-city-live-stream-live-stream<sublink>
 <sublink>http://www.streamhd.eu//football/manchester-city-vs-burnley-live-stream-159.php</sublink></link>
-
+</plugin>
+  
 <plugin>
 <title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Stoke City vs AFC Bournemouth [/COLOR][/B]</title>
 <link>
