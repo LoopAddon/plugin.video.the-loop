@@ -1,78 +1,181 @@
 <plugin>
-	<title>[COLORwhite][B]SCHEDULED GAMES FOR TUES 17TH OCTOBER BELOW[/COLOR][/B]</title>
-	<sportsdevil>http</sportsdevil>
-	<referer></referer>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
+<title>[COLORred][B]12:15 [/COLOR][/B][COLORwhite][B]Hibernian v Celtic [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]Real Madrid vs Tottenham[/COLOR][/B]</title>
-	<link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/real-madrid-live-stream</sublink>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink></link>
-	<fanart></fanart>
-	<content></content>
+<title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Chelsea v Watford [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/chelsea-live-stream<sublink>
+<sublink>http://www.streamhd.eu//football/chelsea-vs-watford-live-stream-159.php</sublink><link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]Man City vs Napoli[/COLOR][/B]</title>
-	<link>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-city-live-stream</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html</sublink></link>
-    <thumbnail></thumbnail>>
-    <fanart></fanart>
-	<content></content>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Huddersfield Town vs Manchester United [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix4.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv3.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-united-live-stream-live-stream<sublink>
+<sublink>http://www.streamhd.eu//football/huddersfield-vs-manchester-united-live-stream-159.php</sublink><link>
+
+<plugin>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Manchester City vs Burnley [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd3.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-city-live-stream-live-stream<sublink>
+<sublink>http://www.streamhd.eu//football/manchester-city-vs-burnley-live-stream-159.php</sublink></link>
+
+<plugin>
+<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Stoke City vs AFC Bournemouth [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix6.html</sublink>
+<sublink>http://www.streamhd.eu//football/stoke-city-vs-bournemouth-live-stream-159.php</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]Maribor vs Liverpool[/COLOR][/B]</title>
-	<link>
-                <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/liverpool-live-stream</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/btespn.html<sublink></link>
-	<animated_thumbnail></animated_thumbnail>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-	<content></content>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Newcastle United - Crystal Palace[/B][/COLOR]</title><link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink>
+<sublink>http://www.streamhd.eu//football/newcastle-united-vs-crystal-palace-live-stream-159.php</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]Man City vs Stoke[/COLOR][/B]<title>
-	<link>
-		<sublink>plugin://program.plexus/?mode=1&url=acestream://8d4ebf6c4d2a823f499406797e53802dab7841cd(acestream)</sublink></link>
-		<sublink>http://sv4avadl.uploadet.ir/Movie/2017/08/911.Nightmare.2016.Lifetime.720p.HDrip.X264.AVADL.CO.mp4<sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky3.html<sublink>
-	<animated_thumbnail></animated_thumbnail>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-	<content></content>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Stoke City - Bournemouth[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink></link>
+<sublink>http://www.streamhd.eu//football/swansea-city-vs-leicester-city-live-stream-159.php</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
 
 <plugin>
-	<title>[COLORwhite][B]Swansea vs Huddersfield[/COLOR][/B]<title>
-	<link>
-		<sublink>plugin://program.plexus/?mode=1&url=acestream://e7f90e0eb029c5ce015490cc41095faa50d7b70c(acestream)</sublink></link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html<sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.is/watch/New_York_Giants_at_Tampa_Bay_Buccaneers_live_NFL/stream1<sublink>
-	<animated_thumbnail></animated_thumbnail>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-	<content></content>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Swansea - Leicester[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch24.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
-		
+
 <plugin>
-	<title>[COLORwhite][B]Tottenham vs Bournemouth[/COLOR][/B]<title>
-	<link>
-		<sublink>plugin://program.plexus/?mode=1&url=acestream://32a62e640eabdabc5c18ed472b06029fbb3ae323(acestream)</sublink></link>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html<sublink>
-		<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/denver-broncos-vs-oakland-raiders-live-streaming<sublink>
-	<animated_thumbnail></animated_thumbnail>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-	<content></content>
+<title>[COLORred][B]17:00 [/COLOR][/B][COLORwhite][B]United States Grand Prix [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/skyf1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv5.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Millwall v Birmingham City [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]17:30 [/COLOR][/B][COLORwhite][B]Southampton v West Bromwich Albion [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv3.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
+<referer><referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]19:30 [/COLOR][/B][COLORwhite][B]Ryan Burnett v Zhanat Zhakiyanov [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Napoli v Inter Milan [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd4.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/napoli-live-stream-live-stream<sublink><link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Barcelona v Malaga [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/barcelona-live-stream -live-stream<sublink><link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]20:00 [/COLOR][/B][COLORwhite][B]NASCAR Xfinity: Kansas Lottery [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv3.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]21:00 [/COLOR][/B][COLORwhite][B]United States Grand Prix [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/skyf1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]00:40 [/COLOR][/B][COLORwhite][B]MotoGP Australian Grand Prix [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </plugin>
