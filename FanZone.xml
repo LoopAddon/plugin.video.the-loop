@@ -12,6 +12,7 @@
 <plugin>
 <title>[COLORred][B]12:30 [/COLOR][/B][COLORwhite][B]Chelsea v Watford [/COLOR][/B]</title>
 <link>
+<sublink>http://d238s258r8ln6u.cloudfront.net/hls/nbcsn_hd720.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
