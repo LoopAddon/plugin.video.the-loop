@@ -1,394 +1,98 @@
 <plugin>
-<title>[COLORred][B]12:00[/COLOR][/B][COLORwhite][B] Championship : Ipswich - Norwich[/B][/COLOR]</title>
+<title>[COLORwhite][B]19:45[/COLOR][/B][COLORwhite][B] Premiership : Hibernian - Hearts[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports13.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html<sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/hibernian-live-streaming/</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Inter Milan v Sampdoria [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports4.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/inter-milan-vs-sampdoria-live-stream-778.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/inter-milan-live-streaming/</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORwhite][B]19:45[/COLOR][/B][COLORwhite][B] League Cup : Swansea City - Manchester United[/B][/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsmainevent.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/hdlive/sky1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsmainevent.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skyfootball.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/swansea-city-vs-manchester-united-live-stream-778.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/swansea-city-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Bundesliga : FC Koln - SV Werder Bremen[/B][/COLOR]</title>
+<title>[COLORwhite][B]19:45[/COLOR][/B][COLORwhite][B] League Cup : Arsenal - Norwich City[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports12.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/arsenal-vs-norwich-city-live-stream-778.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/arsenal-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLORred][B]13:30[/COLOR][/B][COLORwhite][B] Premier League : Everton - Arsenal[/B][/COLOR]</title>
+<title>[COLORwhite][B]19:45[/COLOR][/B][COLORwhite][B] League Cup : Leicester City - Leeds United[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/leicester-city-vs-leeds-united-live-stream-778.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/leicester-city-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLORred][B]13:30[/COLOR][/B][COLORwhite][B] Eredivisie : Feyenoord - Ajax[/B][/COLOR]</title>
+<title>[COLORwhite][B]19:45[/COLOR][/B][COLORwhite][B] League Cup : Bristol City - Crystal Palace[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/bristol-city-vs-crystal-palace-live-stream-778.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/crystal-palace-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLORred][B]14:00[/COLOR][/B][COLORwhite][B] Serie A : AC Milan - Genoa[/B][/COLOR]</title>
+<title>[COLORwhite][B]19:45[/COLOR][/B][COLORwhite][B] League Cup : AFC Bournemouth - Middlesbrough[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch19.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/bournemouth-vs-middlesbrough-live-stream-778.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/afc-bournemouth-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 
 <plugin>
-<title>[COLORred][B]14:00[/COLOR][/B][COLORwhite][B] Serie A : Torino - AS Roma[/B][/COLOR]</title>
+<title>[COLORwhite][B]20:00[/COLOR][/B][COLORwhite][B] League Cup : Manchester City - Wolverhampton Wanderers[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]14:00[/COLOR][/B][COLORwhite][B] Serie A : Benevento - Fiorentina[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]14:00[/COLOR][/B][COLORwhite][B] Ligue 1 : Nice - Strasbourg[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] Bundesliga : SC Freiburg - Hertha Berlin[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] League Cup : Rangers - Motherwell[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]15:15[/COLOR][/B][COLORwhite][B] La Liga : Celta Vigo - Atl. Madrid[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch14.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]15:15[/COLOR][/B][COLORwhite][B] La Liga : Celta Vigo - Atl. Madrid[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]16:00[/COLOR][/B][COLORwhite][B] Premier League : Tottenham - Liverpool[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch13.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]16:00[/COLOR][/B][COLORwhite][B] Ligue 1 : Troyes - Olympique Lyon[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]16:00[/COLOR][/B][COLORwhite][B] Liga 1 : Astra - Voluntari[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] Bundesliga : Wolfsburg - Hoffenheim[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] Serie A : Udinese - Juventus[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] Jupiler League : Anderlecht - Genk[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch20.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] La Liga : Leganes - Ath Bilbao[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch14.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] La Liga : Leganes - Ath Bilbao[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] Serie A : Lazio - Cagliari[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] La Liga : Real Madrid - Eibar[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch14.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] La Liga : Real Madrid - Eibar[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]20:00[/COLOR][/B][COLORwhite][B] Ligue 1 : Marseille - Paris Saint Germain[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]20:00[/COLOR][/B][COLORwhite][B] Brazil - Serie A : Sao Paulo - Flamengo RJ[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]21:00[/COLOR][/B][COLORwhite][B] MLS : Atlanta United - Toronto FC[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]20:30[/COLOR][/B][COLORwhite][B] NBA : Atlanta Hawks - Brooklyn Nets[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]20:30[/COLOR][/B][COLORwhite][B] NBA : Atlanta Hawks - Brooklyn Nets[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]00:30[/COLOR][/B][COLORwhite][B] NBA : Minnesota Timberwolves - Oklahoma City Thunder[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Buffalo Bills - Tampa Bay Buccaneers[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Chicago Bears - Carolina Panthers[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Cleveland Browns - Tennessee Titans[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Green Bay Packers - New Orleans Saints[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Indianapolis Colts - Jacksonville Jaguars[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Los Angeles Rams - Arizona Cardinals[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Miami Dolphins - New York Jets[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Minnesota Vikings - Baltimore Ravens[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch24.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B]21:05[/COLOR][/B][COLORwhite][B] NFL : San Francisco 49ers - Dallas Cowboys[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : Los Angeles Chargers - Denver Broncos[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : Los Angeles Chargers - Denver Broncos[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : Pittsburgh Steelers - Cincinnati Bengals[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : New York Giants - Seattle Seahawks[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]01:30[/COLOR][/B][COLORwhite][B] NFL : Atlanta Falcons - New England Patriots[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]01:30[/COLOR][/B][COLORwhite][B] NFL : Atlanta Falcons - New England Patriots[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/football/manchester-city-vs-wolves-live-stream-778.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://http://sportslive4u.com/events/manchester-city-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
