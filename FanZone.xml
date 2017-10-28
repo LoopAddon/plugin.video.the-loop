@@ -68,6 +68,7 @@
 <plugin>
 <title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Manchester United vs Tottenham Hotspur[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-united-live-stream</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn-live-stream-watch-tsn-1-online-channel-free/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn4-live-stream-watch-tsn4-channel-online-free/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-11-hd-live-stream/</sublink>
