@@ -84,7 +84,7 @@
 <plugin>
 <title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Hearts vs Rangers[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-4-hd-live-stream/</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-4-hd-live-stream/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/snwl-live-stream-watch-sportsnet-snwl-online-tv-channel/</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Sky Sports Football Acestream)</sublink></link>
 <referer></referer>
