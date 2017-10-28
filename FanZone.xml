@@ -66,7 +66,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Manchester United vs Tottenham Hotspur[/B][/COLOR]</title>
+<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Manchester United vs Tottenham Hotspur[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/manchester-united-live-stream</sublink>
@@ -87,7 +87,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Hearts vs Rangers[/B][/COLOR]</title>
+<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Hearts vs Rangers[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-4-hd-live-stream/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/snwl-live-stream-watch-sportsnet-snwl-online-tv-channel/</sublink>
@@ -99,7 +99,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Arsenal vs Swansea City[/B][/COLOR]</title>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Arsenal vs Swansea City[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/01-sportsnet-ontario-live-stream-watch-sportsnet-ontario-online-free/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-9-hd-live-stream-watch-bein-sports-9-online-streaming-free/</sublink>
@@ -110,7 +110,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Crystal Palace vs West Ham United[/B][/COLOR]</title>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Crystal Palace vs West Ham United[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-12-hd-live-stream/</sublink></link>
 <referer></referer>
@@ -119,7 +119,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Liverpool vs Huddersfield Town[/B][/COLOR]</title>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Liverpool vs Huddersfield Town[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn4-live-stream-watch-tsn4-channel-online-free/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix6.html</sublink></link>
@@ -129,7 +129,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Watford vs Stoke City[/B][/COLOR]</title>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Watford vs Stoke City[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/snwl-live-stream-watch-sportsnet-snwl-online-tv-channel/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-10-hd-live-stream-watch-bein-sports-10-online-streaming-free/</sublink></link>
@@ -139,7 +139,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] West Bromwich Albion vs Manchester City[/B][/COLOR]</title>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] West Bromwich Albion vs Manchester City[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/tsn-live-stream-watch-tsn-1-online-channel-free/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-11-hd-live-stream/</sublink>
@@ -151,7 +151,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Cardiff City vs Millwall[/B][/COLOR]</title>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Cardiff City vs Millwall[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/arena-sport-1-live-stream-watch-arena-sport-1-serbia-online-arena-sport-1/</sublink></link>
 <referer></referer>
@@ -160,7 +160,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]16:00[/COLOR][/B][COLORwhite][B] F1 Mexican GP Practice 3[/B][/COLOR]</title>
+<title>[COLORred][B]16:00[/COLOR][/B][COLORwhite][B] F1 Mexican GP Practice 3[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/02-sky-sports-f1-live-stream-formula-one-hd-online-channel/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/skyf1.html</sublink></link>
@@ -170,7 +170,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] Milan vs Juventus[/B][/COLOR]</title>
+<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] Milan vs Juventus[/B][/COLOR]<title>
 <link>
 <subink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ripple.is/football/909-milan-vs-juventus(HD 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html</sublink>
@@ -182,7 +182,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] Hull City vs Nottingham Forest[/B][/COLOR]</title>
+<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] Hull City vs Nottingham Forest[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bein-sports-12-hd-live-stream/</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html</sublink>
@@ -192,7 +192,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] AFC Bournemouth vs Chelsea[/B][/COLOR]</title>
+<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] AFC Bournemouth vs Chelsea[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/snwl-live-stream-watch-sportsnet-snwl-online-tv-channel/</sublink>
@@ -205,7 +205,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] Bayern Munich v Red Bull Leipzig[/B][/COLOR]</title>
+<title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] Bayern Munich v Red Bull Leipzig[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/bt-sport-2-full-hd-live-stream-720-1080p/</sublink></link>
@@ -217,7 +217,7 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]19:00[/COLOR][/B][COLORwhite][B] F1 Mexican Grand Prix Qualifying[/B][/COLOR]</title>
+<title>[COLORred][B]19:00[/COLOR][/B][COLORwhite][B] F1 Mexican Grand Prix Qualifying[/B][/COLOR]<title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/02-sky-sports-f1-live-stream-formula-one-hd-online-channel/</sublink></link>
 <referer></referer>
@@ -226,14 +226,30 @@
 </plugin>
 
 <plugin>
-<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] Athletic Club vs Barcelona[/B][/COLOR]<title>
+<title>[COLORgold][B]18:00[/COLOR][/B] [COLORwhite][B]Sky Box Office Fight Night[/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/02-sky-sports-f1-live-stream-formula-one-hd-online-channel/</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skysportsbox.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/boxing.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream62.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix6.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu/box/anthony-joshua-vs-carlos-takam-live-stream-789.php</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://b56c4c030e66baec8f9b65a88a84b5646722aa4c(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f00e6dc58e57f500cde35db3fb1f24193cbe1e99(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://dded4fb559b45472ff51a8aa45d77ff7e56247a0(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://d3f08c78c5a51bde188f32a76ed65ebc7b0b78ca(Acestream)</sublink></link>
+</plugin>
+
+<item>
+<title>[COLORgold][B]18:00[/COLOR][/B] [COLORwhite][B]Sky Box Office Fight Night[/COLOR][/B]</title>
+<link>
+<sublink>http://n.riere.club/live/ep455/chunks.m3u8</sublink>
+<sublink>http://live.protectedwebsites.com:8081/channels/streamcr7netmotogp/playlist.m3u8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 
 <plugin>
 <title>[COLORred][B]00:00[/COLOR][/B][COLORwhite][B] Pittsburgh Penguins v Edmonton Oilers[/B][/COLOR]</title>
