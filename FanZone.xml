@@ -111,6 +111,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : Buffalo Bills - Oakland Raiders[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/nfl-2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch27.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -119,6 +120,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : Cincinnati Bengals - Indianapolis Colts[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -127,6 +129,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : New England Patriots - Los Angeles Chargers[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/nfl-live.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -135,6 +138,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : New Orleans Saints - Chicago Bears[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/nfl-4.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -143,6 +147,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : New York Jets - Atlanta Falcons[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/nfl-3.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -151,6 +156,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : Philadelphia Eagles - San Francisco 49ers[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/nfl-5.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -159,6 +165,7 @@
 <plugin>
 <title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] NFL : Tampa Bay Buccaneers - Carolina Panthers[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/nfl-6.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
