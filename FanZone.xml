@@ -101,9 +101,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
-<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B] Jupiler League : Standard Liege - Waasland-Beveren[/B][/COLOR]</title><link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch20.html</sublink></link>
+<item>
+<title>[COLORred][B][/COLOR][/B][COLORwhite][B] NFL Redzone[/B][/COLOR]</title>
+<link>
+<sublink>http://nlds136.cdnllnwnl.neulion.com/nlds/nfl/nflxrz/as/live/nflxrz_hd_4500_ipad.m3u8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
