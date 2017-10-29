@@ -1,6 +1,12 @@
 <plugin>
 <title>[COLORred][B][/COLOR][/B][COLORwhite][B]These Links are Acestream Links and require the Pulsar Addon installed[/B][/COLOR]</title>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]You also may need to use a VPN for these links[/B][/COLOR]</title>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<title>[COLORred][B][/COLOR][/B][COLORwhite][B]A VPN is also recommended[/B][/COLOR]</title>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
