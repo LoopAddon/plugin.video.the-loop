@@ -44,8 +44,8 @@
 <plugin>
 <title>[COLORred][B]23:30 [/COLOR][/B][COLORwhite][B]Boston Celtics v San Antonio Spurs [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html(Boston Celtics vs San Antonio)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html(Boston Celtics vs San Antonio)</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html(Boston Celtics vs San Antonio Spurs)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html(Boston Celtics vs San Antonio Spurs)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
