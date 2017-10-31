@@ -1,8 +1,8 @@
 <plugin>
 <title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Manchester United v Benfica [/COLOR][/B]</title>
 <link>
-<sublink>http://z.riere.club/live/ep2/chunks.m3u8(Man Utd vs Benfica)</sublink>
-<sublink>https://ssh101.com/m3u8/dyn/stream1besa/index.m3u8(Man Utd vs Benfica)</sublink></link>
+<sublink>http://z.riere.club/live/ep2/chunks.m3u8</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/stream1besa/index.m3u8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -10,7 +10,7 @@
 <plugin>
 <title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Manchester United v Benfica [/COLOR][/B]</title>
 <link>
-<subink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Man Utd v Benfica 720p)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Man Utd v Benfica 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html(Manchester United vs Benfica)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html(Manchester United vs Benfica)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html(Manchester United vs Benfica)</sublink>
@@ -31,7 +31,7 @@
 <plugin>
 <title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Roma v Chelsea [/COLOR][/B]</title>
 <link>
-<subink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-2.php(Roma v Chelsea 720p)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-2.php(Roma v Chelsea 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd3.html(Roma vs Chelsea)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html(Roma vs Chelsea)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html(Roma vs Chelsea)</sublink>
@@ -54,7 +54,7 @@
 <plugin>
 <title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Celtic v Bayern Munich [/COLOR][/B]</title>
 <link>
-<subink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-4.php(Celtic v Bayern Munich 720p)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-4.php(Celtic v Bayern Munich 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/btespn.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink>
@@ -98,7 +98,6 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix4.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd4.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
-
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
