@@ -1,92 +1,162 @@
 <plugin>
-<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Hellas Verona v Inter Milan [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Manchester United v Benfica [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html(Hellas Verona vs Inter Milan)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html(Hellas Verona vs Inter Milan)</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]20:00 [/COLOR][/B][COLORwhite][B]Burnley v Newcastle United [/COLOR][/B]</title>
-<link>
-<sublink>http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&.m3u8(Burnley vs Newcastle 1080p)</sublink>
-<sublink>http://n.riere.club/live/ep1/chunks.m3u8(Burnley v Newcastle 720p)</sublink>
-<sublink>http://delta.xcire.tk/live.m3u8(Burnley vs Newcastle 720p)</sublink></link>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]20:00 [/COLOR][/B][COLORwhite][B]Burnley v Newcastle United [/COLOR][/B]</title>
-<link>
-<subink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Burnley v Newcastle 720p)</sublink>
-<subink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ripple.is/football/926-burnley-vs-newcastle-united(Burnley v Newcastle 720p)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html(Burnley vs Newcastle)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html(Burnley vs Newcastle)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html(Burnley vs Newcastle)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Burnley vs Newcastle Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9(Burnley vs Newcastle Acestream)</sublink> 
-<sublink>plugin://program.plexus/?mode=1&url=acestream://84f8ca64aa9a320b1ddb8f16fdba8548c2ada5f6(Bein Sports 11)</sublink></link>
+<sublink></sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]20:00 [/COLOR][/B][COLORwhite][B]Espanyol v Real Betis [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Manchester United v Benfica [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html(Espanyol vs Real Betis)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html(Espanyol vs Real Betis)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html(Espanyol vs Real Betis)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Espanyol vs Real Betis Acestream)</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt3.html(Manchester United vs Benfica)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd1.html(Manchester United vs Benfica)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html(Manchester United vs Benfica)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://ab27ae38d84e13f3831733b9a6967a5aa304ff2e(Manchester United vs Benfica Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://684c5ff6704bec4f60f10646572b18827a1e3c6b(Manchester United vs Benfica Acestream)</sublink></link>
+
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]23:00 [/COLOR][/B][COLORwhite][B]New York Red Bulls v Toronto FC [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Roma v Chelsea [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html(NY Red Bulls vs Toronto FC)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html(NY Red Bulls vs Toronto FC)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html(NY Red Bulls vs Toronto FC)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(NY Red Bulls vs Toronto FC Acestream)</sublink></link>
+<sublink></sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]23:30 [/COLOR][/B][COLORwhite][B]Boston Celtics v San Antonio Spurs [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Roma v Chelsea [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html(Boston Celtics vs San Antonio Spurs)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html(Boston Celtics vs San Antonio Spurs)</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd3.html(Roma vs Chelsea)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html(Roma vs Chelsea)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html(Roma vs Chelsea)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html(Roma vs Chelsea)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://becf1899b47ad0bdd439370dd75439ee11a7f79b(Roma vs Chelsea Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9(Roma vs Chelsea Acestream)</sublink></link>
+
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]00:15 [/COLOR][/B][COLORwhite][B]Kansas City Chiefs v Denver Broncos [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Celtic v Bayern Munich [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html(Kansas City Chiefs vs Denver Broncos)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html(Kansas City Chiefs vs Denver Broncos)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html(Kansas City Chiefs vs Denver Broncos)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Kansas City Chiefs vs Denver Broncos Acestream)</sublink></link>
+<sublink></sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]01:30 [/COLOR][/B][COLORwhite][B]Houston Dynamo v Portland [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Celtic v Bayern Munich [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html(Houston Dynamo vs Portland)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html(Houston Dynamo vs Portland)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Houston Dynamo vs Portland Acestream)</sublink></link>
-  <referer></referer>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/btespn.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch14.html</sublink></link>
+<referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]02:30 [/COLOR][/B][COLORwhite][B]Los Angeles Clippers v Golden State Warriors [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Olympiakos v Barcelona [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt1.html(LA Clippers vs Golden State Warriors)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html(LA Clippers vs Golden State Warriors)</sublink></link>
+<sublink></sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Olympiakos v Barcelona [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sptv2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix3.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Sporting CP v Juventus [/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Sporting CP v Juventus [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix4.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd4.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
+
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Paris Saint Germain v Anderlecht [/COLOR][/B]</title>
+<link>
+<sublink></sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Paris Saint Germain v Anderlecht [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/hd5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch13.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Atletico Madrid v FK Qarabag [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix6.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]FC Basel v CSKA Moscow [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/mix7.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:30[/COLOR][/B][COLORwhite][B] NHL : Detroit Red Wings - Arizona[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 [/COLOR][/B][COLORwhite][B]Milwaukee Bucks v Oklahoma City Thunder [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/bt2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 [/COLOR][/B][COLORwhite][B]Columbus Crew v New York City FC [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
