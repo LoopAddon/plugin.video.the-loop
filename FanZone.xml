@@ -14,6 +14,7 @@
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Real Madrid vs Tottenham [/COLOR][/B]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Real Madrid vs Tottenham Hotspur 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html(Real Madrid vs Tottenham Hotspur)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html(Real Madrid vs Tottenham Hotspur )</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/tottenham-hotspur-vs-real-madrid-live-stream-279.php(Real Madrid vs Tottenham Hotspur)</sublink>
@@ -26,6 +27,7 @@
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Liverpool vs Maribor [/COLOR][/B]</title>
 <link>
+<sublïink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-3.php(Liverpool v Maribor 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html(Liverpool vs Maribor)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch13.html(Liverpool vs Maribor)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/liverpool-vs-maribor-live-stream-279.php(Liverpool vs Maribor)</sublink>
@@ -38,6 +40,7 @@
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Manchester City vs Napoli [/COLOR][/B]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-2.php(Manchester City vs Napoli 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html(Manchester City vs Napoli)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html(Manchester City vs Napoli)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/napoli-vs-manchester-city-live-stream-279.php(Manchester City vs Napoli)</sublink>
@@ -64,6 +67,9 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html(Preston North End vs Aston Villa)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/preston-north-end-live-streaming/(Preston North End vs Aston Villa)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strimi.world/s/skysf.html(Villa v Preston 720p)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.dailysport.club/p/adsbygoogle-window_1.html(Villa v Preston)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://streamsport.online//SkySports1.html(Villa v Preston)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html(Villa v Preston 540p)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Preston North End vs Aston Villa Acestream)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Preston North End vs Aston Villa Acestream)</sublink></link>
 <referer></referer>
