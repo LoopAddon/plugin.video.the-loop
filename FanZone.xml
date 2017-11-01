@@ -1,16 +1,11 @@
-<plugin>
-<title>[COLORgold][B]17:00 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Besiktas - AS Monaco [/COLOR][/B]</title>
+<item>
+<title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Real Madrid vs Tottenham [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html(Besiktas vs AS Monaco)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html(Besiktas vs AS Monaco)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/besiktas-vs-monaco-live-stream-279.php(Besiktas vs AS Monaco)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/besiktas-live-streaming/(Besiktas vs AS Monaco)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://becf1899b47ad0bdd439370dd75439ee11a7f79b(Besiktas vs AS Monaco Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9(Besiktas vs AS Monaco Acestream)</sublink></link>
+<link>https://ssh101.com/m3u8/dyn/lovesportify/index.m3u8</link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/media/DMUQYxqVQAANRYN.jpg</thumbnail>
 <fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Real Madrid vs Tottenham [/COLOR][/B]</title>
 <link>
@@ -28,6 +23,7 @@
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Liverpool vs Maribor [/COLOR][/B]</title>
 <link>
 <sublïink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-3.php(Liverpool v Maribor 720p)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportsonline.pw/channels/hd/hd2.html(Liverpool v Maribor 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html(Liverpool vs Maribor)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch13.html(Liverpool vs Maribor)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/liverpool-vs-maribor-live-stream-279.php(Liverpool vs Maribor)</sublink>
