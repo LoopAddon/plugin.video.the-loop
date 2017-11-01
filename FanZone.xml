@@ -9,7 +9,7 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9(Besiktas vs AS Monaco Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Real Madrid vs Tottenham [/COLOR][/B]</title>
@@ -21,7 +21,7 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9(Real Madrid vs Tottenham Hotspur Acestream)</sublink></link>
 <referer></referer>
 <thumbnail>https://pbs.twimg.com/media/DMUQYxqVQAANRYN.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Liverpool vs Maribor [/COLOR][/B]</title>
@@ -33,7 +33,7 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://f8b9818541333c1a21b430709753eadfb7f85074(Liverpool vs Maribor Acestream)</sublink></link>
 <referer></referer>
 <thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/liverpool-150x150.png</thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Manchester City vs Napoli [/COLOR][/B]</title>
@@ -46,7 +46,7 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://becf1899b47ad0bdd439370dd75439ee11a7f79b(Manchester City vs Napoli Acestream)</sublink></link>
 <referer></referer>
 <thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/manchester-city-150x150.png</thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Shakhtar Donetsk vs Feyenoord [/COLOR][/B]</title>
@@ -56,7 +56,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/shakhtar-donetsk-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 <item>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]Preston North End vs Aston Villa [/COLOR][/B]</title>
 <link>
@@ -76,7 +76,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/sevilla-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/sevilla-150x150.png</thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : FC Porto vs Red Bull Leipzig [/COLOR][/B]</title>
@@ -86,7 +86,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/fc-porto-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORgold][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League : Borussia Dortmund vs APOEL FC [/COLOR][/B]</title>
@@ -97,5 +97,6 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/borussia-dortmund-live-streaming/</sublink></link>
 <referer></referer>
 <thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/borussia-dortmund-150x150.png</thumbnail>
+<fanart>https://i.pinimg.com/736x/a6/95/c9/a695c97fdfb2661aba5fc9cc7bac5c77--expulsion-uefa-champions-league.jpg</fanart>
 </plugin>
   
