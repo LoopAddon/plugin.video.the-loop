@@ -1,11 +1,11 @@
-<item>
+<plugin>
 <title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 1[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-1-live-streaming/</sublink></link>
 <referer></referer>
 </thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 <plugin>
 <title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 2[/COLOR][/B]</title>
 <link>
