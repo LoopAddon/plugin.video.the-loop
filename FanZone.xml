@@ -32,7 +32,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/liverpool-live-streaming/(Liverpool vs Maribor)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://f8b9818541333c1a21b430709753eadfb7f85074(Liverpool vs Maribor Acestream)</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/liverpool-150x150.png</thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
@@ -45,7 +45,7 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://ab27ae38d84e13f3831733b9a6967a5aa304ff2e(Manchester City vs Napoli Acestream)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://becf1899b47ad0bdd439370dd75439ee11a7f79b(Manchester City vs Napoli Acestream)</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/manchester-city-150x150.png</thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
@@ -75,7 +75,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/sevilla-vs-spartak-moscow-live-stream-279.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/sevilla-live-streaming/</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/sevilla-150x150.png</thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
@@ -96,6 +96,6 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/borussia-dortmund-vs-apoel-nicosia-live-stream-279.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/borussia-dortmund-live-streaming/</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.football-stream.net/wp-content/uploads/2017/04/borussia-dortmund-150x150.png</thumbnail>
 </plugin>
+  
