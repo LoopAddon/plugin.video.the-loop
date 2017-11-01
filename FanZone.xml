@@ -19,9 +19,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamhd.eu//football/tottenham-hotspur-vs-real-madrid-live-stream-279.php(Real Madrid vs Tottenham Hotspur)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/real-madrid-live-streaming/(Real Madrid vs Tottenham Hotspur)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://0b8b0ac138cbc2bcc17527e8823f27c16665f6a9(Real Madrid vs Tottenham Hotspur Acestream)</sublink></link>
-
 <referer></referer>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/media/DMUQYxqVQAANRYN.jpg</thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
