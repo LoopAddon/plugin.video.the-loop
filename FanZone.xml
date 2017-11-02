@@ -25,9 +25,20 @@
 <thumbnail>https://leaguelane.com/wp-content/uploads/2017/10/AEK-Athens-vs-AC-Milan-Predictions-Europa-League.jpg</thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] Europa League : Europa League : Lyon - Everton[/B][/COLOR]</title>
+<link>
+<sublink>http://delta.xcire.tk/live.m3u8</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/cripto/index.m3u8</sublink></link>
+<referer></referer>
+<thumbnail>http://www.prediksiskor.co.id/wp-content/uploads/2017/11/Prediksi-Skor-Olympique-Lyonnais-vs-Everton-3-November-2017.jpg</thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
 <title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] Europa League : Lyon - Everton[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://supermanstream.com/4.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strimi.world/s/bts2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
