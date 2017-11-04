@@ -1,10 +1,10 @@
-<plugin>
+<item>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Championship: Villa - Sheffield Wednesday[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.hesgoal.com/news/21828/Aston_Villa_vs_Sheffield_Wednesday.html</link>
+http://127.0.0.1:6878/ace/getstream?id=4bd1ec7d04fa246b433ca0f797e57a3483cc317e&hlc=1&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Newcastle United - Bournemouth[/B][/COLOR]</title>
 <link>
