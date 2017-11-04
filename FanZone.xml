@@ -1,4 +1,11 @@
 <plugin>
+<title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Championship: Villa - Sheffield Wednesday[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.hesgoal.com/news/21828/Aston_Villa_vs_Sheffield_Wednesday.html</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin
+<plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Newcastle United - Bournemouth[/B][/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Newcastle vs Burnley 720p)</sublink>
