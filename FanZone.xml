@@ -1,81 +1,7 @@
 <plugin>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Premiership : St Johnstone - Celtic[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Premier League : Stoke City - Leicester[/B][/COLOR]</title>
-<link>
-<sublink>http://iptv4u.club/site/freeiptv?channel=skysportspremierleague&e=1508211057&acc=test&exp=1510789576&.m3u8(Stoke City vs Leicester 1080p)</sublink>
-<sublink>http://n.riere.club/live/ep1/chunks.m3u8(Stoke City vs Leicester 720p)</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] Premier League : Stoke City - Leicester[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Stoke vs Leicester 720p)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html(Stoke vs Leicester)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html(Stoke vs Leicester)</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30[/COLOR][/B][COLORwhite][B] FA Cup 1st Round : Shaw Lane - Mansfield Town[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] Bundesliga : Borussia Monchengladbach - Mainz 05[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] Bundesliga : FC Augsburg - Bayer Leverkusen[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] Bundesliga : Hamburger SV - VfB Stuttgart[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] Bundesliga : RB Leipzig - Hannover[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:30[/COLOR][/B][COLORwhite][B] Bundesliga : Freiburg - Schalke[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Newcastle United - Bournemouth[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php(Newcastle vs Burnley 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -84,6 +10,7 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Huddersfield - West Brom[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-2.php(Huddersfield vs West Brom 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -92,6 +19,7 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Southampton - Burnley[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-3.php(Southampton vs Burnley 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -131,6 +59,7 @@
 <plugin>
 <title>[COLORred][B]17:30[/COLOR][/B][COLORwhite][B] Premier League : West Ham - Liverpool[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer-4.php(West Ham vs Liverpool 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink></link>
 <referer></referer>
