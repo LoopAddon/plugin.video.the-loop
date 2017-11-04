@@ -49,6 +49,7 @@
 <plugin>
 <title>[COLORred][B]02:00[/COLOR][/B][COLORwhite][B] UFC 217 : Bisping v St-Pierre[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://buffstreamz.com/watch/soccer.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
