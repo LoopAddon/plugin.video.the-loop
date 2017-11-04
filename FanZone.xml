@@ -10,10 +10,10 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strimi.world/s/skymain.html(Chisora v Kabayel 720p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://4f76bc402371ab7a460002d1e183b6f06f9d57c6(Chisora v Kabayel HD Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://6e8d0e5f8ae562ef5e782b95d829c1b822ce8110(Chisora v Kabayel HD Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Chisora v Kabayel SD Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Chisora v Kabayel SD Acestream)</sublink></link>
+<sublink>plugin://program.video.plexus/?mode=1&url=acestream://4f76bc402371ab7a460002d1e183b6f06f9d57c6(Chisora v Kabayel HD Acestream)</sublink>
+<sublink>plugin://program.video.plexus/?mode=1&url=acestream://6e8d0e5f8ae562ef5e782b95d829c1b822ce8110(Chisora v Kabayel HD Acestream)</sublink>
+<sublink>plugin://program.video.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Chisora v Kabayel SD Acestream)</sublink>
+<sublink>plugin://program.video.plexus/?mode=1&url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Chisora v Kabayel SD Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
