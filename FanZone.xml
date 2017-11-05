@@ -250,6 +250,7 @@
 <plugin>
 <title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Philadelphia Eagles - Denver Broncos[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://101sportz.com/nfl1.html/(Eagles @ Broncos)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch27.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -346,6 +347,8 @@
 <plugin>
 <title>[COLORred][B]21:05[/COLOR][/B][COLORwhite][B] NFL : Seattle Seahawks - Washington Redskins[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.w3lovesport.me/p/washington-redskins-seattle-seahawks.html/(Redskins @ Seahawks)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nfl-stream.live/seattle-seahawks-live-stream/(Redskins @ Seahawks)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
