@@ -1,5 +1,5 @@
 <plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]These Links are Acestream Links and require the Pulsar Addon installed[/B][/COLOR]</title>
+<title>[COLORred][B][/COLOR][/B][COLORwhite][B]These Links are Acestream Links and require the Plexus Addon installed[/B][/COLOR]</title>
 <title>[COLORred][B][/COLOR][/B][COLORwhite][B]You also may need to use a VPN for these links[/B][/COLOR]</title>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -9,7 +9,7 @@
 <plugin>
 <title>[COLORred][B][/COLOR][/B][COLORwhite][B]Sky Sports Football [/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Acestream)</sublink></link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f239723176264f77680507cab70a606a1876451a(Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -27,7 +27,7 @@
 <plugin>
 <title>[COLORred][B][/COLOR][/B][COLORwhite][B]Sky Sports Premier League [/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9(Acestream)</sublink></link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://bb5711b3f7ab00bdcf5702ca69b9a178d81c7f51(Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -63,7 +63,7 @@
 <plugin>
 <title>[COLORred][B][/COLOR][/B][COLORwhite][B]BT Sport 1 [/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://3cf32325ca45e0179e0b1a3e3ad8d2de5296edcd(Acestream)</sublink></link>
+<sublink>plugin://program.plexus/?mode=1&url=4c0ede503809a1e170f4407b09c1cba7addbe500(Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -81,7 +81,7 @@
 <plugin>
 <title>[COLORred][B][/COLOR][/B][COLORwhite][B]BT Sport 2 [/COLOR][/B]</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6(Acestream)</sublink></link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://5ca49262061442df2256ebdf3dd3945d82bf66f5(Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
