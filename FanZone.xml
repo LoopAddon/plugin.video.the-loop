@@ -1,20 +1,19 @@
 <item>
-<title>[COLORred][B]12:45[/COLOR][/B][COLORwhite][B] Live Snooker - Champion of Champions[/B][/COLOR]</title>
+<title>[COLORgold][B]12:45[/COLOR][/B][COLORgold][B] Live Snooker - Champion of Champions[/B][/COLOR]</title>
 <link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link> 
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
-<title>[COLORred][B]19:00/COLOR][/B][COLORwhite][B] FA Cup  : Second Round Draw Live[/B][/COLOR]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
+<item>
+<title>[COLORgold][B]19:00[/COLOR][/B][COLORgold][B] FA Cup  : Second Round Draw Live[/B][/COLOR]</title>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
-<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] FA Cup : Chorley - Fleetwood Town[/B][/COLOR]</title>
+<title>[COLORgold][B]19:45[/COLOR][/B][COLORgold][B] FA Cup : Chorley - Fleetwood Town[/B][/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
 <referer></referer>
@@ -22,7 +21,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]00:30[/COLOR][/B][COLORwhite][B] NBA : Boston Celtics - Atlanta Hawks[/B][/COLOR]</title>
+<title>[COLORgold][B]00:30[/COLOR][/B][COLORgold][B] NBA : Boston Celtics - Atlanta Hawks[/B][/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
 <referer></referer>
@@ -30,7 +29,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]01:15[/COLOR][/B][COLORwhite][B] NFL : Detroit Lions - Green Bay Packers[/B][/COLOR]</title>
+<title>[COLORgold][B]01:15[/COLOR][/B][COLORgold][B] NFL : Detroit Lions - Green Bay Packers[/B][/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink></link>
 <referer></referer>
@@ -38,7 +37,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]03:30[/COLOR][/B][COLORwhite][B] NBA : Miami Heat - Golden State Warriors[/B][/COLOR]</title>
+<title>[COLORgold][B]03:30[/COLOR][/B][COLORgold][B] NBA : Miami Heat - Golden State Warriors[/B][/COLOR]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch19.html</sublink></link>
 <referer></referer>
