@@ -22,7 +22,9 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsfootball.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/portu/p4.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/sportsnetwork/st10.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsfootball.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsfootball.php</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a586363dd38c30c37fd952bc17b8faddcbc8391a(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -34,7 +36,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsmix.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/portu/p3.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/sportsnetwork/st7.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsmix.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsmix.php</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://9270eaa9778dba3beb5f9566bf459b54a1c5b97a(Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -46,7 +49,9 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsmainevent.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/portu/p2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/freehdsport/freess1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsmainevent.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsmainevent.php</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://bc5b6ee403b69a6288589e919c9940a186fa88bc(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -68,7 +73,7 @@
 <fanart></fanart>
 </plugin>
 <item>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]NFL Test[/COLOR][/B]</title>
+<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]THE LOOP NFL Test[/COLOR][/B]</title>
 <link>
 <sublink>http://nlds310.cdnllnwnl.neulion.com/nlds/nba/phi/as/live/nlncp/phi_hd_6000_ipad.m3u8</sublink></link>
 <referer>http://www.islington.stream/keys/ignba?id=310&ndks=1&url=/nlds/nba/phi/as/live/nlncp/phi_hd_6000/m3u8.key</referer>
