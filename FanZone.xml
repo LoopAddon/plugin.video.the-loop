@@ -6,7 +6,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 1[/COLOR][/B]</title>
+<title>[COLORgold][B]19:45[/COLOR][/B][COLORwhite][B] Friendly : Scotland - Netherlands[/B][/COLOR]</title>
 <link>
 <sublink>http://env-0517592.jl.serv.net.mx/tmg.m3u8?stream=sky-sports-main-event&expired=bd8b5d8aae522462c8a726e968480d8a&token=69c83846844ecaf2bd4d78eb9653743b/</sublink>
 <sublink>http://62.210.102.2:8080/live/nino/nino/32743.m3u8?token=TBsKBUQJFgMXAVBSDAFdVA4DBlIPBQAIVwIBB1ZcB1UFDVICA1FWCFNBH0BGR0sBWFg9X1wUWAoHAgYBHkcUR1JLPQ1TQw4bAVQDVhcfGxBQWAcUAgZOG0VcVhAIR1AHBQpaRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdTEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQbTkZVCEBLVBdWQA8RCFIBDUAaGlUNTFtBQEsQX0N6extORlIZQFxbEFoNWxEDRlQGFw4aGkBQRmpAV0ERE1FWVAcWFVsWCRdPEQ9US2YHVlsMU1tCC1ZbRhAIEFRDGBVUDQpeFVtLahNaBhcJG1cPAVMPGks=</sublink></link>
@@ -15,200 +15,49 @@
 <fanart></fanart>
 </item>
 <plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 2[/COLOR][/B]</title>
+<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] Friendly : Scotland - Netherlands[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-2-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 3[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-3-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 4[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-4-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 5[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-5-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports F1[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-f1-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports News[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-news-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports Mix[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-mix-live-streaming/</sublink></link><referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Bt Sport 1[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/bt-sport-1-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Bt Sport 2[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/bt-sport-2-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Bt Sport 3[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/bt-sport-3-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Bt Sport Espn[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/bt-sport-espn-uk-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Eurosport 1[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/eurosport-1-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Eurosport 2[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/eurosport-2-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Fox Sports 1[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/fox-sports-1-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Fox Sports 2[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/fox-sports-2-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Premier Sports[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/premier-sport-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Star Sports 1[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/star-sports-1-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Ten Sports[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/ten-sports-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sony Six[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sony-six-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Bein Sports USA[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/bein-sport-1-usa-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Box Nation[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/box-nation-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Ptv Sports[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/ptv-sports-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]NFL Network[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/nfl-network-live-streaming/</sublink></link>
-<referer></referer>
-</thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]Scheduled [/COLOR][/B][COLORwhite][B]08:00 Nov 04 2017 - Bangladesh Premier League 2017 BPL T20[/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/bangladesh-premier-league-bpl-t20-live-streaming/</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strimi.world/s/skysf.html(Scotland v Holland)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink> </link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]Scheduled [/COLOR][/B][COLORwhite][B]19:30 Nov 07 2017 - Andy Murray Charity Tennis[/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] World Cup Qualifying : Croatia - Greece[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/events/andy-murray-charity-tennis-live-streaming/</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] World Cup Qualifying : Northern Ireland - Switzerland[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B] Friendly : Scotland - Netherlands[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<title>[COLORred][B]01:00[/COLOR][/B][COLORwhite][B] NBA : Houston Rockets - Cleveland Cavaliers[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:25[/COLOR][/B][COLORwhite][B] NFL : Arizona Cardinals - Seattle Seahawks[/B][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
