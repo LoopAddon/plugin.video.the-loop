@@ -5,14 +5,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 1[/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportslive4u.com/channels/sky-sports-1-live-streaming/</sublink></link>
+<sublink>http://env-0517592.jl.serv.net.mx/tmg.m3u8?stream=sky-sports-main-event&expired=bd8b5d8aae522462c8a726e968480d8a&token=69c83846844ecaf2bd4d78eb9653743b/</sublink>
+<sublink>http://62.210.102.2:8080/live/nino/nino/32743.m3u8?token=TBsKBUQJFgMXAVBSDAFdVA4DBlIPBQAIVwIBB1ZcB1UFDVICA1FWCFNBH0BGR0sBWFg9X1wUWAoHAgYBHkcUR1JLPQ1TQw4bAVQDVhcfGxBQWAcUAgZOG0VcVhAIR1AHBQpaRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdTEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQbTkZVCEBLVBdWQA8RCFIBDUAaGlUNTFtBQEsQX0N6extORlIZQFxbEFoNWxEDRlQGFw4aGkBQRmpAV0ERE1FWVAcWFVsWCRdPEQ9US2YHVlsMU1tCC1ZbRhAIEFRDGBVUDQpeFVtLahNaBhcJG1cPAVMPGks=</sublink></link>
 <referer></referer>
 </thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]Sky Sports 2[/COLOR][/B]</title>
 <link>
