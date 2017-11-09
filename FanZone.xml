@@ -67,3 +67,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]Live TV [/COLOR][/B][COLORwhite][B]NFL Test[/COLOR][/B]</title>
+<link>
+<sublink>http://nlds310.cdnllnwnl.neulion.com/nlds/nba/phi/as/live/nlncp/phi_hd_6000_ipad.m3u8</sublink></link>
+<referer>http://www.islington.stream/keys/ignba?id=310&ndks=1&url=/nlds/nba/phi/as/live/nlncp/phi_hd_6000/m3u8.key</referer>
+</thumbnail></thumbnail>
+<fanart></fanart>
+</item>
