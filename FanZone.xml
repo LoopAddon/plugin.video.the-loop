@@ -199,6 +199,9 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]World Cup Qualifying Denmark vs Ireland Republic [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3[Denmark vs Ireland Acestream 1]</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2b77a73dcd3e7b1fb74b6f8182809cfb9c62c810[Sky Sports Main Event Acestream 2]</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strimi.world/s/skysf.html(Denmark v Rep of Ireland)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Denmark_vs_Ireland_Republic_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -226,6 +229,10 @@
 <title>[COLORred][B]20:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live Grand Slam of Darts 2017 Day One - Session Two [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Day_One_-_Session_Two_live_Darts/skysportsaction</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsaction.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream120.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsaction.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Day_One_-_Session_Two_live_Darts/skysportsaction</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -253,6 +260,7 @@
 <title>[COLORred][B]20:30 - 22:30 [/COLOR][/B][COLORwhite][B]Friendly Spain vs Costa Rica [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a3a0ee22395c6de9a9c06fc63212744f5dccd28b[Spain vs Costa Rica Acestream 1]</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Spain_vs_Costa_Rica_live_Football/stream10</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
