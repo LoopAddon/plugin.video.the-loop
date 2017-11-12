@@ -1,313 +1,42 @@
 <plugin>
-<title>[COLORred][B]14:00 - 17:15 [/COLOR][/B][COLORwhite][B]Live International Rugby Union England v Argentina [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
+<title>[COLORred][B]21:05[/COLOR][/B][COLORwhite][B] NFL : Houston - Los Angeles[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/England_v_Argentina_live_Rugby_Union_-_International/skysportsmainevent</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/England_v_Argentina_live_Rugby_Union_-_International/skysportsaction</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsaction.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/hdlive/sky3.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsaction.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch24.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]14:00 - 17:00 [/COLOR][/B][COLORwhite][B]Live College GameDay 2017-18 [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
+<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : Dallas - Atlanta[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_American_Football/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch27.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]14:15 - 16:30 [/COLOR][/B][COLORwhite][B]Live International Rugby Union Live Scotland v Samoa [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
+<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : New York - San Francisco[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Scotland_v_Samoa_live_Rugby_Union_-_International/btsports1</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream44.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/live9/stream44.php</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Portugal - Taca de Portugal Vitoria Guimaraes vs UD Oliveirense [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<title>[COLORred][B]01:25[/COLOR][/B][COLORwhite][B] NFL : New England - Denver[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vitoria_Guimaraes_vs_UD_Oliveirense_live_Football/stream20</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Spain - Segunda Division Albacete vs Almer--a [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<title>[COLORred][B]01:25[/COLOR][/B][COLORwhite][B] NFL : New England - Denver[/B][/COLOR]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Albacete_vs_Almer--a_live_Football/stream49</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - League One Scunthorpe United vs Bristol Rovers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Scunthorpe_United_vs_Bristol_Rovers_live_Football/stream48</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream46.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/live9/stream46.php</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:40 [/COLOR][/B][COLORwhite][B]Live Formula 1 2017 Brazilian Grand Prix: Qualifying [/COLOR][/B]</title>
-<info>[COLORyellow][B]Formula One[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Brazilian_Grand_Prix_Qualifying_live_Formula_One/stream27</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 16:30 [/COLOR][/B][COLORwhite][B]Live Show Jumping 2017 Global Champions Tour: Doha- Qatar [/COLOR][/B]</title>
-<info>[COLORyellow][B]Equestrian[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Global_Champions_Tour_Doha-_Qatar_live_Equestrian/stream23</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]Friendly Qatar vs Czech Republic [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Qatar_vs_Czech_Republic_live_Football/stream57</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Italy - Serie B Avellino vs Virtus Entella [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Avellino_vs_Virtus_Entella_live_Football/stream11</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Spain - Segunda Division Real Zaragoza vs Rayo Vallecano [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Real_Zaragoza_vs_Rayo_Vallecano_live_Football/stream28</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:00 - 20:30 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Florida - South Carolina [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Florida_-_South_Carolina_live_American_Football/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:15 - 20:00 [/COLOR][/B][COLORwhite][B]Live International Rugby Union Ireland v South Africa [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ireland_v_South_Africa_live_Rugby_Union_-_International/skysportsaction</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:15 - 19:30 [/COLOR][/B][COLORwhite][B]Live International Rugby Union Ireland v South Africa [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ireland_v_South_Africa_live_Rugby_Union_-_International/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - National League Ebbsfleet United vs Leyton Orient [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ebbsfleet_United_vs_Leyton_Orient_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]World Cup Qualifying Tunisia vs Libya [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tunisia_vs_Libya_live_Football/stream51</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]WCQ: Ivory Coast vs Morocco [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ivory_Coast_vs_Morocco_live_Football/stream24</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:45 - 19:30 [/COLOR][/B][COLORwhite][B]Live Snowboarding 2017-18 World Cup: Milan- Big Air [/COLOR][/B]</title>
-<info>[COLORyellow][B]Winter Sports[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Milan-_Big_Air_live_Winter_Sports/stream23</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:30 - 20:30 [/COLOR][/B][COLORwhite][B]Spain - Segunda Division Barcelona II vs Huesca [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Barcelona_II_vs_Huesca_live_Football/stream25</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:55 - 19:45 [/COLOR][/B][COLORwhite][B]Live Boxing Live: Saunders v Lewis [/COLOR][/B]</title>
-<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Saunders_v_Lewis_live_Boxing/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]Friendly FYR Macedonia vs Norway [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/FYR_Macedonia_vs_Norway_live_Football/stream19</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]World Cup Qualifying Denmark vs Ireland Republic [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://6df4b9fa5c5a67816bed437433b82edbcc4fb8b3[Denmark vs Ireland Acestream 1]</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://2b77a73dcd3e7b1fb74b6f8182809cfb9c62c810[Sky Sports Main Event Acestream 2]</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strimi.world/s/skysf.html(Denmark v Rep of Ireland)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Denmark_vs_Ireland_Republic_live_Football/stream2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:45 - 00:00 [/COLOR][/B][COLORwhite][B]Live Boxing Live: Smith v Williams [/COLOR][/B]</title>
-<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Smith_v_Williams_live_Boxing/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:55 - 22:00 [/COLOR][/B][COLORwhite][B]Live International Rugby Union France v New Zealand [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/France_v_New_Zealand_live_Rugby_Union_-_International/stream36</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live Grand Slam of Darts 2017 Day One - Session Two [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Day_One_-_Session_Two_live_Darts/skysportsaction</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsaction.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream120.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsaction.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Day_One_-_Session_Two_live_Darts/skysportsaction</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Georgia - Auburn [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Georgia_-_Auburn_live_American_Football/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Iowa - Wisconsin [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Iowa_-_Wisconsin_live_American_Football/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:30 - 22:30 [/COLOR][/B][COLORwhite][B]Friendly Spain vs Costa Rica [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://a3a0ee22395c6de9a9c06fc63212744f5dccd28b[Spain vs Costa Rica Acestream 1]</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Spain_vs_Costa_Rica_live_Football/stream10</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]22:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live Grand Slam of Darts 2017 Day One - Session Two [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Day_One_-_Session_Two_live_Darts/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]00:00 - 01:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 120: Poirier vs. Pettis, Preshow [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Poirier_vs_Pettis_Preshow_live_UFC/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 120: Poirier vs. Pettis, Prelims [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Poirier_vs_Pettis_Prelims_live_UFC/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]02:30 - 06:30 [/COLOR][/B][COLORwhite][B]Boxing: Artur Beterbiev vs Enrico Koelling [/COLOR][/B]</title>
-<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Artur_Beterbiev_vs_Enrico_Koelling_live_Boxing/stream5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 120: Poirier vs. Pettis [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Poirier_vs_Pettis_live_UFC/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+
+#[QPython] Press enter to exit
