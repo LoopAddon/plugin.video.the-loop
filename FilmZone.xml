@@ -30,9 +30,9 @@
         <name>Top Rated TMDB Movies</name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/Movies/top_rated_tmdb.xml</link>
         <animated_thumbnail><animated_thumbnail>
-        <thumbnail>https://i.imgur.com/K2UgR6H.png<thumbnail>
+        <thumbnail>https://i.imgur.com/K2UgR6H.png</thumbnail>
         <animated_fanart><animated_fanart>
-        <fanart>https://i.imgur.com/K2UgR6H.png<fanart>
+        <fanart>https://i.imgur.com/K2UgR6H.png</fanart>
 </dir>
 
 <dir>
