@@ -1,42 +1,55 @@
 <plugin>
-<title>[COLORred][B]21:05[/COLOR][/B][COLORwhite][B] NFL : Houston - Los Angeles[/B][/COLOR]</title>
+<title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live Grand Slam of Darts 2017 Day Three [/COLOR][/B]</title>
+<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch24.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Day_Three_live_Darts/skysportsaction</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-1-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-2-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-3-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-4-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-5-online.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : Dallas - Atlanta[/B][/COLOR]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]World Cup Qualifying Italy vs Sweden [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch27.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sky-sports-football</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sky-sports-main-event</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sports-net-world</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-world-live-stream.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Italy_vs_Sweden_live_Football/stream11</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]21:25[/COLOR][/B][COLORwhite][B] NFL : New York - San Francisco[/B][/COLOR]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Friendly Poland vs Mexico [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Poland_vs_Mexico_live_Football/stream58</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]01:25[/COLOR][/B][COLORwhite][B] NFL : New England - Denver[/B][/COLOR]</title>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]WWE Monday Night Raw [/COLOR][/B]</title>
+<info>[COLORyellow][B]WWE[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Monday_Night_Raw_live_WWE/stream3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]01:25[/COLOR][/B][COLORwhite][B] NFL : New England - Denver[/B][/COLOR]</title>
+<title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NFL Miami Dolphins at Carolina Panthers [/COLOR][/B]</title>
+<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Dolphins_at_Carolina_Panthers_live_NFL/stream1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sky-sports-main-event</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
-#[QPython] Press enter to exit
