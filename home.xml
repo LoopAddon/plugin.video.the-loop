@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <dir>
         <name>Fan Zone</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/FanZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
         <animated_fanart></animated_fanart>
@@ -10,7 +10,7 @@
 
 <dir>
         <name>Score Zone</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/ScoreZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/ScoreZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/jMQzfCv.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -19,7 +19,7 @@
 
 <dir>
         <name>Game Zone</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/GameZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/GameZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/9PV0lhZ.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -28,7 +28,7 @@
 
 <dir>
         <name>Test Zone</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/TestZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TestZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/8HazFEz.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -37,7 +37,7 @@
 
 <dir>
         <name>Ace Zone</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/AceZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/K2UgR6H.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -46,7 +46,7 @@
 
 <dir>
         <name>Film Zone</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/FilmZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FilmZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/K2UgR6H.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -55,7 +55,7 @@
 
 <dir>
         <name>TV Zone<name>
-        <link>https://raw.githubusercontent.com/LoopAddon/repository.theloop/master/TVZone</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TVZone</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
         <animated_fanart><animated_fanart>
