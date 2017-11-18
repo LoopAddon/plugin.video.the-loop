@@ -28,17 +28,29 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]14:00 [/COLOR][/B][COLORwhite][B]Rugby International - Italy v Argentina [/COLOR][/B]</title>
+<title>[COLORgold][B]14:00 [/COLOR][/B][COLORwhite][B]Rugby International - Italy v Argentina [/COLOR][/B]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/premier-sports-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/premiersports.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/premiersports.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 [/COLOR][/B][COLORwhite][B]Rugby International - England v Australia [/COLOR][/B]</title>
+<title>[COLORgold][B]15:00 [/COLOR][/B][COLORwhite][B]Rugby International - England v Australia [/COLOR][/B]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORgold][B]15:00 [/COLOR][/B][COLORwhite][B]Rugby International - Wales vs Georgia [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bbc-one-uk.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -46,6 +58,7 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Liverpool - Southampton[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-4-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -54,6 +67,8 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Leicester - Manchester City[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-2-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -62,6 +77,10 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : West Brom - Chelsea[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-world-live-stream.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-ontario-live-stream.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetontario.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -70,6 +89,9 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Bournemouth - Huddersfield[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetone.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports9.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-9-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -78,6 +100,7 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Burnley - Swansea[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports12.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -86,6 +109,8 @@
 <plugin>
 <title>[COLORred][B]15:00[/COLOR][/B][COLORwhite][B] Premier League : Crystal Palace - Everton[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-3-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
