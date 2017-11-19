@@ -1,6 +1,7 @@
 <plugin>
 <title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Kansas - New York[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.720pstream.me/new-york-giants-vs-kansas-city-chiefs-stream(tes link 1080p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch17.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/trgoalstv/ch24.php</sublink>
@@ -45,6 +46,8 @@
 <plugin>
 <title>[COLORred][B]18:00[/COLOR][/B][COLORwhite][B] NFL : Baltimore - Green Bay[/B][/COLOR]</title>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.720pstreazm.me/green-bay-packers-vs-baltimore-ravens-stream(test link 1080p)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.720pstream.me/cleveland-browns-vs-jacksonville-jaguars-stream(test link 1 1080p)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch3.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/trgoalstv/ch18.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch3.php</sublink>
