@@ -1,24 +1,65 @@
 <plugin>
-<title>[COLORred][B]20:00[/COLOR][/B][COLORwhite][B] Premier League : Brighton & Hove Albion - Stoke City[/B][/COLOR]</title>
+<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B]UEFA Champions League – Beşiktaş vs Porto [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk5.php(720p test)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php(720p test)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php(720p test)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-world-live-stream.html(720p test)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php(720p test)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php(720p test)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html(SD)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html(SD)</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Besiktas_vs_Porto_live_Football/stream20</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.fullmatchesandshows.com/wp-content/uploads/2017/09/FC-Porto-vs-Besiktas.jpg</thumbnail>
+<fanart>http://www.fullmatchesandshows.com/wp-content/uploads/2017/09/FC-Porto-vs-Besiktas.jpg</fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]01:30[/COLOR][/B][COLORwhite][B] NFL : Seattle - Atlanta[/B][/COLOR]</title>
+<title>[COLORred][B]17:00[/COLOR][/B][COLORwhite][B]UEFA Champions League – Spartak Moskva vs Maribor [/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sparktak_Moskva_vs_Maribor_live_Football/stream24</sublink></link>
+<referer></referer>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Spartak-Moskva-vs-Maribor-624x352.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Spartak-Moskva-vs-Maribor-624x352.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45[/COLOR][/B][COLORwhite][B]UEFA Champions League – APOEL vs Real Madrid [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch12.html</sublink></link>
+<referer></referer>
+<thumbnail>http://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/09/12/15052398142384.jpg</thumbnail>
+<fanart>http://e00-marca.uecdn.es/assets/multimedia/imagenes/2017/09/12/15052398142384.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League – Borussia Dortmund vs Tottenham Hotspur [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch7.html</sublink></sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch13.html</sublink></link>
+<referer></referer>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Borussia-Dortmund-vs-Tottenham-Hotspur.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Borussia-Dortmund-vs-Tottenham-Hotspur.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League – Sevilla vs Liverpool [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Sevilla-vs-Liverpool.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Sevilla-vs-Liverpool.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League – Napoli vs Shakhtar Donetsk [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink></sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch14.html</sublink></link>
+<referer></referer>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Napoli-vs-Shaktar-Donetsk.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Napoli-vs-Shaktar-Donetsk.jpg</fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]UEFA Champions League – Manchester City vs Feyenoord [/COLOR][/B]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch21.html</sublink></sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink></link>
+<referer></referer>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Manchester-City-vs-Feyenoord.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Manchester-City-vs-Feyenoord.jpg</fanart>
 </plugin>
