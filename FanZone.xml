@@ -10,13 +10,15 @@
 <title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NHL NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>http://neunlds311.akamaized.net/nlds/nba/bkn/as/live/nlncp/bkn_hd_1600_ipad.m3u8</link>
+<referer>http://nba.asongjournal.stream/keys/lp?token=WuAcSnJ6O6rMndLMSSltbw&expires=1511558208&id=311&ndks=1&url=/nlds/nba/bkn/as/live/nlncp/bkn_hd_1600/m3u8.key<referer>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NFL NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_ipad.m3u8</link>
-<referer>http://nba.asongjournal.stream/keys/lp?token=WuAcSnJ6O6rMndLMSSltbw&expires=1511558208&id=311&ndks=1&url=/nlds/nba/bkn/as/live/nlncp/bkn_hd_1600/m3u8.key<referer>
+<link>http://neunlds311.akamaized.net/nlds/nba/bkn/as/live/nlncp/bkn_hd_1600_ipad.m3u8</link>
+<referer>http://ok.nowlive.pw/watch.php?c=1&id=17886<referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
