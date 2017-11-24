@@ -23,7 +23,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:00-23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]<title>
+<title>[COLORred][B]19:00-23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
 <referer></referer>
@@ -35,7 +35,7 @@
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports4.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports4.php</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
