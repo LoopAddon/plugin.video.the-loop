@@ -1,70 +1,54 @@
-<plugin>
-<title>[COLORred][B]17:30 - 20:30 [/COLOR][/B][COLORwhite][B]NFL Minnesota Vikings at Detroit Lions [/COLOR][/B]</title>
+<item>
+<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]MLB NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/hdlive/sky3.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream15.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsaction.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Minnesota_Vikings_at_Detroit_Lions_live_NFL/skysportsmainevent</sublink></link>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8&token=aed888c49ae8b4c4d84c4dbfe4db06a4b4b07e60a87413d58c65d40911d7741e&ev=mlb&eid=1&feed=tv</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Cologne vs Arsenal [/COLOR][/B]</title>
+</item>
+<item>
+<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NBA NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cologne_vs_Arsenal_live_Football/btsports2</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch10.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/bt2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/sportsnetwork/st7.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/hdlive/bt2.php</sublink></link>
+<link>http://nlds16.cdnak.neulion.com/nlds/nba/nba247/as/live/ipad.m3u8&token=04ad31c005ab2dba07e7fdd5916175ac13fd4e065f1dd0c4b773ed84726141bf&ev=nba&eid=1&feed=tv</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Everton vs Atalanta [/COLOR][/B]</title>
+</item>
+<item>
+<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NFL NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports4.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch13.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Everton_vs_Atalanta_live_Football/btsports2</sublink></link>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_ipad.m3u8&token=89cdbff14304dbcf51f1336d13cac09201aa0d60720ca1b35c469c70a2f17c5b&ev=nfl&eid=1&feed=tv</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:30 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Los Angeles Chargers at Dallas Cowboys [/COLOR][/B]</title>
+</item>
+<item>
+<title>[COLORred][B]19:00-23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Chargers_at_Dallas_Cowboys_live_NFL/skysportsmainevent</sublink></link>
+<link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
-<title>[COLORred][B]22:00 - 23:30 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Duke - Portland St: 2017 [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Dundee vs Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Duke_-_Portland_St_2017_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports4.php</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]01:30 - 05:00 [/COLOR][/B][COLORwhite][B]NFL New York Giants at Washington Redskins [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League West Ham United vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk5.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Giants_at_Washington_Redskins_live_NFL/skysportsmainevent</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
