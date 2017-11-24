@@ -1,29 +1,29 @@
 <item>
 <title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]MLB NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8&token=aed888c49ae8b4c4d84c4dbfe4db06a4b4b07e60a87413d58c65d40911d7741e&ev=mlb&eid=1&feed=tv</link>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NBA NETWORK [/COLOR][/B]<title>
+<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NBA NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>http://nlds16.cdnak.neulion.com/nlds/nba/nba247/as/live/ipad.m3u8&token=04ad31c005ab2dba07e7fdd5916175ac13fd4e065f1dd0c4b773ed84726141bf&ev=nba&eid=1&feed=tv</link>
+<link>http://nlds16.cdnak.neulion.com/nlds/nba/nba247/as/live/ipad.m3u8</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NFL NETWORK [/COLOR][/B]<title>
+<title>[COLORred][B]TEST STREAM [/COLOR][/B][COLORwhite][B]NFL NETWORK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_ipad.m3u8&token=89cdbff14304dbcf51f1336d13cac09201aa0d60720ca1b35c469c70a2f17c5b&ev=nfl&eid=1&feed=tv</link>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_ipad.m3u8</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:00-23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
+<title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
 <referer></referer>
@@ -31,7 +31,7 @@
 <fanart></fanart>
 </item>
 <plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Dundee vs Rangers [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]SPL - Dundee vs Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
@@ -41,7 +41,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League West Ham United vs Leicester City [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - West Ham United vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk5.php</sublink>
