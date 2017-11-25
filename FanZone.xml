@@ -1,5 +1,4 @@
-<item>
-<title>[COLORred][B]12:45 - 17:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
+<title>[COLORred][B]12:00 - 23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
 <referer></referer>
@@ -7,64 +6,6 @@
 <fanart></fanart>
 </item>
 <plugin>
-<title>[COLORred][B]09:45 - 13:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 122: Bisping vs Gastelum, Prelims [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Bisping_vs_Gastelum_Prelims_live_UFC/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]09:45 - 11:15 [/COLOR][/B][COLORwhite][B]Live Formula 1 2017 Abu Dhabi Grand Prix: Third Practice [/COLOR][/B]</title>
-<info>[COLORyellow][B]Formula One[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skf1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Abu_Dhabi_Grand_Prix_Third_Practice_live_Formula_One/stream7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]10:00 - 11:30 [/COLOR][/B][COLORwhite][B]Soccer AM 25-11-2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football/Soccer[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/25-11-2017_live_Football_Soccer/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:00 - 14:40 [/COLOR][/B][COLORwhite][B]Live Formula 1 2017 Abu Dhabi Grand Prix: Qualifying [/COLOR][/B]</title>
-<info>[COLORyellow][B]Formula One[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skf1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Abu_Dhabi_Grand_Prix_Qualifying_live_Formula_One/stream7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - National League Chester vs Dagenham - Redbridge [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chester_vs_Dagenham_-_Redbridge_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Championship Barnsley vs Leeds United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skyfootball.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Barnsley_vs_Leeds_United_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 <plugin>
 <title>[COLORred][B]13:00 - 16:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 122: Bisping vs Gastelum [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
@@ -72,116 +13,121 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Bisping_vs_Gastelum_live_UFC/btsports2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://pbs.twimg.com/media/DOZucqiWkAIb_ep.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/DOZucqiWkAIb_ep.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]13:55 - 16:00 [/COLOR][/B][COLORwhite][B]Live International Rugby Union Italy v South Africa [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/premiersports.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Italy_v_South_Africa_live_Rugby_Union_-_International/stream36</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.esatoursportevents.com/wp-content/uploads/2015/11/rugby-italia-sud-africa2.jpg</thumbnail>
+<fanart>http://www.esatoursportevents.com/wp-content/uploads/2015/11/rugby-italia-sud-africa2.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]14:00 - 17:00 [/COLOR][/B][COLORwhite][B]Live College GameDay 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/btsportespn.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_live_American_Football/stream37</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/51/2015_ESPN_College_GameDay_logo.jpg</thumbnail>
+<fanart>https://cdn-s3.si.com/s3fs-public/2017/09/24/college-gameday-timesquare-media.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]14:15 - 16:30 [/COLOR][/B][COLORwhite][B]Live International Rugby Union Live Scotland v Australia [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Scotland_v_Australia_live_Rugby_Union_-_International/btsports2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.rugby365.com/uploads/image/asset/45765/PREVIEW_-Scotland-v-Austral.jpg</thumbnail>
+<fanart>http://www.rugby365.com/uploads/image/asset/45765/PREVIEW_-Scotland-v-Austral.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]14:30 - 17:15 [/COLOR][/B][COLORwhite][B]Live International Rugby Union England v Samoa [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/England_v_Samoa_live_Rugby_Union_-_International/skysportsaction</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:40 - 15:45 [/COLOR][/B][COLORwhite][B]Live Formula 2 Championship 2017 Abu Dhabi Grand Prix: Race One [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Abu_Dhabi_Grand_Prix_Race_One_live_Motor_Sport/stream7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://sport-onthebox.com/wp-content/uploads/2017/04/Picture2.png</thumbnail>
+<fanart>http://sport-onthebox.com/wp-content/uploads/2017/04/Picture2.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Stoke_City_live_Football/stream2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Crystal-Palace-vs-Stoke-City.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Crystal-Palace-vs-Stoke-City.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester United vs Brighton - Hove Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Brighton_-_Hove_Albion_live_Football/stream4</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Manchester-United-vs-Brighton-Hove-Albion.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Manchester-United-vs-Brighton-Hove-Albion.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Newcastle United vs Watford [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports8.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Watford_live_Football/stream3</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Newcastle-United-vs-Watford.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Newcastle-United-vs-Watford.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Swansea City vs AFC Bournemouth [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports9.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swansea_City_vs_AFC_Bournemouth_live_Football/stream5</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://indoasia88.net/wp-content/uploads/2017/11/Prediksi-Skor-Swansea-City-Vs-AFC-Bournemouth-25-November-2017.jpg</thumbnail>
+<fanart>http://indoasia88.net/wp-content/uploads/2017/11/Prediksi-Skor-Swansea-City-Vs-AFC-Bournemouth-25-November-2017.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Tottenham Hotspur vs West Bromwich Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/tsn.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports7.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_West_Bromwich_Albion_live_Football/stream1</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Tottenham-Hotspur-vs-West-Bromwich-Albion.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Tottenham-Hotspur-vs-West-Bromwich-Albion.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]16:00 - 19:00 [/COLOR][/B][COLORwhite][B]Live: F1 E-Sports 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Formula One[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skf1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_live_Formula_One/stream7</sublink></link>
-<referer></referer>
+<referer>https://www.formula1.com/content/fom-website/en/latest/headlines/2017/8/f1-launches-the-formula-1--esports-series/_jcr_content/articleContent/manual_gallery/image1.img.1024.medium.jpg/1503062183123.jpg</referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://www.formula1.com/content/fom-website/en/latest/headlines/2017/8/f1-launches-the-formula-1--esports-series/_jcr_content/image16x9.img.1024.medium.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]17:00 - 20:30 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Georgia - Georgia Tech [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/btsportespn.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Georgia_-_Georgia_Tech_live_American_Football/stream37</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://thebertshow.com/wp-content/uploads/2011/11/Screen-Shot-2014-12-03-at-3.12.59-PM-640x250.jpg</thumbnail>
+<fanart>http://thebertshow.com/wp-content/uploads/2011/11/Screen-Shot-2014-12-03-at-3.12.59-PM-640x250.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]17:15 - 19:15 [/COLOR][/B][COLORwhite][B]Autumn Internationals Wales vs New Zealand [/COLOR][/B]</title>
@@ -189,53 +135,70 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Wales_vs_New_Zealand_live_Rugby/stream27</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i2-prod.walesonline.co.uk/incoming/article8138971.ece/ALTERNATES/s615/1Wales-v-NZ.jpg</thumbnail>
+<fanart>https://i2-prod.walesonline.co.uk/incoming/article8138971.ece/ALTERNATES/s615/1Wales-v-NZ.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]17:15 - 20:00 [/COLOR][/B][COLORwhite][B]Live International Rugby Union Ireland v Argentina [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ireland_v_Argentina_live_Rugby_Union_-_International/skysportsaction</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.theprincealbertstroud.co.uk/wp-content/uploads/2015/10/rugbyirelandarge.jpg</thumbnail>
+<fanart>http://www.theprincealbertstroud.co.uk/wp-content/uploads/2015/10/rugbyirelandarge.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]17:15 - 19:40 [/COLOR][/B][COLORwhite][B]Live EFL Sheffield United v Birmingham City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skyfootball.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sheffield_United_v_Birmingham_City_live_Football_-_Club/stream32</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.sofascore.com/images/event-details/birmingham-city-sheffield-united-7447873.png</thumbnail>
+<fanart>https://www.sofascore.com/images/event-details/birmingham-city-sheffield-united-7447873.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Liverpool vs Chelsea [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetontario.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Chelsea_live_Football/stream2</sublink></link>
+<referer></referer>
+<thumbnail>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Liverpool-vs-Chelsea.jpg</thumbnail>
+<fanart>http://s78bet.net/wp-content/uploads/2017/11/Prediksi-Skor-Liverpool-vs-Chelsea.jpg</fanart>
+</plugin>
+<item>
+<title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Darts Players Championship [/COLOR][/B]</title>
+<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
+<link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]19:55 - 22:00 [/COLOR][/B][COLORwhite][B]Live International Rugby Union France v Japan [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/premiersports.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/France_v_Japan_live_Rugby_Union_-_International/stream36</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://2.bp.blogspot.com/-NSByUPMiWWg/Ti1mzs2D6qI/AAAAAAAAAhY/Df8Pfa8ACcw/s1600/France+vs+Japan+2011+RWC.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-NSByUPMiWWg/Ti1mzs2D6qI/AAAAAAAAAhY/Df8Pfa8ACcw/s1600/France+vs+Japan+2011+RWC.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Alabama - Auburn: 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/btsportespn.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Alabama_-_Auburn_2017_live_American_Football/stream37</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_2939000/altimages/ff_2939398alt5_full.jpg</thumbnail>
+<fanart>http://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_2939000/altimages/ff_2939398alt5_full.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA San Antonio Spurs @ Charlotte Hornet [/COLOR][/B]</title>
@@ -243,8 +206,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Antonio_Spurs_Charlotte_Hornet_live_NBA/nba1</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.liveonscore.com/wp-content/uploads/2017/11/San-Antonio-Spurs-vs-Charlotte-Hornets-Preview-and-Prediction-Live-stream-NBA-2017-2018.jpg</thumbnail>
+<fanart>https://www.liveonscore.com/wp-content/uploads/2017/11/San-Antonio-Spurs-vs-Charlotte-Hornets-Preview-and-Prediction-Live-stream-NBA-2017-2018.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Orlando Magic @ Philadelphia 76ers [/COLOR][/B]</title>
@@ -252,8 +215,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Orlando_Magic_Philadelphia_76ers_live_NBA/nba2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.amwaycenter.com/assets/img/76ers_gametout_30-c13c285d19.jpg</thumbnail>
+<fanart>https://www.amwaycenter.com/assets/img/76ers_gametout_30-c13c285d19.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Portland Trail Blazers @ Washington Wizards [/COLOR][/B]</title>
@@ -261,8 +224,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Portland_Trail_Blazers_Washington_Wizards_live_NBA/nba3</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://i.cdn.turner.com/nba/nba/teamsites/images/legacy/blazers/matchuplopezvsgortat600x250.jpg</thumbnail>
+<fanart>http://i.cdn.turner.com/nba/nba/teamsites/images/legacy/blazers/matchuplopezvsgortat600x250.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Washington Capitals @ Toronto Maple Leafs [/COLOR][/B]</title>
@@ -270,8 +233,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Capitals_Toronto_Maple_Leafs_live_Hockey/nhl1</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.sofascore.com/images/event-details/toronto-maple-leafs-washington-capitals-7451730.png</thumbnail>
+<fanart>https://www.sofascore.com/images/event-details/toronto-maple-leafs-washington-capitals-7451730.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Buffalo Sabres @ Montr�al Canadiens [/COLOR][/B]</title>
@@ -279,8 +242,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Buffalo_Sabres_Montr_al_Canadiens_live_Hockey/nhl2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.sofascore.com/images/event-details/montreal-canadiens-buffalo-sabres-7451519.png</thumbnail>
+<fanart>https://www.sofascore.com/images/event-details/montreal-canadiens-buffalo-sabres-7451519.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New York Islanders @ Ottawa Senators [/COLOR][/B]</title>
@@ -288,24 +251,24 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Islanders_Ottawa_Senators_live_Hockey/nhl3</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://nhl.bamcontent.com/images/photos/286667480/640x360/cut.jpeg</thumbnail>
+<fanart>https://nhl.bamcontent.com/images/photos/286667480/640x360/cut.jpeg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils @ Detroit Red Wings [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_Detroit_Red_Wings_live_Hockey/nhl4</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.sofascore.com/images/event-details/new-jersey-devils-detroit-red-wings-7451723.png</thumbnail>
+<fanart>http://www.mobygames.com/images/shots/l/304146-nhl-96-dos-screenshot-new-jersey-devils-vs-detroit-red-wings.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Chicago Blackhawks @ Florida Panthers [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chicago_Blackhawks_Florida_Panthers_live_Hockey/nhl5</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.pinimg.com/originals/0f/d4/02/0fd4021b0bcfd32fe89105531985ba04.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/0f/d4/02/0fd4021b0bcfd32fe89105531985ba04.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Tampa Bay Lightning @ Pittsburgh Penguins [/COLOR][/B]</title>
@@ -313,17 +276,17 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tampa_Bay_Lightning_Pittsburgh_Penguins_live_Hockey/nhl6</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://nhl.bamcontent.com/images/photos/292171032/1136x640/cut.jpeg</thumbnail>
+<fanart>https://nhl.bamcontent.com/images/photos/292171032/1136x640/cut.jpegk</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Toronto Raptors @ Atlanta Hawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Raptors_Atlanta_Hawks_live_NBA/nba4</sublink></link>
-<referer></referer>
+<referer>https://1.bp.blogspot.com/-DqHyoTlef6g/VwfXymj0nRI/AAAAAAAAAAs/tkooWUUz3M4jIgS4ptmUr0C1Y-FAbnkzA/s1600/raptors-vs-hawks.png</referer>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://1.bp.blogspot.com/-DqHyoTlef6g/VwfXymj0nRI/AAAAAAAAAAs/tkooWUUz3M4jIgS4ptmUr0C1Y-FAbnkzA/s1600/raptors-vs-hawks.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Boston Celtics @ Indiana Pacers [/COLOR][/B]</title>
@@ -331,8 +294,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Celtics_Indiana_Pacers_live_NBA/nba5</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.nbafullhd.com/wp-content/uploads/2016/11/Boston-Celtics-vs-Indiana-Pacers-12-Nov-2016-e1479021305857.jpg</thumbnail>
+<fanart>https://www.nbafullhd.com/wp-content/uploads/2016/11/Boston-Celtics-vs-Indiana-Pacers-12-Nov-2016-e1479021305857.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA New York Knicks @ Houston Rockets [/COLOR][/B]</title>
@@ -340,8 +303,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Knicks_Houston_Rockets_live_NBA/nba6</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://bryceklanac.com/wp-content/uploads/2013/11/knicks-vs-rockets.jpg</thumbnail>
+<fanart>http://bryceklanac.com/wp-content/uploads/2013/11/knicks-vs-rockets.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Vegas Golden Knights @ Arizona Coyotes [/COLOR][/B]</title>
@@ -349,8 +312,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vegas_Golden_Knights_Arizona_Coyotes_live_Hockey/nhl7</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://static-24.sinclairstoryline.com/resources/media/28d54dc5-d739-45aa-b5ac-5fbc6330bd98-large16x9_GN123.jpg</thumbnail>
+<fanart>http://static-24.sinclairstoryline.com/resources/media/28d54dc5-d739-45aa-b5ac-5fbc6330bd98-large16x9_GN123.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]01:30 - 04:00 [/COLOR][/B][COLORwhite][B]NBA New Orleans Pelicans at Golden State Warriors [/COLOR][/B]</title>
@@ -358,8 +321,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Pelicans_at_Golden_State_Warriors_live_NBA/stream24</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/New%20Orleans%20PelicansvsGolden%20State%20Warriors-660x330.jpg</thumbnail>
+<fanart>https://1prso3391sqpaf1e11k5i8s1-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/New%20Orleans%20PelicansvsGolden%20State%20Warriors-660x330.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA Oklahoma City Thunder @ Dallas Mavericks [/COLOR][/B]</title>
@@ -367,8 +330,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Oklahoma_City_Thunder_Dallas_Mavericks_live_NBA/nba7</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://telepisodes.co/wp-content/uploads/2011/05/dallas-vs-oklahama-300x183.jpg</thumbnail>
+<fanart>https://telepisodes.co/wp-content/uploads/2011/05/dallas-vs-oklahama-300x183.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Milwaukee Bucks @ Utah Jazz [/COLOR][/B]</title>
@@ -376,8 +339,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milwaukee_Bucks_Utah_Jazz_live_NBA/nba8</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.sofascore.com/images/event-details/utah-jazz-milwaukee-bucks-7524845.png</thumbnail>
+<fanart>https://www.sofascore.com/images/event-details/utah-jazz-milwaukee-bucks-7524845.png</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA LA Clippers @ Sacramento Kings [/COLOR][/B]</title>
@@ -385,6 +348,6 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/LA_Clippers_Sacramento_Kings_live_NBA/nba9</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.getmoresports.com/wp-content/uploads/2015/10/Los%20Angeles%20ClippersvsSacramento%20Kings.jpg</thumbnail>
+<fanart>https://www.getmoresports.com/wp-content/uploads/2015/10/Los%20Angeles%20ClippersvsSacramento%20Kings.jpg</fanart>
 </plugin>
