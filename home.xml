@@ -62,8 +62,8 @@
         <fanart>https://i.imgur.com/kEJor0g.png</fanart>
 </dir>
                 
-<dir>
-        <name>Testings</name>
-        <link>plugin://plugin.video.the-loop/?action=developer</link>
-        <thumbnail></thumbnail>
-</dir>
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.the-loop/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>
