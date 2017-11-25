@@ -114,8 +114,8 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skf1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_live_Formula_One/stream7</sublink></link>
-<referer>https://www.formula1.com/content/fom-website/en/latest/headlines/2017/8/f1-launches-the-formula-1--esports-series/_jcr_content/articleContent/manual_gallery/image1.img.1024.medium.jpg/1503062183123.jpg</referer>
-<thumbnail></thumbnail>
+<referer></referer>
+<thumbnail> https://www.formula1.com/content/fom-website/en/latest/headlines/2017/8/f1-launches-the-formula-1--esports-series/_jcr_content/articleContent/manual_gallery/image1.img.1024.medium.jpg/1503062183123.jpg </thumbnail>
 <fanart>https://www.formula1.com/content/fom-website/en/latest/headlines/2017/8/f1-launches-the-formula-1--esports-series/_jcr_content/image16x9.img.1024.medium.jpg</fanart>
 </plugin>
 <plugin>
@@ -283,8 +283,8 @@
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Raptors_Atlanta_Hawks_live_NBA/nba4</sublink></link>
-<referer>https://1.bp.blogspot.com/-DqHyoTlef6g/VwfXymj0nRI/AAAAAAAAAAs/tkooWUUz3M4jIgS4ptmUr0C1Y-FAbnkzA/s1600/raptors-vs-hawks.png</referer>
-<thumbnail></thumbnail>
+<referer></referer>
+<thumbnail> https://1.bp.blogspot.com/-DqHyoTlef6g/VwfXymj0nRI/AAAAAAAAAAs/tkooWUUz3M4jIgS4ptmUr0C1Y-FAbnkzA/s1600/raptors-vs-hawks.png </thumbnail>
 <fanart>https://1.bp.blogspot.com/-DqHyoTlef6g/VwfXymj0nRI/AAAAAAAAAAs/tkooWUUz3M4jIgS4ptmUr0C1Y-FAbnkzA/s1600/raptors-vs-hawks.png</fanart>
 </plugin>
 <plugin>
