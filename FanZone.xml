@@ -1,78 +1,13 @@
-<plugin>
-<title>[COLORred][B]12:30 - 15:30 [/COLOR][/B][COLORwhite][B]Live Formula 1 2017 Abu Dhabi Grand Prix [/COLOR][/B]</title>
-<info>[COLORyellow][B]Formula One[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bigiptv.ovh:8000/live/pierre/pierre/10042.ts</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/nbcsn.php</sublink>
-<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://4462.ipfox.co:8080/live/winsor_zqAq2S/dsD2rGJS/41.ts</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skf1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Abu_Dhabi_Grand_Prix_live_Formula_One/stream7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Kilmarnock vs Aberdeen [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skyfootball.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kilmarnock_vs_Aberdeen_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]England - Premier League Southampton vs Everton [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk5.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Everton_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]England - Premier League Burnley vs Arsenal [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetontario.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burnley_vs_Arsenal_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish League Cup Motherwell vs Celtic [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Motherwell_vs_Celtic_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - Premier League Huddersfield Town vs Manchester City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk5.php</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports11.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/nbcsn.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_Manchester_City_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Buffalo Bills at Kansas City Chiefs [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports9.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch8.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/trgoalstv/ch19.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch8.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Buffalo_Bills_at_Kansas_City_Chiefs_live_NFL/nfl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -82,6 +17,9 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Tennessee Titans at Indianapolis Colts [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch6.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/sportsnetwork/st14.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch6.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tennessee_Titans_at_Indianapolis_Colts_live_NFL/nfl2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -91,6 +29,10 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Cleveland Browns at Cincinnati Bengals [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch3.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/trgoalstv/ch13.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch3.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cleveland_Browns_at_Cincinnati_Bengals_live_NFL/nfl3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -100,6 +42,9 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Tampa Bay Buccaneers at Atlanta Falcons [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/trgoalstv/ch17.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tampa_Bay_Buccaneers_at_Atlanta_Falcons_live_NFL/nfl4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -109,6 +54,10 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Miami Dolphins at New England Patriots [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch2.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/trgoalstv/ch20.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch2.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Dolphins_at_New_England_Patriots_live_NFL/nfl5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -120,6 +69,10 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsaction.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/hdlive/sky3.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream4.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chicago_Bears_at_Philadelphia_Eagles_live_NFL/nfl6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -130,6 +83,10 @@
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/tsn2.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch7.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/sportsnetwork/st17.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch7.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Carolina_Panthers_at_New_York_Jets_live_NFL/nfl7</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -139,6 +96,9 @@
 <title>[COLORred][B]18:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live NFL Redzone [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/skysportsarena.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sciframe/hdlive/sky4.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/skysportsarena.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Redzone_live_NFL/stream28</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -193,6 +153,7 @@
 <title>[COLORred][B]21:05 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Seattle Seahawks at San Francisco 49ers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch25.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Seattle_Seahawks_at_San_Francisco_49ers_live_NFL/nfl8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -204,6 +165,7 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Saints_at_Los_Angeles_Rams_live_NFL/nfl9</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -213,6 +175,7 @@
 <title>[COLORred][B]21:25 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Jacksonville Jaguars at Arizona Cardinals [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch25.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Jacksonville_Jaguars_at_Arizona_Cardinals_live_NFL/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -222,6 +185,8 @@
 <title>[COLORred][B]21:25 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Denver Broncos at Oakland Raiders [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Denver_Broncos_at_Oakland_Raiders_live_NFL/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -267,6 +232,10 @@
 <title>[COLORred][B]01:30 - 05:00 [/COLOR][/B][COLORwhite][B]NFL Green Bay Packers at Pittsburgh Steelers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Green_Bay_Packers_at_Pittsburgh_Steelers_live_NFL/nfl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
