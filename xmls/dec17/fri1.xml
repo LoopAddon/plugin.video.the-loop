@@ -1,101 +1,3 @@
-<item> 
-<title>[COLORred][B] [/COLOR][/B][COLORwhite][B]The Loop TEST HD Section [/COLOR][/B]</title>  
-<link>     
-<sublink></sublink> 
-<sublink></sublink> 
-<sublink></sublink> 
-<sublink></sublink></link> 
-</item> 
-<plugin>
-<title>[COLORred][B]06:00 - 09:30 [/COLOR][/B][COLORwhite][B]Rugby Union - International Dubai Sevens: Day One Session Two [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_Dubai_Sevens_Day_One_Session_Two_live_Rugby_Union_-_International/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</thumbnail>
-<fanart>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]06:00 - 09:30 [/COLOR][/B][COLORwhite][B]Rugby Union - International Dubai Sevens: Day One Session Two [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_Dubai_Sevens_Day_One_Session_Two_live_Rugby_Union_-_International/skysportsaction</sublink></link>
-<referer></referer>
-<thumbnail>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</thumbnail>
-<fanart>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]10:10 - 11:50 [/COLOR][/B][COLORwhite][B]Rugby Union - International Dubai Sevens: Day One Session Three [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_Dubai_Sevens_Day_One_Session_Three_live_Rugby_Union_-_International/skysportsaction</sublink></link>
-<referer></referer>
-<thumbnail>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</thumbnail>
-<fanart>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]11:30 - 12:30 [/COLOR][/B][COLORwhite][B]Live FIA World Touring Cars 2017 Qatar: Qualifying [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Qatar_Qualifying_live_Motor_Sport/stream23</sublink></link>
-<referer></referer>
-<thumbnail>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</thumbnail>
-<fanart>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:05 - 13:45 [/COLOR][/B][COLORwhite][B]Rugby Union - Women-s World Rugby Sevens 2017-18 Dubai Sevens: Day One [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_Dubai_Sevens_Day_One_live_Rugby_Union_-_International/skysportsaction</sublink></link>
-<referer></referer>
-<thumbnail>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</thumbnail>
-<fanart>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30 - 13:00 [/COLOR][/B][COLORwhite][B]FIA World Touring Cars 217 Qatar: MAC3 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/217_Qatar_MAC3_live_Motor_Sport/stream23</sublink></link>
-<referer></referer>
-<thumbnail>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</thumbnail>
-<fanart>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]13:55 - 17:00 [/COLOR][/B][COLORwhite][B]Rugby Union - International Dubai Sevens: Day One Session Four [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_Dubai_Sevens_Day_One_Session_Four_live_Rugby_Union_-_International/skysportsaction</sublink></link>
-<referer></referer>
-<thumbnail>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</thumbnail>
-<fanart>https://dubairugby7s.com/files/8614/4775/7620/Emirates_Airline_Dubai_Rugby_Sevens_i.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]FIFA World Cup FIFA World Cup 2018 Final Draw [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/FIFA_World_Cup_2018_Final_Draw_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:15 - 19:15 [/COLOR][/B][COLORwhite][B]FIA World Touring Cars 2017 Qatar: Race One [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Qatar_Race_One_live_Motor_Sport/stream23</sublink></link>
-<referer></referer>
-<thumbnail>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</thumbnail>
-<fanart>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:15 - 20:15 [/COLOR][/B][COLORwhite][B]FIA World Touring Cars 2017 Qatar: Race Two [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Qatar_Race_Two_live_Motor_Sport/stream23</sublink></link>
-<referer></referer>
-<thumbnail>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</thumbnail>
-<fanart>https://www.fiawtcc.com/wp-content/uploads/2017/11/ticket-spot-fia-wtcc-race-of-qatar-youtube-thumbnail-800x450.jpg</fanart>
-</plugin>
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Serie A - Napoli vs Juventus [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
@@ -109,6 +11,8 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Championship - Leeds United vs Aston Villa [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-1-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leeds_United_vs_Aston_Villa_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail>http://www.bromsgrovevillalions.co.uk/images/matches/leeds-villa.jpg</thumbnail>
@@ -118,6 +22,8 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Rugby Union -  Northampton vs Newcastle [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-1-hd-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Northampton_vs_Newcastle_live_Rugby/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -127,6 +33,9 @@
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]FA Cup - Wigan Athletic vs Fylde [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-world-live-stream.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sportsnetworld.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports7.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Wigan_Athletic_vs_Fylde_live_Football/stream27</sublink></link>
 <referer></referer>
 <thumbnail>http://www.afcfylde.co.uk/wp-content/uploads/2017/11/fylde-v-wigan.png</thumbnail>
@@ -161,6 +70,8 @@
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Pittsburgh Penguins at Buffalo Sabres [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/premiersports.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/premier-sports-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Pittsburgh_Penguins_at_Buffalo_Sabres_live_Hockey/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
