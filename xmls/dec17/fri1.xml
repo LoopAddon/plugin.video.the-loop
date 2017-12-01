@@ -7,7 +7,12 @@
 <thumbnail>https://fullyfootball.com/wp-content/uploads/2015/09/Napoli-Vs-Juventus.jpg</thumbnail>
 <fanart>http://www.iloveqatar.net/sites/default/files/events/Napoli-Vs-Juventus.png</fanart>
 </plugin>
-<plugin>
+<item>
+<title>[COLORred][B]19:45 [/COLOR][/B][COLORwhite][B]Leeds vs Villa [/COLOR][/B]</title>
+<link>https://edge-210-140-191-137.mirrativ.com/liveedge/86133743a0f2c4f3ed0d9946d8379546a63c649c0665916a7e171125242bc6cb/chunklist_w1434870441.m3u8</link>
+<referer></referer>
+</item>
+<plugin> 
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Championship - Leeds United vs Aston Villa [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
