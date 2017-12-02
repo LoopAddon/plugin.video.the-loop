@@ -229,6 +229,8 @@
 <title>[COLORred][B]19:00 - 22:00 [/COLOR][/B][COLORwhite][B]NHL Boston Bruins @ Philadelphia Flyers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/premier-sports-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/premiersports.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Bruins_Philadelphia_Flyers_live_Hockey/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
