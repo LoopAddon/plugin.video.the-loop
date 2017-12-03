@@ -3,6 +3,10 @@
 <link>http://31.220.0.134:8081/live/jtvs3/playlist.m3u8(Sky Sports Action)<link>
 </item>
 <item>
+<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Kansas City Chiefs at New York Jets HD [/COLOR][/B]</title>
+<link>https://livemain-i-video-nfl.akamaized.net/ch09/58f348af-6750-4b4d-92c0-d093119687ef/58f348af-6750-4b4d-92c0-d093119687ef.ism/QualityLevels(6000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio)</link>
+</item>
+<item>
 <title>[COLORgold][B]18:00[/COLOR][/B] [COLORwhite][B]The NFL Redzone HD[/COLOR][/B]</title>
 <link>http://31.220.0.134:8081/live/jtvs4/playlist.m3u8</link>
 </item>
