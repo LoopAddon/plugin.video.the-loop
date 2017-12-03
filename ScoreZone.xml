@@ -1,136 +1,2236 @@
-<plugin>
-<title>00:00GMT Toronto Maple Leafs vs Vancouver Canucks</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/toronto-maple-leafs-vs-vancouver-canucks-live-stream-397.php</sublink></link>
+<item>
+<title>A&E</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/1688.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:00GMT Detroit Red Wings vs Montreal Canadiens</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/detroit-red-wings-vs-montreal-canadiens-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>ABC 27</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8919.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:00GMT San Jose Sharks vs Tampa Bay Lightning</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/san-jose-sharks-vs-tampa-bay-lightning-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>ABC 7 New York</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2118.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:00GMT Columbus Blue Jackets vs Washington Capitals</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/columbus-blue-jackets-vs-washington-capitals-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>ABC Family</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8920.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:00GMT Florida Panthers vs Carolina Hurricanes</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/florida-panthers-vs-carolina-hurricanes-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>AMC East</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/1689.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:00GMT Buffalo Sabres vs Pittsburgh Penguins</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/buffalo-sabres-vs-pittsburgh-penguins-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>American Heroes</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/abc123/321cba/18064.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:30GMT Detroit Pistons vs Philadelphia 76ers</title>
-<link>
-<sublink>http://www.streamhd.eu//nba/detroit-pistons-vs-philadelphia-76ers-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>Animal Planet US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2448.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>00:30GMT Memphis Grizzlies vs Cleveland Cavaliers</title>
-<link>
-<sublink>http://www.streamhd.eu//nba/memphis-grizzlies-vs-cleveland-cavaliers-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>BBC America</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.iptvhosting.org:83/live/michael/michael/142614.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>01:00GMT UFC 218 Preliminaries</title>
-<link>
-<sublink>http://www.streamhd.eu//ufc/ufc-218-preliminaries-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>Bein Sport US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/1687.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>01:00GMT Anaheim Ducks vs Nashville Predators</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/anaheim-ducks-vs-nashville-predators-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>BET</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8079.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>01:00GMT New Jersey Devils vs Arizona Coyotes</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/new-jersey-devils-vs-arizona-coyotes-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>Bravo</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3299.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>01:30GMT Sacramento Kings vs Milwaukee Bucks</title>
-<link>
-<sublink>http://www.streamhd.eu//nba/sacramento-kings-vs-milwaukee-bucks-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>Cartoon Network US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2444.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>02:00GMT Los Angeles Lakers vs Denver Nuggets</title>
-<link>
-<sublink>http://www.streamhd.eu//nba/los-angeles-lakers-vs-denver-nuggets-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>CBS 2 New York</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2117.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>02:00GMT Chicago Blackhawks vs Dallas Stars</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/chicago-blackhawks-vs-dallas-stars-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>CBS East</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2117.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>03:00GMT Edmonton Oilers vs Calgary Flames</title>
-<link>
-<sublink>http://www.streamhd.eu//nhl/edmonton-oilers-vs-calgary-flames-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>CNN USA</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2133.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>03:00GMT New Orleans Pelicans vs Portland Trail Blazers</title>
-<link>
-<sublink>http://www.streamhd.eu//nba/new-orleans-pelicans-vs-portland-trail-blazers-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>Comedy Central</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2156.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>03:00GMT UFC 218 Holloway vs Aldo</title>
-<link>
-<sublink>http://www.streamhd.eu//ufc/ufc-218-holloway-vs-aldo-live-stream-397.php</sublink></link>
+</item>
+<item>
+<title>CW</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4323.ts</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
+<item>
+<title>CW 11 New York</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/12408.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Investigation US</title><info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8852.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8075.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Disney Channel US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8895.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ESPN 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25653.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ESPN US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8052.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Food Network US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2435.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>FOX News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2152.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Golf Channel</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8071.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Hallmark Channel</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4294.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>HGTV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4312.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>History US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3382.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>HLN</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.necroiptv.com/live/HJSNffxdfo/L9a62yHOfY/4924.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Lifetime</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8058.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MLB Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8929.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NBA TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/992.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NBC 4 New York</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/carlos/carlos/14857.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NBC East</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/carlos/carlos/14857.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NBC Sports Netw.</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2407.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NFL Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/957.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NHL Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4318.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Nickelodeon US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4319.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Oprah Winfrey Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/carlos/carlos/14842.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>PBS</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8859.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Showtime</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8069.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Spike</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/1693.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sportsnet 360</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/carlos/carlos/14961.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sportsnet One</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8083.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sportsnet World</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4330.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Starz</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4302.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Syfy</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/1696.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TBS</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2131.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TLC</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8860.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TNT</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/997.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/967.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/968.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/969.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/970.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>USA Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2412.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>VH1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/12228.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>WWE Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/981.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Animal Planet UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3321.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>At The Races</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7773.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BBC 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3252.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BBC 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3252.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BBC 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8601.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BBC 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8600.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BBC News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8600.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BoxNation</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8604.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>British Eurosport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7890.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>British Eurosport1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7890.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>British Eurosport2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7891.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8615.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8616.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport ESPN</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7767.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport Europe</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7769.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Cartoon Network UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3262.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CBS Action</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8597.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CBS Drama</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8596.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CBS Reality</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8595.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Channel 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8613.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Channel 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8612.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Chelsea TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Comedy Central UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3343.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Dave</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8576.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery History</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3385.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Investigation UK</title><info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8574.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Science UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7828.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8637.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Disney Channel UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3262.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>E! Entertainment</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7794.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>E4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/20211.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Film 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8569.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Food Network UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7804.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Gold</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3901.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>History UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3320.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ITV 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8564.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ITV 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8562.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ITV 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8561.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ITV 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8560.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ITV Be</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12866.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Manchester United TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8603.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>More 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8558.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Motors TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/20179.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Classic UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3325.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Dance</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7839.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Hits</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7839.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Rocks</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.geniptv.com:8080/live/dnm4crrpmE/Ce4efczIVw/1809.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Nat Geo Wild UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3323.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Premier Sports</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8540.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Racing UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7775.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Really</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3244.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTE One</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7835.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTE Two</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7835.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Setanta Ireland</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7762.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8541.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3243.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Atlantic</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8607.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prod.proserver300.com:8080/live/delta/delta/7896.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports F1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8617.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7758.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8622.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TLC UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3333.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Travel Channel +1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8537.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TruTV UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/20203.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>VH1 Europe</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8607.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Deutsche Welle</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.ts?sd=10&rebase=on</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Disney Channel DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7700.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Eurosport1 DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7736.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Kabel Eins</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/21594.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>KiKa</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7768.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>N-TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/7944.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ORF 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7732.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ORF 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7703.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Phoenix</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/7881.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ProSieben</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7766.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RBB Berlin</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25005.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTL</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7761.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTL 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7763.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sat.1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7721.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sixx</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7692.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 1 DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7738.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 2 DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7737.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ZDF</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7729.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Cielo</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7841.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7827.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7850.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7849.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7848.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7847.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai Sport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/17229.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RSI La 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7817.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RSI La 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7807.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Calcio</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7795.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7816.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7815.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>6ter</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7949.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Animaux</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23825.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sport 1 FR</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/Eko/Eko/8177.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sport 3 FR</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/Eko/Eko/8175.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BFM TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23812.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Canal+ Sport</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7958.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Chasse et Pêche</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live-s101.abweb.com:1935/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1796000.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery FR</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7988.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Eurosport France</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23778.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>France 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8003.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>France 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8002.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>France 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8001.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>France 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8000.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>France Ô</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8004.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>i Télé</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/Eko/Eko/7964.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>L Equipe 21</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7977.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>M6</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8006.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTS Deux</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23733.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTS Un</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23732.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TF1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/8010.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>W9</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7975.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RSI La 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7817.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RSI La 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7807.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTS Deux</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23733.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>RTS Un</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23732.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>SRF 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7720.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>SRF 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bnt-team.ddns.net/live/ScambioToto/Qv69rDwrig/8179.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>DR 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:8000/live/VIP-766/KMJNHBGF/4096.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>SVT1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:8000/live/VIP-766/KMJNHBGF/4065.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>SVT2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:8000/live/VIP-766/KMJNHBGF/4064.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TV4 Sweden</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://abc.myplay.live:8000/live/VIP-766/KMJNHBGF/4061.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11099.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 10</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11108.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 11</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11109.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 12</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11110.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11100.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11101.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11102.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11103.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 6</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11104.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 7</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11105.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 8</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11106.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 9</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11107.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Investigation UK</title><info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8574.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Discovery Investigation US</title><info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8852.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Nickelodeon US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4319.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Astro Supersport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7494.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Astro Supersport 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/5816.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Astro Supersport 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/5816.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Astro Supersport 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://isriptv.com:25461/live/Fahmi/Fahmi/6035.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>At The Races</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7773.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sport 1 FR</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/Eko/Eko/8177.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sport 3 FR</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/Eko/Eko/8175.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sport US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/1687.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11099.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 10</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11108.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 11</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11109.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 12</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11110.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11100.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11101.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11102.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11103.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 6</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11104.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 7</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11105.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 8</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11106.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Bein Sports 9</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/11107.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>British Eurosport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7890.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>British Eurosport1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7890.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>British Eurosport2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7891.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8615.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8616.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport ESPN</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7767.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BT Sport Europe</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7769.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Canal+ Sport</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7958.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Chelsea TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ESPN 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25653.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>ESPN US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8052.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Eurosport France</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23778.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Eurosport1 DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8000/live/pYLGHnkMOH/Esuk5ULtTR/7736.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Golf Channel</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8071.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>L Equipe 21</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7977.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Manchester United TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8603.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MLB Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Motors TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/20179.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NBA TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/992.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NBC Sports Netw.</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2407.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NFL Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/957.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>NHL Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4318.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Premier Sports</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8540.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Racing UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7775.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Rai Sport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/17229.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Setanta Ireland</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7762.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Calcio</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7795.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7816.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 1 DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7738.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7815.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sport 2 DE</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/pYLGHnkMOH/Esuk5ULtTR/7737.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports 5</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://prod.proserver300.com:8080/live/delta/delta/7896.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports F1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8617.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7758.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8622.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sportsnet 360</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/carlos/carlos/14961.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sportsnet One</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8083.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sportsnet World</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/4330.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/967.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 2</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/968.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 3</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/969.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>TSN 4</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/970.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>WWE Network</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/981.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BBC News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8638.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BFM TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/23812.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>CNN USA</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2133.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Deutsche Welle</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.ts?sd=10&rebase=on</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>FOX News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/2152.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>HLN</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://watch.necroiptv.com/live/HJSNffxdfo/L9a62yHOfY/4924.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>i Télé</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://2pro.info:8080/live/Eko/Eko/7964.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>N-TV</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/7944.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Sky Sports News</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7758.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BET</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8079.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Classic UK</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/3325.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Dance</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7839.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Hits</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/7839.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV Rocks</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.geniptv.com:8080/live/dnm4crrpmE/Ce4efczIVw/1809.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>MTV US</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8929.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>VH1</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/12228.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>VH1 Europe</title>
+<info></info>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://server.internext.tv:8000/live/star18/star18/8607.ts</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
