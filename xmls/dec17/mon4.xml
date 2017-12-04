@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR yellow]8'Bein Sports 1 tv1 ok[/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=mpd://093bace1b3ab30f0f81062517cbd041b.m3u8%26referer=mpd://093bace1b3ab30f0f81062517cbd041b.m3u8</link>
+<link>mpd://093bace1b3ab30f0f81062517cbd041b.m3u8</link>
 <referer>mpd://093bace1b3ab30f0f81062517cbd041b.m3u8</referer>
 </item>
 <plugin>
