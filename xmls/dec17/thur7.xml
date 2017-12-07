@@ -2,11 +2,10 @@
 <title>[COLORred][B]17:30 - 22:30 [/COLOR][/B][COLORwhite][B]The Loop Test HD Streams [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>http://66.70.129.43:8080/Arena1-SRB/index.m3u8(Arena 1 720P)</sublink>
-<sublink>http://66.70.129.43:8080/Arena2-SRB/index.m3u8(Arena 2 720P)</sublink>
-<sublink>http://66.70.129.43:8080/Arena3-SRB/index.m3u8(Arena 3 720P)</sublink>
-<sublink>http://66.70.129.43:8080/Arena4-SRB/index.m3u8(Arena 4 720P)</sublink>
-<sublink>http://66.70.129.43:8080/Arena5-SRB/index.m3u8(Arena 5 720P)</sublink></link>
+<sublink>http://66.70.129.43:8080/Arena1-SRB/index.m3u8(Arena Sport 1 720p)</sublink>
+<sublink>http://66.70.129.43:8080/Arena2-SRB/index.m3u8(6pm Slavia Praha vs Astana 8pm Real Sociedad vs Zenit)</sublink>
+<sublink>http://66.70.129.43:8080/Arena3-SRB/index.m3u8(6pm Dynamo Kyiv vs Partizan 8pm Arsenal vs BATE)</sublink>
+<sublink>http://66.70.129.43:8080/Arena4-SRB/index.m3u8(6pm København vs Sheriff 8pm Zorya vs Athletic Club)</sublink></link>
 </item>
 <plugin>
 <title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Apollon vs Everton [/COLOR][/B]</title>
