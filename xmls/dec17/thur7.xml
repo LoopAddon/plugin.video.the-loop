@@ -1,13 +1,23 @@
+<item>
+<title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]The Loop Test HD Streams [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://66.70.129.43:8080/Arena1-SRB/index.m3u8(Arena 1 720P)</sublink>
+<sublink>http://66.70.129.43:8080/Arena2-SRB/index.m3u8(Arena 2 720P)</sublink>
+<sublink>http://66.70.129.43:8080/Arena3-SRB/index.m3u8(Arena 3 720P)</sublink>
+<sublink>http://66.70.129.43:8080/Arena4-SRB/index.m3u8(Arena 4 720P)</sublink>
+<sublink>http://66.70.129.43:8080/Arena5-SRB/index.m3u8(Arena 5 720P)</sublink></link>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Apollon vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-2-hd-online.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/fox-sports-1-usa-live-stream.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/foxsports1.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports13.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Apollon_vs_Everton_live_Football/btsports2</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-2-hd-online.html(HD)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt2.php(HD)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/fox-sports-1-usa-live-stream.html(HD)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/foxsports1.php(HD)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports13.ph(HD)p</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Apollon_vs_Everton_live_Football/btsports2(SD)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
