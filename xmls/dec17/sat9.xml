@@ -1,0 +1,1422 @@
+q /qpython/scripts/Wiz-1.py" && exit     <
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Arizona Coyotes at Boston Bruins [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arizona_Coyotes_at_Boston_Bruins_live_Hockey/nhl1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New York Islanders at Pittsburgh Penguins [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Islanders_at_Pittsburgh_Penguins_live_Hockey/nhl2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Calgary Flames at Montr�al Canadiens [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Calgary_Flames_at_Montr_al_Canadiens_live_Hockey/nhl3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Colorado Avalanche at Tampa Bay Lightning [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Colorado_Avalanche_at_Tampa_Bay_Lightning_live_Hockey/nhl4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets at Florida Panthers [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Winnipeg_Jets_at_Florida_Panthers_live_Hockey/nhl5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 03:30 [/COLOR][/B][COLORwhite][B]NBA LA Lakers at Philadelphia 76ers [/COLOR][/B]</title>
+<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/LA_Lakers_at_Philadelphia_76ers_live_NFL/nba1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Dallas Stars at St. Louis Blues [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Stars_at_St_Louis_Blues_live_Hockey/nhl6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:30 - 05:00 [/COLOR][/B][COLORwhite][B]NFL New Orleans Saints at Atlanta Falcons [/COLOR][/B]</title><info>[COLORyellow][B]NFL[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Saints_at_Atlanta_Falcons_live_NFL/stream4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards at Phoenix Suns [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_at_Phoenix_Suns_live_NBA/nba2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA Oklahoma City Thunder at Brooklyn Nets [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Oklahoma_City_Thunder_at_Brooklyn_Nets_live_NBA/nba3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers at Vancouver Canucks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_at_Vancouver_Canucks_live_Hockey/nhl7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NBA Houston Rockets at Utah Jazz [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Houston_Rockets_at_Utah_Jazz_live_NBA/nba4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators at Los Angeles Kings [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ottawa_Senators_at_Los_Angeles_Kings_live_Hockey/nhl8</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NHL Carolina Hurricanes at San Jose Sharks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Carolina_Hurricanes_at_San_Jose_Sharks_live_Hockey/nhl9</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]08:45 - 11:00 [/COLOR][/B][COLORwhite][B]Live Hyundai A-League Live Melbourne Victory v Adelaide [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Melbourne_Victory_v_Adelaide_live_Football_-_Club/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]10:30 - 11:45 [/COLOR][/B][COLORwhite][B]Live Biathlon 2017-18 World Cup: Hochfilzen- Austria [/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Hochfilzen-_Austria_live_Skiing/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]10:45 - 12:00 [/COLOR][/B][COLORwhite][B]Live Ski Jumping 2017-18 World Cup: Titisee-Neustadt- Germany [/COLOR][/B]</title>
+<info>[COLORyellow][B]Winter Sports[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Titisee-Neustadt-_Germany_live_Winter_Sports/stream22</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:30 - 13:30 [/COLOR][/B][COLORwhite][B]Italy - Serie B Novara vs Cremonese [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Novara_vs_Cremonese_live_Football/stream11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:30 - 13:45 [/COLOR][/B][COLORwhite][B]Live Hockey Live Men-s Hockey World League: 2017 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Men-s_Hockey_World_League_2017_live_Hockey/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:45 - 13:00 [/COLOR][/B][COLORwhite][B]Live Alpine Skiing 2017-18 World Cup: St Moritz- Switzerland [/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_St_Moritz-_Switzerland_live_Skiing/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:00 - 14:30 [/COLOR][/B][COLORwhite][B]Live Biathlon 2017-18 World Cup: Hochfilzen- Austria [/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Hochfilzen-_Austria_live_Skiing/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:00 - 16:00 [/COLOR][/B][COLORwhite][B]Live Snooker: UK Championship 2017 Quarter-Finals [/COLOR][/B]</title>
+<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Quarter-Finals_live_Snooker/stream22</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:45 - 16:00 [/COLOR][/B][COLORwhite][B]Live Hockey Live Men-s Hockey World League: 2017 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Men-s_Hockey_World_League_2017_live_Hockey/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]Italy - Serie B Ternana vs Parma [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ternana_vs_Parma_live_Football/stream11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Russia - Premier League Ural vs Arsenal Tula [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ural_vs_Arsenal_Tula_live_Football/stream60</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:30 - 17:30 [/COLOR][/B][COLORwhite][B]Bulgaria - Parva Liga Septemvri Sofia vs Cherno More [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Septemvri_Sofia_vs_Cherno_More_live_Football/stream31</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]Serbia - Super Liga Vozdovac vs Spartak Subotica [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vozdovac_vs_Spartak_Subotica_live_Football/stream47</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Croatia - 1- HNL Inter Zapresic vs Cibalia [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Inter_Zapresic_vs_Cibalia_live_Football/stream46</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Italy - Serie B Cesena vs Pescara [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cesena_vs_Pescara_live_Football/stream11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Poland - Ekstraklasa Sandecja  vs Jagiellonia [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sandecja_vs_Jagiellonia_live_Football/stream35</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Turkey - Super Lig Bursaspor vs Fenerbahce [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Bursaspor_vs_Fenerbahce_live_Football/stream41</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Eintracht Braunschweig vs Holstein Kiel [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Eintracht_Braunschweig_vs_Holstein_Kiel_live_Football/stream13</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Erzgebirge Aue vs Darmstadt 98 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Erzgebirge_Aue_vs_Darmstadt_98_live_Football/stream14</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Simulcast [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Simulcast_live_Football/stream12</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:00 - 19:30 [/COLOR][/B][COLORwhite][B]Live Freestyle Skiing 2017-18 World Cup: Copper Mountain- Colorado [/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Copper_Mountain-_Colorado_live_Skiing/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:45 - 19:15 [/COLOR][/B][COLORwhite][B]Live Scottish Football Extra 2017-18 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Football_-_Club/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fana<plugin>
+<title>[COLORred][B]06:30 - 08:45 [/COLOR][/B][COLORwhite][B]Live Hyundai A-League Live Brisbane Roar v Wellington [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Brisbane_Roar_v_Wellington_live_Football_-_Club/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]07:30 - 08:45 [/COLOR][/B][COLORwhite][B]Live Figure Skating: Grand Prix 2017 Grand Prix Final: Pairs- Free [/COLOR][/B]</title>
+<info>[COLORyellow][B]Figure Skating[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Grand_Prix_Final_Pairs-_Free_live_Figure_Skating/stream22</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]08:15 - 09:30 [/COLOR][/B][COLORwhite][B]Live Alpine Skiing 2017-18 World Cup: Val d-Isere- France [/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Val_d-Isere-_France_live_Skiing/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]08:45 - 11:00 [/COLOR][/B][COLORwhite][B]Live Hyundai A-League Live Western Sydney v Sydney FC [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Western_Sydney_v_Sydney_FC_live_Football_-_Club/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]08:45 - 10:15 [/COLOR][/B][COLORwhite][B]Live Figure Skating: Grand Prix 2017 Grand Prix Final: Free Dance [/COLOR][/B]</title>
+<info>[COLORyellow][B]Figure Skating[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Grand_Prix_Final_Free_Dance_live_Figure_Skating/stream22</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]09:30 - 11:15 [/COLOR][/B][COLORwhite][B]Live Alpine Skiing 2017-18 World Cup: St Moritz- Switzerland [/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_St_Moritz-_Switzerland_live_Skiing/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]10:00 - 11:30 [/COLOR][/B][COLORwhite][B]Soccer AM 09-12-2017 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football/Soccer[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/09-12-2017_live_Football_Soccer/stream32</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]10:00 - 12:00 [/COLOR][/B][COLORwhite][B]Romania - Liga II Hermannstadt vs Afumati [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Hermannstadt_vs_Afumati_live_Football/stream33</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:00 - 13:00 [/COLOR][/B][COLORwhite][B]Turkey - Super Lig Kasampasa vs Trabzonspor [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kasampasa_vs_Trabzonspor_live_Football/stream41</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:00 - 13:00 [/COLOR][/B][COLORwhite][B]Russia - Premier League Dinamo Moskva vs Anzhi [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dinamo_Moskva_vs_Anzhi_live_Football/stream60</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:00 - 13:00 [/COLOR][/B][COLORwhite][B]Australia - A-League Perth Glory vs Newcastle Jets [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Perth_Glory_vs_Newcastle_Jets_live_Football/btsports2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]11:15 - 13:15 [/COLOR][/B][COLORwhite][B]Portugal - LigaPro Famalicao vs Santa Clara [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Famalicao_vs_Santa_Clara_live_Football/stream20</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Spain - La Liga Getafe vs Eibar [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Getafe_vs_Eibar_live_Football/stream10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Montenegro - Prva Crnogorska Liga Rudar vs Mladost [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rudar_vs_Mladost_live_Football/stream47</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Greuther Furth vs Heidenheim [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Greuther_Furth_vs_Heidenheim_live_Football/stream16</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Jahn Regensburg vs Bochum [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Jahn_Regensburg_vs_Bochum_live_Football/stream15</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Union Berlin vs Dynamo Dresden [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Union_Berlin_vs_Dynamo_Dresden_live_Football/stream14</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga 2 Simulcast [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Simulcast_live_Football/stream13</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Slovenia - Prva Liga Ankaran vs Triglav Kranj [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ankaran_vs_Triglav_Kranj_live_Football/stream55</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Ukraine - Premier League Illychivets vs Stal Kamianske [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Illychivets_vs_Stal_Kamianske_live_Football/stream39</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - National League Macclesfield Town vs Wrexham [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Macclesfield_Town_vs_Wrexham_live_Football/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League West Ham United vs Chelsea [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Ham_United_vs_Chelsea_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:30 - 15:00 [/COLOR][/B][COLORwhite][B]Live European Rugby Champions Cup Scarlets v Benetton Treviso [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Scarlets_v_Benetton_Treviso_live_Rugby_Union_-_Domestic/skysportsaction</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:00 - 15:00 [/COLOR][/B][COLORwhite][B]Bulgaria - Parva Liga Botev Plovdiv vs Etar [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Botev_Plovdiv_vs_Etar_live_Football/stream31</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:00 - 15:00 [/COLOR][/B][COLORwhite][B]FIFA Club World Cup Pachuca vs Wydad Casablanca [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Pachuca_vs_Wydad_Casablanca_live_Football/stream43</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:00 - 16:00 [/COLOR][/B][COLORwhite][B]Live Snooker: UK Championship 2017 First Semi-Final [/COLOR][/B]</title>
+<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_First_Semi-Final_live_Snooker/stream22</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]Turkey - Super Lig Antalyaspor vs Genclerbirligi [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Antalyaspor_vs_Genclerbirligi_live_Football/stream41</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]Russia - Premier League Rubin Kazan- vs SKA Khabarovsk [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rubin_Kazan-_vs_SKA_Khabarovsk_live_Football/stream60</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]Croatia - 1- HNL Dinamo Zagreb vs Istra 1961 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dinamo_Zagreb_vs_Istra_1961_live_Football/stream47</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]Slovenia - Prva Liga Rudar vs Domzale [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rudar_vs_Domzale_live_Football/stream55</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]France - Ligue 2 Ajaccio vs Le Havre [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ajaccio_vs_Le_Havre_live_Football/stream9</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:00 - 17:00 [/COLOR][/B][COLORwhite][B]Live One Fighting Championship 2017 Bangkok - Warriors of the World [/COLOR][/B]</title>
+<info>[COLORyellow][B]Combat Sports (without own category)[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Bangkok_-_Warriors_of_the_World_live_Combat_Sports_without_own_category_/stream36</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga Borussia Dortmund vs Werder Bremen [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Borussia_Dortmund_vs_Werder_Bremen_live_Football/stream14</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga Eintracht Frankfurt vs Bayern Munchen [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Eintracht_Frankfurt_vs_Bayern_Munchen_live_Football/stream13</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga Hamburger SV vs Wolfsburg [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Hamburger_SV_vs_Wolfsburg_live_Football/stream16</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga RB Leipzig vs Mainz 05 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/RB_Leipzig_vs_Mainz_05_live_Football/stream15</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga Simulcast [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Simulcast_live_Football/stream12</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Denmark - Super Liga FC Helsingor vs Lyngby [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/FC_Helsingor_vs_Lyngby_live_Football/stream19</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Burnley vs Watford [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burnley_vs_Watford_live_Football/stream2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs AFC Bournemouth [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_AFC_Bournemouth_live_Football/stream5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Huddersfield Town vs Brighton - Hove Albion [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_Brighton_-_Hove_Albion_live_Football/stream3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Swansea City vs West Bromwich Albion [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swansea_City_vs_West_Bromwich_Albion_live_Football/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Tottenham Hotspur vs Stoke City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_Stoke_City_live_Football/stream4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Queens Park Rangers vs Leeds United [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Queens_Park_Rangers_vs_Leeds_United_live_Football/stream31</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Romania - Liga I Viitorul vs Concordia Chiajna [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Viitorul_vs_Concordia_Chiajna_live_Football/stream33</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Austria - Football Bundesliga Rapid Wien vs Mattersburg [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rapid_Wien_vs_Mattersburg_live_Football/stream59</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Ukraine - Premier League Olimpik Donetsk vs Vorskla [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Olimpik_Donetsk_vs_Vorskla_live_Football/stream38</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:30 [/COLOR][/B][COLORwhite][B]Live European Rugby Challenge Cup Live Newcastle Falcons v Bordeaux [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - International[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Newcastle_Falcons_v_Bordeaux_live_Rugby_Union_-_International/btsports2</sublink></link><referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:15 [/COLOR][/B][COLORwhite][B]Live European Rugby Champions Cup Toulon v Bath [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toulon_v_Bath_live_Rugby_Union_-_Domestic/skysportsaction</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Spain - La Liga Real Madrid vs Sevilla [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Real_Madrid_vs_Sevilla_live_Football/stream10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Live European Rugby Champions Cup Toulon v Bath [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toulon_v_Bath_live_Rugby_Union_-_Domestic/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:30 - 17:30 [/COLOR][/B][COLORwhite][B]Bulgaria - Parva Liga Slavia Sofia vs Levski Sofia [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Slavia_Sofia_vs_Levski_Sofia_live_Football/stream31</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:50 - 17:50 [/COLOR][/B][COLORwhite][B]Slovenia - Prva Liga Olimpija vs Celje [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Olimpija_vs_Celje_live_Football/stream56</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]Croatia - 1- HNL Osijek vs Rudes [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Osijek_vs_Rudes_live_Football/stream47</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 PSG vs Lille [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/PSG_vs_Lille_live_Football/stream8</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]Portugal - Primeira Liga Desportivo Aves vs Tondela [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Desportivo_Aves_vs_Tondela_live_Football/stream20</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]Turkey - Super Lig Galatasaray vs Akhisar Belediyespor [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Galatasaray_vs_Akhisar_Belediyespor_live_Football/stream41</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]FIFA Club World Cup Al Jazira vs Urawa Reds [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Al_Jazira_vs_Urawa_Reds_live_Football/stream43</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Italy - Serie A Cagliari vs Sampdoria [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cagliari_vs_Sampdoria_live_Football/stream11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Poland - Ekstraklasa Korona Kielce vs Arka Gdynia [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Korona_Kielce_vs_Arka_Gdynia_live_Football/stream35</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:15 - 19:45 [/COLOR][/B][COLORwhite][B]Live European Rugby Champions Cup Northampton Saints v Ospreys [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Northampton_Saints_v_Ospreys_live_Rugby_Union_-_Domestic/skysportsaction</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Newcastle United vs Leicester City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Leicester_City_live_Football/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Spain - La Liga Deportivo La Coruna vs Leganes [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Deportivo_La_Coruna_vs_Leganes_live_Football/stream10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga Borussia M-gladbach vs Schalke 04 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Borussia_M-gladbach_vs_Schalke_04_live_Football/stream12</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Championship Norwich City vs Sheffield Wednesday [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Norwich_City_vs_Sheffield_Wednesday_live_Football/stream32</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Netherlands - Eredivisie Heerenveen vs VVV [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Heerenveen_vs_VVV_live_Football/stream18</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Austria - Football Bundesliga LASK Linz vs Admira [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/LASK_Linz_vs_Admira_live_Football/stream44</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Austria - Football Bundesliga Sturm Graz vs St- Polten [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sturm_Graz_vs_St-_Polten_live_Football/stream45</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]European Challenge Cup Castres Olympique vs Racing 92 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Castres_Olympique_vs_Racing_92_live_Rugby/stream40</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Switzerland - Axpo Super League Sion vs Thun [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sion_vs_Thun_live_Football/stream29</sublink></link><referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Romania - Liga I CFR Cluj vs ACS Poli Timisoara [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/CFR_Cluj_vs_ACS_Poli_Timisoara_live_Football/stream33</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL St. Louis Blues at Detroit Red Wings [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/St_Louis_Blues_at_Detroit_Red_Wings_live_Hockey/nhl1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:15 - 20:15 [/COLOR][/B][COLORwhite][B]Portugal - Primeira Liga Benfica vs Estoril [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Benfica_vs_Estoril_live_Football/stream21</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:35 - 19:45 [/COLOR][/B][COLORwhite][B]Live Boxing Live: Mullender v Churcher [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Mullender_v_Churcher_live_Boxing/stream28</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:45 - 20:45 [/COLOR][/B][COLORwhite][B]Netherlands - Eredivisie AZ vs Heracles [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AZ_vs_Heracles_live_Football/stream17</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:45 - 20:45 [/COLOR][/B][COLORwhite][B]Netherlands - Eredivisie Excelsior vs PEC Zwolle [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Excelsior_vs_PEC_Zwolle_live_Football/stream27</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:45 - 22:00 [/COLOR][/B][COLORwhite][B]Live Snooker: UK Championship 2017 Second Semi-Final [/COLOR][/B]</title>
+<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017_Second_Semi-Final_live_Snooker/stream22</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Angers SCO vs Montpellier [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Angers_SCO_vs_Montpellier_live_Football/stream50</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Guingamp vs Dijon [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Guingamp_vs_Dijon_live_Football/stream51</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Metz vs Rennes [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Metz_vs_Rennes_live_Football/stream52</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Monaco vs Troyes [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Monaco_vs_Troyes_live_Football/stream53</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Toulouse vs Caen [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toulouse_vs_Caen_live_Football/stream54</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Simulcast [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Simulcast_live_Football/stream9</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:15 - 22:00 [/COLOR][/B][COLORwhite][B]Live European Rugby Champions Cup Live Munster v Leicester Tigers [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Munster_v_Leicester_Tigers_live_Rugby_Union_-_Domestic/btsports2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]Poland - Ekstraklasa Legia Warszawa vs Nieciecza [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Legia_Warszawa_vs_Nieciecza_live_Football/stream35</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Spain - La Liga Valencia vs Celta de Vigo [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Valencia_vs_Celta_de_Vigo_live_Football/stream10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Italy - Serie A Juventus vs Internazionale [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Juventus_vs_Internazionale_live_Football/stream11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Netherlands - Eredivisie Twente vs ADO Den Haag [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Twente_vs_ADO_Den_Haag_live_Football/stream18</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 00:00 [/COLOR][/B][COLORwhite][B]Live Boxing Live: Degale v Truax [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Degale_v_Truax_live_Boxing/stream28</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 00:00 [/COLOR][/B][COLORwhite][B]Boxing James DeGale vs Caleb Truax [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/James_DeGale_vs_Caleb_Truax_live_Boxing/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]Argentina - Superliga Argentina Rosario Central vs Newell-s Old Boys [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rosario_Central_vs_Newell-s_Old_Boys_live_Football/stream49</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]20:00 - 23:30 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Army v Navy [/COLOR][/B]</title>
+<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Army_v_Navy_live_American_Football/stream37</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]20:30 - 22:30 [/COLOR][/B][COLORwhite][B]Portugal - Primeira Liga Boavista vs Sporting CP [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boavista_vs_Sporting_CP_live_Football/stream20</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards at LA Clippers [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_at_LA_Clippers_live_NBA/nba1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]United States - MLS Cup Toronto vs Seattle Sounders FC [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_vs_Seattle_Sounders_FC_live_Football/stream5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]23:00 - 01:30 [/COLOR][/B][COLORwhite][B]NBA Miami Heat at Brooklyn Nets [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Heat_at_Brooklyn_Nets_live_NBA/nba2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]23:30 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Florida - Cincinnati [/COLOR][/B]</title>
+<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Florida_-_Cincinnati_live_Basketball/stream37</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA LA Lakers at Charlotte Hornets [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/LA_Lakers_at_Charlotte_Hornets_live_NBA/nba3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Arizona Coyotes at Columbus Blue Jackets [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arizona_Coyotes_at_Columbus_Blue_Jackets_live_Hockey/nhl2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Toronto Maple Leafs at Pittsburgh Penguins [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Maple_Leafs_at_Pittsburgh_Penguins_live_Hockey/nhl3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New York Islanders at Boston Bruins [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Islanders_at_Boston_Bruins_live_Hockey/nhl4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers at Montreal Canadiens [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_at_Montreal_Canadiens_live_Hockey/nhl5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets at Tampa Bay Lightning [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Winnipeg_Jets_at_Tampa_Bay_Lightning_live_Hockey/nhl6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Colorado Avalanche at Florida Panthers [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Colorado_Avalanche_at_Florida_Panthers_live_Hockey/nhl7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils at New York Rangers [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_at_New_York_Rangers_live_Hockey/nhl8</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Orlando Magic at Atlanta Hawks [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Orlando_Magic_at_Atlanta_Hawks_live_NBA/nba4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 123 Swanson vs Ortega, Prelims [/COLOR][/B]</title>
+<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swanson_vs_Ortega_Prelims_live_UFC/stream7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]Bellator 190 Carvalho vs Sakara [/COLOR][/B]</title>
+<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Carvalho_vs_Sakara_live_UFC/stream4</sublink></link><referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA New York Knicks at Chicago Bulls [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Knicks_at_Chicago_Bulls_live_NBA/nba5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Philadelphia 76ers at Cleveland Cavaliers [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_76ers_at_Cleveland_Cavaliers_live_NBA/nba6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Vegas Golden Knights at Dallas Stars [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vegas_Golden_Knights_at_Dallas_Stars_live_Hockey/nhl9</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA Utah Jazz at Milwaukee Bucks [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Utah_Jazz_at_Milwaukee_Bucks_live_NBA/nba7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]Boxing Guillermo Rigondeaux vs Vasyl Lomanchenko [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Guillermo_Rigondeaux_vs_Vasyl_Lomanchenko_live_Boxing/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Oklahoma City Thunder at Memphis Grizzlies [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Oklahoma_City_Thunder_at_Memphis_Grizzlies_live_NBA/nba8</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA San Antonio Spurs at Phoenix Suns [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Antonio_Spurs_at_Phoenix_Suns_live_NBA/nba9</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 05:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 123 Swanson vs Ortega [/COLOR][/B]</title>
+<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swanson_vs_Ortega_live_UFC/stream7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]Boxing Orlando Salido vs Miguel Roman [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Orlando_Salido_vs_Miguel_Roman_live_Boxing/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 04:15 [/COLOR][/B][COLORwhite][B]Boxing Tevin Farmer v Kenichi Ogawa [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tevin_Farmer_v_Kenichi_Ogawa_live_Boxing/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 05:00 [/COLOR][/B][COLORwhite][B]Boxing Francisco Vargas v Stephen Smith [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Francisco_Vargas_v_Stephen_Smith_live_Boxing/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA Houston Rockets at Portland Trail Blazers [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Houston_Rockets_at_Portland_Trail_Blazers_live_NBA/nba10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Vancouver Canucks at Calgary Flames [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vancouver_Canucks_at_Calgary_Flames_live_Hockey/nhl10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators at San Jose Sharks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ottawa_Senators_at_San_Jose_Sharks_live_Hockey/nhl11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NHL Carolina Hurricanes at Los Angeles Kings [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Carolina_Hurricanes_at_Los_Angeles_Kings_live_Hockey/nhl12</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
