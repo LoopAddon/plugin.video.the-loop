@@ -1,8 +1,8 @@
 <item>
 <title>[COLORred][B]ALL DAY [/COLOR][/B][COLORwhite][B]The Loop Test HD Streams [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
 <link>http://31.220.0.134:8081/live/jtvs1/playlist.m3u8</link>
+</item>
 <plugin>
 <title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Premier League Southampton vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
