@@ -18,7 +18,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Newcastle United vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -36,17 +36,12 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Southampton vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1213104225/OTT11_VIDEO_0_5564000.m3u8|Cookie=_alid_=Ja/T59t5nV66UsMMyqBTOA==; hdntl=exp=1513278309~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=0bc2e3fea99deda4cce0d6f0a5d70f45bd80e81b513239f248fe6279cc59a9c5&X-Forwarded-For=75.119.202.80(1080)</sublink>\
-<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1213104225/OTT11_VIDEO_1_4064000.m3u8|Cookie=_alid_=Ja/T59t5nV66UsMMyqBTOA==; hdntl=exp=1513278309~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=0bc2e3fea99deda4cce0d6f0a5d70f45bd80e81b513239f248fe6279cc59a9c5&X-Forwarded-For=75.119.202.80(720)</sublink>\
-<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1213104225/OTT11_VIDEO_2_2264000.m3u8|Cookie=_alid_=Ja/T59t5nV66UsMMyqBTOA==; hdntl=exp=1513278309~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=0bc2e3fea99deda4cce0d6f0a5d70f45bd80e81b513239f248fe6279cc59a9c5&X-Forwarded-For=75.119.202.80(576)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-3-online.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports9.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-9-arabe-live.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Leicester_City_live_Football/stream5</sublink></link>
-<referer></referer>
+<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1213104225/OTT11_VIDEO_0_5564000.m3u8|Cookie=_alid_=Ja/T59t5nV66UsMMyqBTOA==;hdntl=exp=1513278309~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=0bc2e3fea99deda4cce0d6f0a5d70f45bd80e81b513239f248fe6279cc59a9c5&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1213104225/OTT11_VIDEO_1_4064000.m3u8|Cookie=_alid_=Ja/T59t5nV66UsMMyqBTOA==;hdntl=exp=1513278309~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=0bc2e3fea99deda4cce0d6f0a5d70f45bd80e81b513239f248fe6279cc59a9c5&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1213104225/OTT11_VIDEO_2_2264000.m3u8|Cookie=_alid_=Ja/T59t5nV66UsMMyqBTOA==;hdntl=exp=1513278309~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=0bc2e3fea99deda4cce0d6f0a5d70f45bd80e81b513239f248fe6279cc59a9c5&X-Forwarded-For=75.119.202.80(576)</sublink></link>
 <thumbnail>http://www.tsmplug.com/wp-content/uploads/2015/10/Southampton-Vs-Leicester-City.png</thumbnail>
 <fanart>http://www.tsmplug.com/wp-content/uploads/2015/10/Southampton-Vs-Leicester-City.png</fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Swansea City vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
