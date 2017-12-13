@@ -19,18 +19,18 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Premier League Newcastle United vs Everton [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Newcastle United vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/beinsports8.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-8-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Everton_live_Football/stream7</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.tsmplug.com/wp-content/uploads/2015/12/5.png</thumbnail>
+<fanart>http://www.tsmplug.com/wp-content/uploads/2015/12/5.png</fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Premier League Southampton vs Leicester City [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Southampton vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-3-online.html</sublink>
@@ -38,11 +38,11 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-9-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Leicester_City_live_Football/stream5</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.tsmplug.com/wp-content/uploads/2015/10/Southampton-Vs-Leicester-City.png</thumbnail>
+<fanart>http://www.tsmplug.com/wp-content/uploads/2015/10/Southampton-Vs-Leicester-City.png</fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Premier League Swansea City vs Manchester City [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Swansea City vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/nbcsn.php</sublink>
@@ -53,8 +53,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-2-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swansea_City_vs_Manchester_City_live_Football/stream2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.tsmplug.com/wp-content/uploads/2015/12/Manchester-City-Vs-Swansea-City.jpg</thumbnail>
+<fanart>http://www.tsmplug.com/wp-content/uploads/2015/12/Manchester-City-Vs-Swansea-City.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]SPL - Hibs vs Rangers [/COLOR][/B]</title>
@@ -81,8 +81,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-3-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_West_Bromwich_Albion_live_Football/stream1</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.tsmplug.com/wp-content/uploads/2015/04/Liverpool-Vs-West-Brom.jpg</thumbnail>
+<fanart>http://www.tsmplug.com/wp-content/uploads/2015/04/Liverpool-Vs-West-Brom.jpg</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs AFC Bournemouth [/COLOR][/B]</title>
@@ -94,11 +94,11 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-1-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_AFC_Bournemouth_live_Football/stream3</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.manutd.com/sitecore/shell/~/media/15C402FF5FB742338AD98271AAE53DE5.ashx?w=1280&h=720&rgn=0,0,2000,1125</thumbnail>
+<fanart>http://www.manutd.com/sitecore/shell/~/media/15C402FF5FB742338AD98271AAE53DE5.ashx?w=1280&h=720&rgn=0,0,2000,1125</fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Premier League West Ham United vs Arsenal [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - West Ham United vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/bt1.php</sublink>
@@ -108,11 +108,11 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-4-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Ham_United_vs_Arsenal_live_Football/btsports1</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/QLSaeMTtvuI/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/QLSaeMTtvuI/hqdefault.jpg</fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Premier League Tottenham Hotspur vs Brighton - Hove Albion [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Tottenham vs Brighton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-5-online.html</sublink>
@@ -120,8 +120,8 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bein-sport-7-arabe-live.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_Brighton_-_Hove_Albion_live_Football/stream6</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.brightonandhovealbion.com/siteassets/image/preview-pics/totbha-preview.jpg/Large</thumbnail>
+<fanart>https://www.brightonandhovealbion.com/siteassets/image/preview-pics/totbha-preview.jpg/Large</fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Oklahoma City Thunder at Indiana Pacers [/COLOR][/B]</title>
