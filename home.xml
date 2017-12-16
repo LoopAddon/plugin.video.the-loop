@@ -45,7 +45,7 @@
 </dir>
 
 <dir>
-        <name>Film Zone</name>
+        <name>Film Zone<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FilmZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/K2UgR6H.png</thumbnail>
@@ -54,7 +54,7 @@
 </dir>
 
 <dir>
-        <name>TV Zone</name>
+        <name>TV Zone<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TVZone</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
