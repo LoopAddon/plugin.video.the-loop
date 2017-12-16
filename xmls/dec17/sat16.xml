@@ -1,114 +1,11 @@
-<plugin>
-<title>[COLORred][B]17:15 - 19:40 [/COLOR][/B][COLORwhite][B]Live EFL Cardiff City v Hull City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Hull_City_live_Football/stream32</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_v_Hull_City_live_Football_-_Club/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 <item>
-<title>[B][COLOR cyan]1730 - [/COLOR][/B]Man City v. Tottenham</title>
-<link>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216080117/OTT02_VIDEO_0_5564000.m3u8|Cookie=_alid_=zuf4iecfRAid/5Nqh9lGpA==; hdntl=exp=1513528484~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=31a69fc24659347eee4a81f81f02241fe4e42cbfa77f01542a72c3dd8eac73be&X-Forwarded-For=75.119.202.80(1080)</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216080117/OTT02_VIDEO_1_4064000.m3u8|Cookie=_alid_=zuf4iecfRAid/5Nqh9lGpA==; hdntl=exp=1513528484~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=31a69fc24659347eee4a81f81f02241fe4e42cbfa77f01542a72c3dd8eac73be&X-Forwarded-For=75.119.202.80(720)</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216080117/OTT02_VIDEO_2_2264000.m3u8|Cookie=_alid_=zuf4iecfRAid/5Nqh9lGpA==; hdntl=exp=1513528484~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=31a69fc24659347eee4a81f81f02241fe4e42cbfa77f01542a72c3dd8eac73be&X-Forwarded-For=75.119.202.80(576)</sublink>
-</link>
-<summary>Man City v. Tottenham</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201824_m50.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201824_1920x1080.jpg</fanart>
-</item>
-<plugin>
-<title>[COLORred][B]18:00 - 21:30 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: New Orleans Bowl [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_New_Orleans_Bowl_live_American_Football/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Three: Evening Session [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Three_Evening_Session_live_Darts/stream30</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 20:00 [/COLOR][/B][COLORwhite][B]PL Saturday Review 2017-18 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Football_-_Club/skysportspremierleague</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 22:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers @ Minnesota Wild [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_Minnesota_Wild_live_Hockey/nhl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:40 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Three: Evening Session [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Three_Evening_Session_live_Darts/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Las Vegas Bowl [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Las_Vegas_Bowl_live_American_Football/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:30 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: New Mexico Bowl [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_New_Mexico_Bowl_live_American_Football/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:30 - 00:03 [/COLOR][/B][COLORwhite][B]NFL Chicago Bears @ Detroit Lions [/COLOR][/B]</title>
-<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chicago_Bears_Detroit_Lions_live_NFL/nfl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NHL New York Rangers @ Boston Bruins [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Rangers_Boston_Bruins_live_Hockey/nhl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
 <title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]UFC on FOX 26: Lawler vs Dos Anjos, Prelims [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Lawler_vs_Dos_Anjos_Prelims_live_UFC/stream24</sublink></link>
+<link>http://nlds211.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_ipad.m3u8|Cookie=X-NL-SK-nlds-ufce-affiliate-as-live%3dFJsmSPq%252Fb%252FuM49EuW7Y8kfl9GTr8BF52o7ZJ%252BVvpuAoKVs8eUYEHKEqAkdEI%252F66myhSqCyOn1CxtOobv%252FK3jugPVMkbKvG%252BbCV6QUjHw%252F9LVyppH2eGFkja4oLHJ7GUi&User-Agent=Safari%2f537.36+Mozilla%2f5.0+AppleWebKit%2f537.36+Chrome%2f31.0.1650.57</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets @ St. Louis Blues [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
