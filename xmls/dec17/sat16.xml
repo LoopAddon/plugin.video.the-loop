@@ -1,105 +1,70 @@
 <item>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]EPL - Leicester vs Palace[/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Goal Rush</title>
 <link>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216020535/OTT02_VIDEO_0_5564000.m3u8|Cookie=_alid_=9r2600L/Pggy1ewPKTM+1g==; hdntl=exp=1513509822~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=48ef24346b2841eb2d0bb8e21ac8359bedcead633c8d8f83039b9f32a25ad9ac&X-Forwarded-For=75.119.202.80(1080)</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216020535/OTT02_VIDEO_1_4064000.m3u8|Cookie=_alid_=9r2600L/Pggy1ewPKTM+1g==; hdntl=exp=1513509822~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=48ef24346b2841eb2d0bb8e21ac8359bedcead633c8d8f83039b9f32a25ad9ac&X-Forwarded-For=75.119.202.80(720)</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216020535/OTT02_VIDEO_2_2264000.m3u8|Cookie=_alid_=9r2600L/Pggy1ewPKTM+1g==; hdntl=exp=1513509822~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=48ef24346b2841eb2d0bb8e21ac8359bedcead633c8d8f83039b9f32a25ad9ac&X-Forwarded-For=75.119.202.80(576)</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports1216020535/OTT02_VIDEO_0_5564000.m3u8?token=st=1513428605~exp=1513428725~acl=/hls/live/222320/nbc-sports1216020535/</sublink></link>
-<summary>Leicester City v. Crystal Palace</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201815_m50.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201815_1920x1080.jpg</fanart>
+<sublink>http://sprtott13-i.akamaihd.net/hls/live/222816/nbc-sports1216052832/OTT13_VIDEO_0_5564000.m3u8|Cookie=_alid_=hY9mv5m1FbqMAWVbH73JeA==; hdntl=exp=1513519822~acl=%2fhls%2flive%2f222816*~data=hdntl~hmac=7fa35a1d78996041541c3de00b884109fd1d21b76def10fe03c20f1cb63fabe2&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott13-i.akamaihd.net/hls/live/222816/nbc-sports1216052832/OTT13_VIDEO_1_4064000.m3u8|Cookie=_alid_=hY9mv5m1FbqMAWVbH73JeA==; hdntl=exp=1513519822~acl=%2fhls%2flive%2f222816*~data=hdntl~hmac=7fa35a1d78996041541c3de00b884109fd1d21b76def10fe03c20f1cb63fabe2&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott13-i.akamaihd.net/hls/live/222816/nbc-sports1216052832/OTT13_VIDEO_2_2264000.m3u8|Cookie=_alid_=hY9mv5m1FbqMAWVbH73JeA==; hdntl=exp=1513519822~acl=%2fhls%2flive%2f222816*~data=hdntl~hmac=7fa35a1d78996041541c3de00b884109fd1d21b76def10fe03c20f1cb63fabe2&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Watch all the 3pm match goals as they happen</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201567_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201567_1920x1080.jpg</fanart>
 </item>
-<plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Aberdeen vs Hibernian [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+
+<item>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Watford v. Huddersfield</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aberdeen_vs_Hibernian_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30 - 16:30 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Three: Afternoon Session [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
+<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1216054629/OTT11_VIDEO_0_5564000.m3u8|Cookie=_alid_=1ZErhyxbWmPqE4AODxefrQ==; hdntl=exp=1513520007~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=afdbce4803ce6b2b1db6f4726ba3bc8a7ad3f2b8a19fb5019f89d07cf5f309b5&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1216054629/OTT11_VIDEO_0_5564000.m3u8|Cookie=_alid_=1ZErhyxbWmPqE4AODxefrQ==; hdntl=exp=1513520007~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=afdbce4803ce6b2b1db6f4726ba3bc8a7ad3f2b8a19fb5019f89d07cf5f309b5&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott11-i.akamaihd.net/hls/live/222817/nbc-sports-gold1216054629/OTT11_VIDEO_0_5564000.m3u8|Cookie=_alid_=1ZErhyxbWmPqE4AODxefrQ==; hdntl=exp=1513520007~acl=%2fhls%2flive%2f222817*~data=hdntl~hmac=afdbce4803ce6b2b1db6f4726ba3bc8a7ad3f2b8a19fb5019f89d07cf5f309b5&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Watford v. Huddersfield</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201826_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201826_1920x1080.jpg</fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Chelsea v. Southampton</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Three_Afternoon_Session_live_Darts/stream30</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Newcastle United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1216052144/OTT04_VIDEO_0_5564000.m3u8|Cookie=_alid_=umpyPpzDOWLBpwTkhNI5RA==; hdntl=exp=1513520095~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=5561d264b34a5ccc5b336c8595d3b5ec8ec7cd487911dfa308f5a06cad4636a0&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1216052144/OTT04_VIDEO_1_4064000.m3u8|Cookie=_alid_=umpyPpzDOWLBpwTkhNI5RA==; hdntl=exp=1513520095~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=5561d264b34a5ccc5b336c8595d3b5ec8ec7cd487911dfa308f5a06cad4636a0&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1216052144/OTT04_VIDEO_2_2264000.m3u8|Cookie=_alid_=umpyPpzDOWLBpwTkhNI5RA==; hdntl=exp=1513520095~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=5561d264b34a5ccc5b336c8595d3b5ec8ec7cd487911dfa308f5a06cad4636a0&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Chelsea v. Southampton</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201816_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201816_1920x1080.jpg</fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Brighton v. Burnley</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Newcastle_United_live_Football/stream4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Brighton - Hove Albion vs Burnley [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>http://sprtott5-i.akamaihd.net/hls/live/222323/nbc-sports-gold1216053757/OTT05_VIDEO_0_5564000.m3u8|Cookie=_alid_=FBdtLakLAa79jzTE5riP0Q==; hdntl=exp=1513520185~acl=%2fhls%2flive%2f222323*~data=hdntl~hmac=a048dc73011109e60baae11756be5a84b134a36e8ef9f083d76d6793cdd04ede&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott5-i.akamaihd.net/hls/live/222323/nbc-sports-gold1216053757/OTT05_VIDEO_1_4064000.m3u8|Cookie=_alid_=FBdtLakLAa79jzTE5riP0Q==; hdntl=exp=1513520185~acl=%2fhls%2flive%2f222323*~data=hdntl~hmac=a048dc73011109e60baae11756be5a84b134a36e8ef9f083d76d6793cdd04ede&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott5-i.akamaihd.net/hls/live/222323/nbc-sports-gold1216053757/OTT05_VIDEO_2_2264000.m3u8|Cookie=_alid_=FBdtLakLAa79jzTE5riP0Q==; hdntl=exp=1513520185~acl=%2fhls%2flive%2f222323*~data=hdntl~hmac=a048dc73011109e60baae11756be5a84b134a36e8ef9f083d76d6793cdd04ede&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Brighton v. Burnley</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201820_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201820_1920x1080.jpg</fanart>
+</item>
+<item>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Arsenal v. Newcastle</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_Burnley_live_Football/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Chelsea vs Southampton [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>http://sprtott3-i.akamaihd.net/hls/live/222321/nbc-sports1216054259/OTT03_VIDEO_0_5564000.m3u8|Cookie=_alid_=7qyD7YAdmfAvlkTQszC10w==; hdntl=exp=1513520270~acl=%2fhls%2flive%2f222321*~data=hdntl~hmac=34b6551ecbda201718f7af5dcde333768f4496968343aa698afb19cac17276bb&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott3-i.akamaihd.net/hls/live/222321/nbc-sports1216054259/OTT03_VIDEO_1_4064000.m3u8|Cookie=_alid_=7qyD7YAdmfAvlkTQszC10w==; hdntl=exp=1513520270~acl=%2fhls%2flive%2f222321*~data=hdntl~hmac=34b6551ecbda201718f7af5dcde333768f4496968343aa698afb19cac17276bb&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott3-i.akamaihd.net/hls/live/222321/nbc-sports1216054259/OTT03_VIDEO_2_2264000.m3u8|Cookie=_alid_=7qyD7YAdmfAvlkTQszC10w==; hdntl=exp=1513520270~acl=%2fhls%2flive%2f222321*~data=hdntl~hmac=34b6551ecbda201718f7af5dcde333768f4496968343aa698afb19cac17276bb&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Arsenal v. Newcastle</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201823_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201823_1920x1080.jpg</fanart>
+</item>
+<item>
+<title>[COLORred][B] 15:00 - 17:00 [/COLOR][/B][COLORwhite][B] Stoke City v. West Ham</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Southampton_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Stoke City vs West Ham United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Stoke_City_vs_West_Ham_United_live_Football/stream3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Watford vs Huddersfield Town [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Watford_vs_Huddersfield_Town_live_Football/stream5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Sunderland vs Fulham [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sunderland_vs_Fulham_live_Football/stream58</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Gillette Soccer Saturday 16-12-2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football/Soccer[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/16-12-2017_live_Football_Soccer/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Gillette Soccer Saturday 16-12-2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football/Soccer[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/16-12-2017_live_Football_Soccer/skysportspremierleague</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+<sublink>http://sprtott9-i.akamaihd.net/hls/live/222488/nbc-sports-gold1216054052/OTT09_VIDEO_0_5564000.m3u8|Cookie=_alid_=7nqI5EQmYp1KB30kiR+evg==; hdntl=exp=1513520355~acl=%2fhls%2flive%2f222488*~data=hdntl~hmac=eebe1678f16da383c99c72566fb69ca6aeda314986da22cf70daf4567fd4bab9&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott9-i.akamaihd.net/hls/live/222488/nbc-sports-gold1216054052/OTT09_VIDEO_1_4064000.m3u8|Cookie=_alid_=7nqI5EQmYp1KB30kiR+evg==; hdntl=exp=1513520355~acl=%2fhls%2flive%2f222488*~data=hdntl~hmac=eebe1678f16da383c99c72566fb69ca6aeda314986da22cf70daf4567fd4bab9&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott9-i.akamaihd.net/hls/live/222488/nbc-sports-gold1216054052/OTT09_VIDEO_2_2264000.m3u8|Cookie=_alid_=7nqI5EQmYp1KB30kiR+evg==; hdntl=exp=1513520355~acl=%2fhls%2flive%2f222488*~data=hdntl~hmac=eebe1678f16da383c99c72566fb69ca6aeda314986da22cf70daf4567fd4bab9&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Stoke City v. West Ham</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201822_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201822_1920x1080.jpg</fanart>
+</item>
 <plugin>
 <title>[COLORred][B]17:15 - 19:40 [/COLOR][/B][COLORwhite][B]Live EFL Cardiff City v Hull City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
