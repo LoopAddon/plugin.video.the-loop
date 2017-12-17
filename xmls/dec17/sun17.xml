@@ -68,15 +68,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<item>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Philadelphia @ NY TEST Stream [/COLOR][/B]</title>
-<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>http://wagonm.info/nfl/giants_hd_4500.m3u8</link>
-</item>
-<plugin>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL New York Jets at New Orleans Saints [/COLOR][/B]</title>
-<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Jets_at_New_Orleans_Saints_live_NFL/nfl8</sublink></link>
 <referer></referer>
@@ -92,24 +83,20 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Four: Evening Session [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Four_Evening_Session_live_Darts/stream28</sublink></link>
+<link>http://load2.unblocked.wtf/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNyA3OjEzOjI4IFBNJmhhc2hfdmFsdWU9K3FEREU1US8ydXpNRnJHWU04TzV2UT09JnZhbGlkbWludXRlcz02MCZpZD0xMzguNjguMjAuMjMxJnN0cm1fbGVuPTE4</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: N- Carolina - Tennessee [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_N-_Carolina_-_Tennessee_live_Basketball/stream37</sublink></link>
+<link>http://load2.unblocked.wtf/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNyA3OjEzOjQyIFBNJmhhc2hfdmFsdWU9ejB3OGduWW1CU1gwYmhQL2VuS0lrUT09JnZhbGlkbWludXRlcz02MCZpZD0xMzguNjguMjAuMjMxJnN0cm1fbGVuPTE0</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]21:05 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Los Angeles Rams at Seattle Seahawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
@@ -141,11 +128,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: San Francisco - Stanford [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_San_Francisco_-_Stanford_live_Basketball/stream37</sublink></link>
+<link>http://load2.unblocked.wtf/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNyA3OjEzOjQyIFBNJmhhc2hfdmFsdWU9ejB3OGduWW1CU1gwYmhQL2VuS0lrUT09JnZhbGlkbWludXRlcz02MCZpZD0xMzguNjguMjAuMjMxJnN0cm1fbGVuPTE0</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
