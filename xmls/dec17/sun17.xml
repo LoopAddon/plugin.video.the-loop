@@ -101,13 +101,12 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: N- Carolina - Tennessee [/COLOR][/B]</title>
-<link>http://streamlivebox.co/bund/btespn.php</link>
-<referer></referer>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://streamlivebox.co/bund/btespn.php</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 <plugin>
 <title>[COLORred][B]21:05 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Los Angeles Rams at Seattle Seahawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
