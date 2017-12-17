@@ -1,18 +1,8 @@
-<item>
-<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Liverpool [/COLOR][/B]</title>
-<link>
-<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1217062956/OTT04_VIDEO_0_5564000.m3u8|Cookie=_alid_=8HsZIoWhGiU8jhzeDw3+6g==; hdntl=exp=1513611834~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=2271da07d593c32258ae1e94e1a527dcd1b15da6b59dd71523b4bd5cb28d959b&X-Forwarded-For=75.119.202.80(1080)</sublink>
-<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1217062956/OTT04_VIDEO_1_4064000.m3u8|Cookie=_alid_=8HsZIoWhGiU8jhzeDw3+6g==; hdntl=exp=1513611834~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=2271da07d593c32258ae1e94e1a527dcd1b15da6b59dd71523b4bd5cb28d959b&X-Forwarded-For=75.119.202.80(720)</sublink>
-<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1217062956/OTT04_VIDEO_2_2264000.m3u8|Cookie=_alid_=8HsZIoWhGiU8jhzeDw3+6g==; hdntl=exp=1513611834~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=2271da07d593c32258ae1e94e1a527dcd1b15da6b59dd71523b4bd5cb28d959b&X-Forwarded-For=75.119.202.80(576)</sublink>
-</link>
-<summary>Bournemouth v. Liverpool</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201818_m50.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201818_1920x1080.jpg</fanart>
-</item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Houston Texans at Jacksonville Jaguars [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch24.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Houston_Texans_at_Jacksonville_Jaguars_live_NFL/nfl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -22,6 +12,7 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Baltimore Ravens at Cleveland Browns [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch23.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Baltimore_Ravens_at_Cleveland_Browns_live_NFL/nfl2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -31,6 +22,7 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Green Bay Packers at Carolina Panthers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch27.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Green_Bay_Packers_at_Carolina_Panthers_live_NFL/nfl3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -40,6 +32,7 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Miami Dolphins at Buffalo Bills [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch22.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Dolphins_at_Buffalo_Bills_live_NFL/nfl4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -49,6 +42,7 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Cincinnati Bengals at Minnesota Vikings [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch5.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cincinnati_Bengals_at_Minnesota_Vikings_live_NFL/nfl5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -58,6 +52,7 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Arizona Cardinals at Washington Redskins [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch4.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arizona_Cardinals_at_Washington_Redskins_live_NFL/nfl6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -67,15 +62,22 @@
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Philadelphia Eagles at New York Giants [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch3.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Eagles_at_New_York_Giants_live_NFL/nfl7</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Philadelphia @ NY TEST Stream [/COLOR][/B]</title>
+<info>[COLORyellow][B]NFL[/COLOR][/B]</info>
+<link>http://wagonm.info/nfl/giants_hd_4500.m3u8</link>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL New York Jets at New Orleans Saints [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Jets_at_New_Orleans_Saints_live_NFL/nfl8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -112,6 +114,7 @@
 <title>[COLORred][B]21:05 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Los Angeles Rams at Seattle Seahawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Rams_at_Seattle_Seahawks_live_NFL/nfl9</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -121,6 +124,7 @@
 <title>[COLORred][B]21:25 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Tennessee Titans at San Francisco 49ers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tennessee_Titans_at_San_Francisco_49ers_live_NFL/nfl10</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -130,6 +134,8 @@
 <title>[COLORred][B]21:25 - 01:00 [/COLOR][/B][COLORwhite][B]NFL New England Patriots at Pittsburgh Steelers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch27.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_England_Patriots_at_Pittsburgh_Steelers_live_NFL/nfl11</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -201,6 +207,8 @@
 <title>[COLORred][B]01:30 - 05:00 [/COLOR][/B][COLORwhite][B]NFL Dallas Cowboys at Oakland Raiders [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch11.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Cowboys_at_Oakland_Raiders_live_NFL/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
