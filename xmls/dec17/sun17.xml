@@ -1,41 +1,14 @@
-<plugin>
-<title>[COLORred][B]12:30 - 16:30 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Four: Afternoon Session [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Four_Afternoon_Session_live_Darts/stream28</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Hearts vs Celtic [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Hearts_vs_Celtic_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 <item>
-<title>[B][COLOR cyan]1415 - [/COLOR][/B]West Brom v. Man United</title>
+<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Liverpool [/COLOR][/B]</title>
 <link>
-<sublink>http://sprtott3-i.akamaihd.net/hls/live/222321/nbc-sports1217034549/OTT03_VIDEO_0_5564000.m3u8|Cookie=_alid_=Ze+wztiFotcTiXLuexsD1w==; hdntl=exp=1513598564~acl=%2fhls%2flive%2f222321*~data=hdntl~hmac=7f867675f47dfa4d6d7e07b28b8683a6d178531f274b83839058647e082045f5&X-Forwarded-For=75.119.202.80(1080)</sublink>
-<sublink>http://sprtott3-i.akamaihd.net/hls/live/222321/nbc-sports1217034549/OTT03_VIDEO_1_4064000.m3u8|Cookie=_alid_=Ze+wztiFotcTiXLuexsD1w==; hdntl=exp=1513598564~acl=%2fhls%2flive%2f222321*~data=hdntl~hmac=7f867675f47dfa4d6d7e07b28b8683a6d178531f274b83839058647e082045f5&X-Forwarded-For=75.119.202.80(720)</sublink>
-<sublink>http://sprtott3-i.akamaihd.net/hls/live/222321/nbc-sports1217034549/OTT03_VIDEO_2_2264000.m3u8|Cookie=_alid_=Ze+wztiFotcTiXLuexsD1w==; hdntl=exp=1513598564~acl=%2fhls%2flive%2f222321*~data=hdntl~hmac=7f867675f47dfa4d6d7e07b28b8683a6d178531f274b83839058647e082045f5&X-Forwarded-For=75.119.202.80(576)</sublink>
+<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1217062956/OTT04_VIDEO_0_5564000.m3u8|Cookie=_alid_=8HsZIoWhGiU8jhzeDw3+6g==; hdntl=exp=1513611834~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=2271da07d593c32258ae1e94e1a527dcd1b15da6b59dd71523b4bd5cb28d959b&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1217062956/OTT04_VIDEO_1_4064000.m3u8|Cookie=_alid_=8HsZIoWhGiU8jhzeDw3+6g==; hdntl=exp=1513611834~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=2271da07d593c32258ae1e94e1a527dcd1b15da6b59dd71523b4bd5cb28d959b&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports1217062956/OTT04_VIDEO_2_2264000.m3u8|Cookie=_alid_=8HsZIoWhGiU8jhzeDw3+6g==; hdntl=exp=1513611834~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=2271da07d593c32258ae1e94e1a527dcd1b15da6b59dd71523b4bd5cb28d959b&X-Forwarded-For=75.119.202.80(576)</sublink>
 </link>
-<summary>West Brom v. Man United</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201817_m50.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201817_1920x1080.jpg</fanart>
+<summary>Bournemouth v. Liverpool</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201818_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201818_1920x1080.jpg</fanart>
 </item>
-<plugin>
-<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - Premier League AFC Bournemouth vs Liverpool [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Liverpool_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NFL Houston Texans at Jacksonville Jaguars [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
