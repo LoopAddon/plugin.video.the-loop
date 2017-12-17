@@ -78,15 +78,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Redzone [/COLOR][/B]</title>
+<item>
+<title>[COLORred][B]18:00 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Jets @ New Orleans [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Redzone_live_NFL/nflredzone</sublink></link>
-<referer></referer>
+<link>http://80.82.78.22:1935/tv/GEmStFGUft20171105/chunklist_w2108663035_tkaGxzZW5kdGltZT0xNTEzNTQzMjAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9SmZ5aHBDQUJmM1IyZHVJXzhTNVBhQjF3MktCcXBLcTVXaVZQbUlwX0VSMD0=.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <item>
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Four: Evening Session [/COLOR][/B]</title>
 <link>
@@ -99,6 +97,13 @@
 <item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: N- Carolina - Tennessee [/COLOR][/B]</title>
 <link>http://load2.unblocked.wtf/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTcvMjAxNyA3OjEzOjQyIFBNJmhhc2hfdmFsdWU9ejB3OGduWW1CU1gwYmhQL2VuS0lrUT09JnZhbGlkbWludXRlcz02MCZpZD0xMzguNjguMjAuMjMxJnN0cm1fbGVuPTE0</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<plugin>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: N- Carolina - Tennessee [/COLOR][/B]</title>
+<link>http://streamlivebox.co/bund/btespn.php</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
