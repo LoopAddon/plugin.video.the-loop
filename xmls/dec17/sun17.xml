@@ -91,14 +91,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: N- Carolina - Tennessee [/COLOR][/B]</title>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://streamlivebox.co/bund/btespn.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-espn-live-stream.html</sublink></link>
-<thumbnail></thumbnail>
+<link>http://80.82.77.132:1935/tv/qNWXZE7V7R20171105/chunklist_w567246625_tkaGxzZW5kdGltZT0xNTEzNTQ1MzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9WFN4cFliRkwtR24ybTltUmh4cjUxZWhrUEY1amtHdTU2S1Zwb0cyN0RqUT0=.m3u8</link>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]21:05 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Los Angeles Rams at Seattle Seahawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
