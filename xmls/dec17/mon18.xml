@@ -7,15 +7,18 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Everton vs Swansea City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Everton_vs_Swansea_City_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+<sublink>http://sprtlive4.akamaized.net/hls/live/586259/nbc-sports1218093541/exp=1513712606~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=40748635c3a90baded9b0c171e05512e15dd936c04c708c3408293121a2d8ec1/OTT04_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1513711263~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=035b8156ac135c92755739f3dfaec2c9557971390d39182ad59a9b5cb89cfb8e&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtlive4.akamaized.net/hls/live/586259/nbc-sports1218093541/exp=1513712606~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=40748635c3a90baded9b0c171e05512e15dd936c04c708c3408293121a2d8ec1/OTT04_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1513711263~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=035b8156ac135c92755739f3dfaec2c9557971390d39182ad59a9b5cb89cfb8e&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtlive4.akamaized.net/hls/live/586259/nbc-sports1218093541/exp=1513712606~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=40748635c3a90baded9b0c171e05512e15dd936c04c708c3408293121a2d8ec1/OTT04_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1513711263~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=035b8156ac135c92755739f3dfaec2c9557971390d39182ad59a9b5cb89cfb8e&X-Forwarded-For=75.119.202.80(1080)</sublink>
+</link>
+<summary>Everton v. Swansea City</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201819_m50.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201819_1920x1080.jpg</fanart>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Columbus Blue Jackets @ Boston Bruins [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -159,6 +162,3 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
-
-
