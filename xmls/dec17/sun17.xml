@@ -161,8 +161,7 @@
 <title>[COLORred][B]00:00 - 01:00 [/COLOR][/B][COLORwhite][B]WWE Clash of Champions Kickoff [/COLOR][/B]</title>
 <info>[COLORyellow][B]WWE[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/skysportsbox.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/wwetv.php</sublink>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/neri/neri123/16572.ts</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kickoff_live_WWE/stream3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -190,8 +189,9 @@
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]WWE Clash of Champions [/COLOR][/B]</title>
 <info>[COLORyellow][B]WWE[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Clash_of_Champions_live_WWE/stream3</sublink></link><referer></referer>
-<thumbnail></thumbnail>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:8080/live/neri/neri123/16572.ts</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kickoff_live_WWE/stream3</sublink></link>
+<referer></referer>
 <fanart></fanart>
 </plugin>
 <plugin>
