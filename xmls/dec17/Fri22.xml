@@ -1,8 +1,7 @@
 <plugin>
 <title>[COLORred][B]08:45 - 11:00 [/COLOR][/B][COLORwhite][B]Live Hyundai A-League Live Newcastle v Western Sydney [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Newcastle_v_Western_Sydney_live_Football_-_Club/btsports1</sublink></link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Newcastle_v_Western_Sydney_live_Football_-_Club/btsports1</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -10,8 +9,7 @@
 <plugin>
 <title>[COLORred][B]08:45 - 11:00 [/COLOR][/B][COLORwhite][B]Live Hyundai A-League Live Newcastle v Western Sydney [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Newcastle_v_Western_Sydney_live_Football_-_Club/btsports1</sublink></link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Newcastle_v_Western_Sydney_live_Football_-_Club/btsports1</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -19,35 +17,7 @@
 <plugin>
 <title>[COLORred][B]12:30 - 16:30 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day Nine: Afternoon Session [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Nine_Afternoon_Session_live_Darts/stream30</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]16:30 - 17:45 [/COLOR][/B][COLORwhite][B]Live Alpine Skiing 2017-18 World Cup: Madonna di Campiglio- Italy [/COLOR][/B]</title>
-<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Madonna_di_Campiglio-_Italy_live_Skiing/stream22</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Italy - Serie A Chievo vs Bologna [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chievo_vs_Bologna_live_Football/stream11</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Turkey - Super Lig Antalyaspor vs Alanyaspor [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Antalyaspor_vs_Alanyaspor_live_Football/stream41</sublink></link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Nine_Afternoon_Session_live_Darts/stream30</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -73,8 +43,7 @@
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Liverpool [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Liverpool_live_Football/stream1</sublink></link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Liverpool_live_Football/stream1</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
