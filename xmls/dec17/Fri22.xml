@@ -48,14 +48,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Liverpool [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Liverpool_live_Football/stream1</link>
+<link>
+<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports1222095006/exp=1514055185~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=e1fc6bc337dee44596d9203fe64b0e90067576a09db6756417e19283352864d7/OTT06_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514055185~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=e1fc6bc337dee44596d9203fe64b0e90067576a09db6756417e19283352864d7&X-Forwarded-For=75.119.202.80(1080 VPN NEEDED)</sublink>
+<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports1222095006/exp=1514055185~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=e1fc6bc337dee44596d9203fe64b0e90067576a09db6756417e19283352864d7/OTT06_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514055185~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=e1fc6bc337dee44596d9203fe64b0e90067576a09db6756417e19283352864d7&X-Forwarded-For=75.119.202.80(720 VPN NEEDED)</sublink>
+<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports1222095006/exp=1514055185~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=e1fc6bc337dee44596d9203fe64b0e90067576a09db6756417e19283352864d7/OTT06_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514055185~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=e1fc6bc337dee44596d9203fe64b0e90067576a09db6756417e19283352864d7&X-Forwarded-For=75.119.202.80(576 VPN NEEDED)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]21:00 - 00:30 [/COLOR][/B][COLORwhite][B]College Football - Wyoming v Central Michigan [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
