@@ -1,146 +1,4 @@
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Premiership Acestream Links [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7f9de594019b35ab84b44d1015f31ca9c8ca7813&name=My+acestream+channel</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://6d478fdbfc8d4f8fc165953443ba25f8c64e2de6(Man City vs Bournemouth)</sublink></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[B][COLOR cyan]1445 - [/COLOR][/B]Premier League: Goal Rush</title>
-<link>
-<sublink>http://sprtlive14.akamaized.net/hls/live/586301/nbc-sports1223052608/exp=1514124757~acl=%2fhls%2flive%2f586301*~data=hdntl~hmac=ea008bf97d8ff3fe444db9a8e052f679011b1c9adbae812390a6370fdbeebc9d/OTT14_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514124757~acl=%2fhls%2flive%2f586301*~data=hdntl~hmac=ea008bf97d8ff3fe444db9a8e052f679011b1c9adbae812390a6370fdbeebc9d&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive14.akamaized.net/hls/live/586301/nbc-sports1223052608/exp=1514124757~acl=%2fhls%2flive%2f586301*~data=hdntl~hmac=ea008bf97d8ff3fe444db9a8e052f679011b1c9adbae812390a6370fdbeebc9d/OTT14_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514124757~acl=%2fhls%2flive%2f586301*~data=hdntl~hmac=ea008bf97d8ff3fe444db9a8e052f679011b1c9adbae812390a6370fdbeebc9d&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive14.akamaized.net/hls/live/586301/nbc-sports1223052608/exp=1514124757~acl=%2fhls%2flive%2f586301*~data=hdntl~hmac=ea008bf97d8ff3fe444db9a8e052f679011b1c9adbae812390a6370fdbeebc9d/OTT14_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514124757~acl=%2fhls%2flive%2f586301*~data=hdntl~hmac=ea008bf97d8ff3fe444db9a8e052f679011b1c9adbae812390a6370fdbeebc9d&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>Premier League Goal Rush - Don't miss a second of the round's best Premier League action, as Goal Rush brings you from match to match.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201567_1920x1080.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201567_1920x1080.jpg</fanart>
-</item>
-<item>
-<title>[B][COLOR cyan]1500 - [/COLOR][/B]West Ham v. Newcastle</title>
-<link>
-<sublink>http://sprtlive3.akamaized.net/hls/live/586252/nbc-sports-gold1223054330/exp=1514124917~acl=%2fhls%2flive%2f586252*~data=hdntl~hmac=068b32caf48cf044698f6c3028e468ccd2b4f1acd95af740ee1e3a38be69c486/OTT03_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514124917~acl=%2fhls%2flive%2f586252*~data=hdntl~hmac=068b32caf48cf044698f6c3028e468ccd2b4f1acd95af740ee1e3a38be69c486&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive3.akamaized.net/hls/live/586252/nbc-sports-gold1223054330/exp=1514124917~acl=%2fhls%2flive%2f586252*~data=hdntl~hmac=068b32caf48cf044698f6c3028e468ccd2b4f1acd95af740ee1e3a38be69c486/OTT03_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514124917~acl=%2fhls%2flive%2f586252*~data=hdntl~hmac=068b32caf48cf044698f6c3028e468ccd2b4f1acd95af740ee1e3a38be69c486&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive3.akamaized.net/hls/live/586252/nbc-sports-gold1223054330/exp=1514124917~acl=%2fhls%2flive%2f586252*~data=hdntl~hmac=068b32caf48cf044698f6c3028e468ccd2b4f1acd95af740ee1e3a38be69c486/OTT03_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514124917~acl=%2fhls%2flive%2f586252*~data=hdntl~hmac=068b32caf48cf044698f6c3028e468ccd2b4f1acd95af740ee1e3a38be69c486&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>West Ham v. Newcasle - West Ham eye their third victory in four matches as they host Newcastle in Matchday 19. Watch on NBC Sports Gold.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/202127_1920x1080.jpg</thumbnail
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/202127_1920x1080.jpg</fanart>
-</item>
-<item>
-<title>[B][COLOR cyan]1500 - [/COLOR][/B]Swansea City v. Crystal Palace</title>
-<link>
-<sublink>http://sprtlive12.akamaized.net/hls/live/586299/nbc-sports1223053544/exp=1514125048~acl=%2fhls%2flive%2f586299*~data=hdntl~hmac=508ebcd3a2ca94319054ba096e405de4d18a37533a26b8c791f0128bc3d731d5/OTT12_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514125048~acl=%2fhls%2flive%2f586299*~data=hdntl~hmac=508ebcd3a2ca94319054ba096e405de4d18a37533a26b8c791f0128bc3d731d5&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive12.akamaized.net/hls/live/586299/nbc-sports1223053544/exp=1514125048~acl=%2fhls%2flive%2f586299*~data=hdntl~hmac=508ebcd3a2ca94319054ba096e405de4d18a37533a26b8c791f0128bc3d731d5/OTT12_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514125048~acl=%2fhls%2flive%2f586299*~data=hdntl~hmac=508ebcd3a2ca94319054ba096e405de4d18a37533a26b8c791f0128bc3d731d5&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive12.akamaized.net/hls/live/586299/nbc-sports1223053544/exp=1514125048~acl=%2fhls%2flive%2f586299*~data=hdntl~hmac=508ebcd3a2ca94319054ba096e405de4d18a37533a26b8c791f0128bc3d731d5/OTT12_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514125048~acl=%2fhls%2flive%2f586299*~data=hdntl~hmac=508ebcd3a2ca94319054ba096e405de4d18a37533a26b8c791f0128bc3d731d5&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>Swansea City v. Crystal Palace - Crystal Palace look to secure their third straight win as they visit Liberty Stadium for a clash with Swansea City.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/202126_1920x1080.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/202126_1920x1080.jpg</fanart>
-</item>
-<item>
-<title>[B][COLOR cyan]1500 - [/COLOR][/B]Stoke City v. West Brom</title>
-<link>
-<sublink>http://sprtlive10.akamaized.net/hls/live/586297/nbc-sports-gold1223053756/exp=1514125145~acl=%2fhls%2flive%2f586297*~data=hdntl~hmac=f79631887762eeda36bbd39063983f99c9347e1c67518b7954532f30fcda7f7f/OTT10_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514125145~acl=%2fhls%2flive%2f586297*~data=hdntl~hmac=f79631887762eeda36bbd39063983f99c9347e1c67518b7954532f30fcda7f7f&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive10.akamaized.net/hls/live/586297/nbc-sports-gold1223053756/exp=1514125145~acl=%2fhls%2flive%2f586297*~data=hdntl~hmac=f79631887762eeda36bbd39063983f99c9347e1c67518b7954532f30fcda7f7f/OTT10_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514125145~acl=%2fhls%2flive%2f586297*~data=hdntl~hmac=f79631887762eeda36bbd39063983f99c9347e1c67518b7954532f30fcda7f7f&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive10.akamaized.net/hls/live/586297/nbc-sports-gold1223053756/exp=1514125145~acl=%2fhls%2flive%2f586297*~data=hdntl~hmac=f79631887762eeda36bbd39063983f99c9347e1c67518b7954532f30fcda7f7f/OTT10_VIDEO_2_4064000.m3u8|Cookie=hdntl=exp=1514125145~acl=%2fhls%2flive%2f586297*~data=hdntl~hmac=f79631887762eeda36bbd39063983f99c9347e1c67518b7954532f30fcda7f7f&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>Stoke City v. West Brom - Stoke City look to halt a three-game losing skid as they host West Brom at bet365 Stadium. Watch on NBC Sports Gold.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201985_1920x1080.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201985_1920x1080.jpg</fanart>
-</item>
-<item>
-<title>[B][COLOR cyan]1500 - [/COLOR][/B]Southampton v. Huddersfield VPN NEEDED</title>
-<link>
-<sublink>http://sprtlive8.akamaized.net/hls/live/586271/nbc-sports-gold1223052709/exp=1514125249~acl=%2fhls%2flive%2f586271*~data=hdntl~hmac=87dc3c58ab28e623e7b0aa018467814c551ad09aaf4bc1859befbf886b100f61/OTT08_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514125249~acl=%2fhls%2flive%2f586271*~data=hdntl~hmac=87dc3c58ab28e623e7b0aa018467814c551ad09aaf4bc1859befbf886b100f61&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive8.akamaized.net/hls/live/586271/nbc-sports-gold1223052709/exp=1514125249~acl=%2fhls%2flive%2f586271*~data=hdntl~hmac=87dc3c58ab28e623e7b0aa018467814c551ad09aaf4bc1859befbf886b100f61/OTT08_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514125249~acl=%2fhls%2flive%2f586271*~data=hdntl~hmac=87dc3c58ab28e623e7b0aa018467814c551ad09aaf4bc1859befbf886b100f61&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive8.akamaized.net/hls/live/586271/nbc-sports-gold1223052709/exp=1514125249~acl=%2fhls%2flive%2f586271*~data=hdntl~hmac=87dc3c58ab28e623e7b0aa018467814c551ad09aaf4bc1859befbf886b100f61/OTT08_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514125249~acl=%2fhls%2flive%2f586271*~data=hdntl~hmac=87dc3c58ab28e623e7b0aa018467814c551ad09aaf4bc1859befbf886b100f61&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>Southampton v. Huddersfield - After a win over Watford, Huddersfield visit St. Mary's Stadium to face Southampton. Watch on NBC Sports Gold.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201983_1920x1080.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201983_1920x1080.jpg</fanart>
-</item>
-<item>
-<title>[B][COLOR cyan]1500 - [/COLOR][/B]Brighton v. Watford</title>
-<link>
-<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports-gold1223054520/exp=1514125433~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=edf4d96efcfdf3f594382ebadb34babeb5a486e3d9d4cd1b09be2910a3406ab6/OTT06_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514125433~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=edf4d96efcfdf3f594382ebadb34babeb5a486e3d9d4cd1b09be2910a3406ab6&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports-gold1223054520/exp=1514125433~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=edf4d96efcfdf3f594382ebadb34babeb5a486e3d9d4cd1b09be2910a3406ab6/OTT06_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514125433~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=edf4d96efcfdf3f594382ebadb34babeb5a486e3d9d4cd1b09be2910a3406ab6&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports-gold1223054520/exp=1514125433~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=edf4d96efcfdf3f594382ebadb34babeb5a486e3d9d4cd1b09be2910a3406ab6/OTT06_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514125433~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=edf4d96efcfdf3f594382ebadb34babeb5a486e3d9d4cd1b09be2910a3406ab6&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>Brighton v. Watford - Watford head to American Express Community Stadium to take on Brighton in Matchday 19. Watch on NBC Sports Gold.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201981_1920x1080.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201981_1920x1080.jpg</fanart>
-</item>
-<item>
-<title>[B][COLOR cyan]1500 - [/COLOR][/B]Man City v. Bournemouth</title>
-<link>
-<sublink>http://sprtlive2.akamaized.net/hls/live/586251/nbc-sports1223054818/exp=1514125547~acl=%2fhls%2flive%2f586251*~data=hdntl~hmac=aa8bc748bc3a375b967359d889cfbc3dce2252d4058ec6a8a5b888023d2e23ed/OTT02_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514125547~acl=%2fhls%2flive%2f586251*~data=hdntl~hmac=aa8bc748bc3a375b967359d889cfbc3dce2252d4058ec6a8a5b888023d2e23ed&X-Forwarded-For=75.119.202.80(1080 NEEDS VPN)</sublink>
-<sublink>http://sprtlive2.akamaized.net/hls/live/586251/nbc-sports1223054818/exp=1514125547~acl=%2fhls%2flive%2f586251*~data=hdntl~hmac=aa8bc748bc3a375b967359d889cfbc3dce2252d4058ec6a8a5b888023d2e23ed/OTT02_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514125547~acl=%2fhls%2flive%2f586251*~data=hdntl~hmac=aa8bc748bc3a375b967359d889cfbc3dce2252d4058ec6a8a5b888023d2e23ed&X-Forwarded-For=75.119.202.80(720 NEEDS VPN)</sublink>
-<sublink>http://sprtlive2.akamaized.net/hls/live/586251/nbc-sports1223054818/exp=1514125547~acl=%2fhls%2flive%2f586251*~data=hdntl~hmac=aa8bc748bc3a375b967359d889cfbc3dce2252d4058ec6a8a5b888023d2e23ed/OTT02_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514125547~acl=%2fhls%2flive%2f586251*~data=hdntl~hmac=aa8bc748bc3a375b967359d889cfbc3dce2252d4058ec6a8a5b888023d2e23ed&X-Forwarded-For=75.119.202.80(576 NEEDS VPN)</sublink>
-</link>
-<summary>Man City v. Bournemouth - Unbeaten Man City look for their 17th straight victory as they host Bournemouth at Etihad Stadium in Matchday 19.</summary>
-<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201974_1920x1080.jpg</thumbnail>
-<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201974_1920x1080.jpg</fanart>
-</item>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Sheffield Wednesday vs Middlesbrough [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sheffield_Wednesday_vs_Middlesbrough_live_Football/stream45</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:00 - 20:30 [/COLOR][/B][COLORwhite][B]Live CFB: Birmingham Bowl South Florida vs. Texas Tech [/COLOR][/B]</title>
-<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/espn-usa-live-stream.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-espn-live-stream.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/South_Florida_vs_Texas_Tech_live_American_Football/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Burnley vs Tottenham Hotspur [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burnley_vs_Tottenham_Hotspur_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Championship Aston Villa vs Sheffield United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aston_Villa_vs_Sheffield_United_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Detroit Red Wings at Boston Bruins [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Red_Wings_at_Boston_Bruins_live_Hockey/nhl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets at New York Islanders [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Winnipeg_Jets_at_New_York_Islanders_live_Hockey/nhl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day 10: Evening Session [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
@@ -157,11 +15,23 @@
 <fanart></fanart>
 </item>
 <plugin>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Leicester vs Manchester United Acestream [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-1-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-5-online.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-world-live-stream.html</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb</sublink>
+<sublink>plugin://program.plexus?mode=1&url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9</sublink><link>
+<fanart></fanart>
+</plugin>
+<plugin>
 <title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]Live CFB: Armed Forces Bowl Army vs. San Diego State [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/espn-usa-live-stream.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-espn-live-stream.html</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406(Acestream)<sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Army_vs_San_Diego_State_live_American_Football/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -284,6 +154,8 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]Live CFB: Dollar General Bowl Appalachian State vs. Toledo [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406(Acestream)<sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/espn-usa-live-stream.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-espn-live-stream.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Appalachian_State_vs_Toledo_live_NFL/stream37</sublink></link>
