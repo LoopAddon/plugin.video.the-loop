@@ -1,8 +1,8 @@
-
 <plugin>
 <title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Spain - La Liga Real Madrid vs Barcelona [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream//541257197770d34d4e89a05dac57b259e9e63127(Acestream)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Real_Madrid_vs_Barcelona_live_Football/stream10</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -18,14 +18,24 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League Everton vs Chelsea [/COLOR][/B]</title>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Everton vs Chelsea Acestream [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Everton_vs_Chelsea_live_Football/stream1</sublink></link>
-<referer></referer>
+<link>plugin://program.plexus/?mode=1&url=acestream//6d478fdbfc8d4f8fc165953443ba25f8c64e2de6</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Everton vs Chelsea VPN NEEDED [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://sprtlive1.akamaized.net/hls/live/586250/nbc-sports1223021938/exp=1514111524~acl=%2fhls%2flive%2f586250*~data=hdntl~hmac=f98088473ad9c479c439de8257905269a262e01265c7ade9a6a4e447d0021272/OTT01_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514111524~acl=%2fhls%2flive%2f586250*~data=hdntl~hmac=f98088473ad9c479c439de8257905269a262e01265c7ade9a6a4e447d0021272&X-Forwarded-For=75.119.202.80(1080)</sublink>
+<sublink>http://sprtlive1.akamaized.net/hls/live/586250/nbc-sports1223021938/exp=1514111524~acl=%2fhls%2flive%2f586250*~data=hdntl~hmac=f98088473ad9c479c439de8257905269a262e01265c7ade9a6a4e447d0021272/OTT01_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514111524~acl=%2fhls%2flive%2f586250*~data=hdntl~hmac=f98088473ad9c479c439de8257905269a262e01265c7ade9a6a4e447d0021272&X-Forwarded-For=75.119.202.80(720)</sublink>
+<sublink>http://sprtlive1.akamaized.net/hls/live/586250/nbc-sports1223021938/exp=1514111524~acl=%2fhls%2flive%2f586250*~data=hdntl~hmac=f98088473ad9c479c439de8257905269a262e01265c7ade9a6a4e447d0021272/OTT01_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514111524~acl=%2fhls%2flive%2f586250*~data=hdntl~hmac=f98088473ad9c479c439de8257905269a262e01265c7ade9a6a4e447d0021272&X-Forwarded-For=75.119.202.80(576)</sublink>
+</link>
+<summary>Everton v. Chelsea - Everton and Chelsea each eye their third consecutive win as the two face off in a battle at Goodison Park in Matchday 19.</summary>
+<thumbnail>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201973_1920x1080.jpg</thumbnail>
+<fanart>http://hdliveextra-pmd.edgesuite.net/HD/image_sports/mobile/201973_1920x1080.jpg</fanart>
+</item>
 <plugin>
 <title>[COLORred][B]13:00 - 17:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day 10: Afternoon Session [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
