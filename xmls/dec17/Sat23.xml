@@ -149,15 +149,13 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Leicester City vs Manchester United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leicester_City_vs_Manchester_United_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
+<link>http://live5.mytv.bg/mplive2/diemasport2_hd.stream/chunklist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]Live CFB: Armed Forces Bowl Army vs. San Diego State [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
