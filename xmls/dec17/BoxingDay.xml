@@ -1,5 +1,5 @@
 <plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League Tottenham Hotspur vs Southampton [/COLOR][/B]</title>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]EPL - Tottenham Hotspur vs Southampton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_Southampton_live_Football/stream2</sublink>
 <referer></referer>
@@ -7,7 +7,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Dundee vs Celtic [/COLOR][/B]</title>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]SPL - Dundee vs Celtic [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dundee_vs_Celtic_live_Football/btsports1</sublink>
 <referer></referer>
@@ -15,7 +15,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League AFC Bournemouth vs West Ham United [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs West Ham United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_West_Ham_United_live_Football/stream3</sublink>
 <referer></referer>
@@ -23,7 +23,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Chelsea vs Brighton - Hove Albion [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Chelsea vs Brighton - Hove Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Brighton_-_Hove_Albion_live_Football/stream1</sublink>
 <referer></referer>
@@ -31,7 +31,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Huddersfield Town vs Stoke City [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Huddersfield Town vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_Stoke_City_live_Football/stream6</sublink>
 <referer></referer>
@@ -39,14 +39,14 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester United vs Burnley [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs Burnley [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Burnley_live_Football/stream4</sublink><referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Watford vs Leicester City [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Watford vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Watford_vs_Leicester_City_live_Football/stream5</sublink>
 <referer></referer>
@@ -54,7 +54,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League West Bromwich Albion vs Everton [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - West Bromwich Albion vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Everton_live_Football/stream2</sublink>
 <referer></referer>
@@ -62,7 +62,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Birmingham City vs Norwich City [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Championship - Birmingham City vs Norwich City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Birmingham_City_vs_Norwich_City_live_Football/stream30</sublink>
 <referer></referer>
@@ -70,7 +70,7 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Burton Albion vs Leeds United [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Championship - Burton Albion vs L***s United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burton_Albion_vs_Leeds_United_live_Football/stream32</sublink>
 <referer></referer>
@@ -78,7 +78,39 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Liverpool vs Swansea City [/COLOR][/B]</title>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]EPL - Liverpool vs Swansea City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Swansea_City_live_Football/stream2</sublink>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:30 - 22:15 [/COLOR][/B][COLORwhite][B]Live CFB - Heart of Dallas Bowl [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Swansea_City_live_Football/stream2</sublink>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 21:30 [/COLOR][/B][COLORwhite][B]Championship - Brentford vs Aston Villa [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Swansea_City_live_Football/stream2</sublink>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]22:15 - 02:00 [/COLOR][/B][COLORwhite][B]Live CFB - Quick Lane Bowl [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Swansea_City_live_Football/stream2</sublink>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]02:00 - 05:30 [/COLOR][/B][COLORwhite][B]Live CFB - Cactus Bowl [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Swansea_City_live_Football/stream2</sublink>
 <referer></referer>
