@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <dir>
-        <name>Fan Zone<name>
+        <name>Fan Zone</name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
@@ -45,8 +45,8 @@
 </dir>
 
 <dir>
-        <name>Its Christmas lets have Christmas Movies</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/xmas.xml</link>
+        <name>Its Christmas lets have Christmas Movies<name>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/xmas.xml<link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/K2UgR6H.png</thumbnail>
         <animated_fanart><animated_fanart>
