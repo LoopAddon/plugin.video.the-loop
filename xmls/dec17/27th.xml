@@ -19,37 +19,40 @@
 <plugin>
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day 11: Evening Session [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
+<link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_11_Evening_Session_live_Darts/stream29</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]SPL - Hearts vs Hibernian [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://load1.unblocked.wtf/live/skysportsfootball-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjIwIFBNJmhhc2hfdmFsdWU9UGE1aG5ZV0xuVlBwVU1DaUVsdnN4dz09JnZhbGlkbWludXRlcz0xJmlkPTkyLjIzOS4xMC41OCZzdHJtX2xlbj0yNQ==</sublink>
+<sublink>http://load1.unblocked.wtf/live/bein5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjMxIFBNJmhhc2hfdmFsdWU9REFJdnlaZHVJWkxpRVlwSVYvU0tqZz09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTM=</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch6.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Hearts_vs_Hibernian_live_Football/stream32</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Newcastle United vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch8.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch15.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Manchester_City_live_Football/skysportsmainevent</sublink>
+<sublink>http://load2.unblocked.wtf/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjIwIFBNJmhhc2hfdmFsdWU9WHcwbVgxSjJGSC9kMTJiSW00cmwzZz09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTg=</sublink>
+<sublink>http://load2.unblocked.wtf/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjIxIFBNJmhhc2hfdmFsdWU9a1kxVFBJSmtZTjUvWjRZbytVSnRsQT09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTg=</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]22:15 - 02:00 [/COLOR][/B][COLORwhite][B]Live CFB: Pinstripe Bowl: 2018 Boston College vs Iowa [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_College_vs_Iowa_live_American_Football/stream37</sublink>
+<sublink>http://load2.unblocked.wtf/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjI0IFBNJmhhc2hfdmFsdWU9RWxvK3RGN2xCVkp5WjlLdmFNcThMUT09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTQ=</sublink>
+<sublink>http://load2.unblocked.wtf/live/espnusa-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjI1IFBNJmhhc2hfdmFsdWU9azRYd0xuN2pWTWwrZ1B0UmJiVGdsUT09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTU=</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
