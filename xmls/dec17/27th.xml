@@ -42,12 +42,12 @@
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>http://load2.unblocked.wtf/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjIwIFBNJmhhc2hfdmFsdWU9WHcwbVgxSjJGSC9kMTJiSW00cmwzZz09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTg=</sublink>
-<sublink>http://load2.unblocked.wtf/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjIxIFBNJmhhc2hfdmFsdWU9a1kxVFBJSmtZTjUvWjRZbytVSnRsQT09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTg=</sublink></link>
+<sublink>http://load2.unblocked.wtf/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjcvMjAxNyA4OjE2OjIxIFBNJmhhc2hfdmFsdWU9a1kxVFBJSmtZTjUvWjRZbytVSnRsQT09JnZhbGlkbWludXRlcz02MCZpZD05Mi4yMzkuMTAuNTgmc3RybV9sZW49MTg=</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]22:15 - 02:00 [/COLOR][/B][COLORwhite][B]Live CFB: Pinstripe Bowl: 2018 Boston College vs Iowa [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
@@ -56,7 +56,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Columbus Blue Jackets at Pittsburgh Penguins [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
