@@ -1,12 +1,14 @@
-<item>
+<plugin>
 <title>[COLORred][B]ALL DAY [/COLOR][/B][COLORwhite][B]Test Streams All Day [/COLOR][/B]</title>
 <info>[COLORyellow][B]Test Streams[/COLOR][/B]</info>
-<link></link>
-</item>
+<sublink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/4278.ts</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://1c14883164419285b005a7f96d502489e80b8dc4(Darts HD)</sublink>
+</plugin>
 <plugin>
 <title>[COLORred][B]18:30 - 22:15 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Military Bowl: 2018 [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406(Acestream)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Military_Bowl_2018_live_American_Football/stream37</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-espn-live-stream.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/espn-usa-live-stream.html</sublink>
@@ -20,6 +22,9 @@
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9(Acestream)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.football-stream.net/arsenal-live-stream</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-1-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-4-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sportsnet-world-live-stream.html</sublink>
@@ -35,6 +40,7 @@
 <title>[COLORred][B]22:15 - 02:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Camping World Bowl: 2018 [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://c880ed219ebc35a1a9ab59fe12260c59b25ab406(Acestream)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-usa</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Military_Bowl_2018_live_American_Football/stream37</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/bt-sport-espn-live-stream.html</sublink>
