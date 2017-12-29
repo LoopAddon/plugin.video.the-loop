@@ -2,10 +2,12 @@
 <title>[COLORred][B]12:30 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day 13 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://1c14883164419285b005a7f96d502489e80b8dc4(Acestream)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-main-event</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky1.php</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_13_Afternoon_Session_live_Darts/skysportsmainevent</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_13_Afternoon_Session_live_Darts/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -16,7 +18,7 @@
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-football</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/live/ch6.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Preston_North_End_live_Football/stream32</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Preston_North_End_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -28,7 +30,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/BT-Sport-2.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/live/ch10.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/St-_Mirren_vs_Dundee_United_live_Football/btsports2</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/St-_Mirren_vs_Dundee_United_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
