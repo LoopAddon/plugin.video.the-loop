@@ -2,6 +2,9 @@
 <title>[COLORred][B]12:30 - 23:00 [/COLOR][/B][COLORwhite][B]Live World Darts Championship 2018 Day 13 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-main-event</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/channel/live/tv/sky1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sstream.net/sky1.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_13_Afternoon_Session_live_Darts/skysportsmainevent</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -10,6 +13,9 @@
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Championship Cardiff City vs Preston North End [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-football</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/live/ch6.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Preston_North_End_live_Football/stream32</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -19,6 +25,9 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Championship St- Mirren vs Dundee United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/BT-Sport-2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/live/ch10.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/St-_Mirren_vs_Dundee_United_live_Football/btsports2</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -27,7 +36,10 @@
 <plugin>
 <title>[COLORred][B]20:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live CFB: Sun Bowl: 2018 [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Sun_Bowl_2018_live_American_Football/stream37</sublink>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-uk</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-usa</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Sun_Bowl_2018_live_American_Football/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
