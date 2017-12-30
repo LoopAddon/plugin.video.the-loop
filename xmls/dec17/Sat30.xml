@@ -113,6 +113,9 @@
 <plugin>
 <title>[COLORred][B]17:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: TaxSlayer Bowl [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-uk</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-usa</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_TaxSlayer_Bowl_live_American_Football/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -143,6 +146,7 @@
 <title>[COLORred][B]18:15 - 21:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Liberty Bowl [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Liberty_Bowl_live_American_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -167,6 +171,9 @@
 <link>
 <title>[COLORred][B]21:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Football Live CFB: Fiesta Bowl [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-uk</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/espn-usa</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_Fiesta_Bowl_live_American_Football/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -176,6 +183,8 @@
 <link>
 <title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Vanderbilt - Florida [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Vanderbilt_-_Florida_live_Basketball/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -185,7 +194,9 @@
 <link>
 <title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Texas A-M - Alabama [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Texas_A-M_-_Alabama_live_Basketball/btsports2</sublink>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-2</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Texas_A-M_-_Alabama_live_Basketball/btsports2</sublink></link>
 <referer></referer></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -194,6 +205,8 @@
 <link>
 <title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC 219: Cyborg vs. Holm Prelims [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Prelims_live_UFC/btsports1</sublink></link>
 <referer></referer>
@@ -204,6 +217,8 @@
 <link>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]UFC 219 Cyborg vs. Holm [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cyborg_vs_Holm_live_UFC/btsports1</sublink></link>
 <referer></referer>
