@@ -44,15 +44,7 @@
         <fanart>https://i.imgur.com/kEJor0g.png</fanart>
 </dir>
 
-<dir>
-        <title>Search Trakt</title>
-        <trakt>search</trakt>
-</dir>
-                
-<dir>
-        <title>Search TMDB</title>
-        <tmdb>search</tmdb>
-</dir>
+
                 
 <dir>
         <name>Its Christmas lets have Christmas Movies<name>
