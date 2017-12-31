@@ -1,13 +1,16 @@
-<plugin>
+<item>
 <title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports1231014759/exp=1514806103~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=dffd7fd3854bc2a559f7cbe37e17f2cdea2c318e98dc191a930065491dbdf3bb/OTT06_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1514806103~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=dffd7fd3854bc2a559f7cbe37e17f2cdea2c318e98dc191a930065491dbdf3bb&X-Forwarded-For=104.72.58.55</sublink>
+<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports1231014759/exp=1514806103~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=dffd7fd3854bc2a559f7cbe37e17f2cdea2c318e98dc191a930065491dbdf3bb/OTT06_VIDEO_1_4064000.m3u8|Cookie=hdntl=exp=1514806103~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=dffd7fd3854bc2a559f7cbe37e17f2cdea2c318e98dc191a930065491dbdf3bb&X-Forwarded-For=104.72.58.55</sublink>
+<sublink>http://sprtlive6.akamaized.net/hls/live/586267/nbc-sports1231014759/exp=1514806103~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=dffd7fd3854bc2a559f7cbe37e17f2cdea2c318e98dc191a930065491dbdf3bb/OTT06_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1514806103~acl=%2fhls%2flive%2f586267*~data=hdntl~hmac=dffd7fd3854bc2a559f7cbe37e17f2cdea2c318e98dc191a930065491dbdf3bb&X-Forwarded-For=104.72.58.55</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Manchester_City_live_Football/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - Premier League West Bromwich Albion vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
