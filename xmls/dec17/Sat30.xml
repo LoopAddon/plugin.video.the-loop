@@ -212,6 +212,10 @@
 <title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC 219: Cyborg vs. Holm Prelims [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7adf5658ebfcc1f3408579675f0921fc1695a527(Includes Early Prelims Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://aee69139a3abb75cd277d3df070c1c52d8eec880(US Coverage Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f3a116a02d59c3cc9dc1607b835c63f1ae63a67e(UK BT Sport 1 Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://61a54cd5b13e6c5cb3f1a1cf1b91abfcafb1004c(US Coverage Acrstream)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Prelims_live_UFC/btsports1</sublink></link>
@@ -224,6 +228,10 @@
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]UFC 219 Cyborg vs. Holm [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
 <link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7adf5658ebfcc1f3408579675f0921fc1695a527(Includes Early Prelims Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://aee69139a3abb75cd277d3df070c1c52d8eec880(US Coverage Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f3a116a02d59c3cc9dc1607b835c63f1ae63a67e(UK BT Sport 1 Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://61a54cd5b13e6c5cb3f1a1cf1b91abfcafb1004c(US Coverage Acestream)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/bt-sport-1</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sports-stream.net/ch9.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cyborg_vs_Holm_live_UFC/btsports1</sublink></link>
