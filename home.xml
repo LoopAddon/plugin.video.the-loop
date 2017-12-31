@@ -45,6 +45,16 @@
 </dir>
 
 <dir>
+        <title>Search Trakt</title>
+        <trakt>search</trakt>
+</dir>
+                
+<dir>
+        <title>Search TMDB</title>
+        <tmdb>search</tmdb>
+</dir>
+                
+<dir>
         <name>Its Christmas lets have Christmas Movies<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/xmas.xml<link>
         <animated_thumbnail><animated_thumbnail>
