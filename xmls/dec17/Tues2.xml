@@ -1,7 +1,11 @@
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Southampton vs Crystal Palace [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Crystal_Palace_live_Football/stream2</sublink>
+<link>
+<sublink>http://sprtott5-i.akamaihd.net/hls/live/222323/nbc-sports-gold0102104106/OTT05_VIDEO_0_5564000.m3u8|Cookie=_alid_=VMJXOr2UFxlWFxVXLkvwXw==; hdntl=exp=1515007713~acl=%2fhls%2flive%2f222323*~data=hdntl~hmac=d18adae872579e76d4421c8fea1ca2ef0d7819084b0997153bab956d237e3a45&X-Forwarded-For=96.17.192.28(1080)</sublink>
+<sublink>http://sprtott5-i.akamaihd.net/hls/live/222323/nbc-sports-gold0102104106/OTT05_VIDEO_1_4064000.m3u8|Cookie=_alid_=VMJXOr2UFxlWFxVXLkvwXw==; hdntl=exp=1515007713~acl=%2fhls%2flive%2f222323*~data=hdntl~hmac=d18adae872579e76d4421c8fea1ca2ef0d7819084b0997153bab956d237e3a45&X-Forwarded-For=96.17.192.28(720)</sublink>
+<sublink>http://sprtott5-i.akamaihd.net/hls/live/222323/nbc-sports-gold0102104106/OTT05_VIDEO_2_2264000.m3u8|Cookie=_alid_=VMJXOr2UFxlWFxVXLkvwXw==; hdntl=exp=1515007713~acl=%2fhls%2flive%2f222323*~data=hdntl~hmac=d18adae872579e76d4421c8fea1ca2ef0d7819084b0997153bab956d237e3a45&X-Forwarded-For=96.17.192.28(576)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Crystal_Palace_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -9,7 +13,11 @@
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Swansea City vs Tottenham Hotspur [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swansea_City_vs_Tottenham_Hotspur_live_Football/stream1</sublink>
+<link>
+<sublink>http://sprtlive4.akamaized.net/hls/live/586259/nbc-sports0102094148/exp=1515003504~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=10b96eefecc2616f9b70f29cbf585e3ac984550ff794c221ed396f06208d7e26/OTT04_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1515003504~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=10b96eefecc2616f9b70f29cbf585e3ac984550ff794c221ed396f06208d7e26&X-Forwarded-For=96.17.192.28(1080)</sublink>
+<sublink>http://sprtlive4.akamaized.net/hls/live/586259/nbc-sports0102094148/exp=1515003504~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=10b96eefecc2616f9b70f29cbf585e3ac984550ff794c221ed396f06208d7e26/OTT04_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1515003504~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=10b96eefecc2616f9b70f29cbf585e3ac984550ff794c221ed396f06208d7e26&X-Forwarded-For=96.17.192.28(720)</sublink>
+<sublink>http://sprtlive4.akamaized.net/hls/live/586259/nbc-sports0102094148/exp=1515003504~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=10b96eefecc2616f9b70f29cbf585e3ac984550ff794c221ed396f06208d7e26/OTT04_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1515003504~acl=%2fhls%2flive%2f586259*~data=hdntl~hmac=10b96eefecc2616f9b70f29cbf585e3ac984550ff794c221ed396f06208d7e26&X-Forwarded-For=96.17.192.28(576)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Swansea_City_vs_Tottenham_Hotspur_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -17,7 +25,11 @@
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - West Ham United vs West Bromwich Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Ham_United_vs_West_Bromwich_Albion_live_Football/stream3</sublink>
+<link>
+<sublink>http://sprtott7-i.akamaihd.net/hls/live/222325/nbc-sports-gold0102103436/OTT07_VIDEO_0_5564000.m3u8|Cookie=_alid_=0Xx7h6dQF+RSuxvMb4R+Ow==; hdntl=exp=1515007478~acl=%2fhls%2flive%2f222325*~data=hdntl~hmac=d53d7d3fbf5e410a659bd33adb7f6588e58dd851c6d37879123dcc889639a196&X-Forwarded-For=96.17.192.28(1080)</sublink>
+<sublink>http://sprtott7-i.akamaihd.net/hls/live/222325/nbc-sports-gold0102103436/OTT07_VIDEO_1_4064000.m3u8|Cookie=_alid_=0Xx7h6dQF+RSuxvMb4R+Ow==; hdntl=exp=1515007478~acl=%2fhls%2flive%2f222325*~data=hdntl~hmac=d53d7d3fbf5e410a659bd33adb7f6588e58dd851c6d37879123dcc889639a196&X-Forwarded-For=96.17.192.28(720)</sublink>
+<sublink>http://sprtott7-i.akamaihd.net/hls/live/222325/nbc-sports-gold0102103436/OTT07_VIDEO_2_2264000.m3u8|Cookie=_alid_=0Xx7h6dQF+RSuxvMb4R+Ow==; hdntl=exp=1515007478~acl=%2fhls%2flive%2f222325*~data=hdntl~hmac=d53d7d3fbf5e410a659bd33adb7f6588e58dd851c6d37879123dcc889639a196&X-Forwarded-For=96.17.192.28(576)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Ham_United_vs_West_Bromwich_Albion_live_Football/stream3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
