@@ -1,4 +1,4 @@
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Southampton vs Crystal Palace [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -9,8 +9,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Swansea City vs Tottenham Hotspur [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -21,8 +21,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - West Ham United vs West Bromwich Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -33,7 +33,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester City vs Watford [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
