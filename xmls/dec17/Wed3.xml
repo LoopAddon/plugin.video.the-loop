@@ -1,5 +1,3 @@
-
-
 <plugin>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Arsenal vs Chelsea [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
@@ -10,7 +8,6 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://7751ab0b9fda8b9069039ca4ecf05b19fb32bdbc(Acestream)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://f9b79a854358d98cbb26468f457877afaf06da83(Acestream)</sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://9723e5644e704b398c8a3ff2a76e8992b8002b86(Acestream)</sublink>
-
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.proxyportal.net/sky-sports-main-event</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-1-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/sky-sport-5-online.html</sublink>
@@ -19,7 +16,7 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-3-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-4-online.html</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-5-online.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Chelsea_live_Football/stream1</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Chelsea_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
