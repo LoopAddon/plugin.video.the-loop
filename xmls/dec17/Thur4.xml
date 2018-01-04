@@ -1,7 +1,14 @@
 <plugin>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Tottenham Hotspur vs West Ham United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_West_Ham_United_live_Football/skysportsmainevent</sublink>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7f9de594019b35ab84b44d1015f31ca9c8ca7813(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7751ab0b9fda8b9069039ca4ecf05b19fb32bdbc(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f9b79a854358d98cbb26468f457877afaf06da83(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://9723e5644e704b398c8a3ff2a76e8992b8002b86(Acestream)</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_West_Ham_United_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -9,7 +16,8 @@
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Florida Panthers at Boston Bruins [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Florida_Panthers_at_Boston_Bruins_live_Hockey/nhl1</sublink><referer></referer>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Florida_Panthers_at_Boston_Bruins_live_Hockey/nhl1</sublink>
+  <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
