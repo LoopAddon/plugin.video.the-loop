@@ -2,7 +2,11 @@
 <title>[COLORred][B]12:00 - 17:00 [/COLOR][/B][COLORwhite][B]Darts - Lakeside 2018 Darts Championship [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Exeter_City_vs_West_Bromwich_Albion_live_Football/stream35</sublink></link>
+<sublink>
+http://streams.yo.tv/srv3/ngrp:3.stream_all/chunklist_b1046000_DVR.m3u8</sublink>
+<sublink>
+http://streams.yo.tv/srv3/ngrp:3.stream_all/chunklist_b1046000_DVR.m3u8
+</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
