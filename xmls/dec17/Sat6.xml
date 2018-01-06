@@ -60,8 +60,8 @@
 <title>[COLORred][B]17:00 - 20:00 [/COLOR][/B][COLORwhite][B]Live CFB: FCS Championship [/COLOR][/B]</title>
 <info>[COLORyellow][B]American Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/ESPN-US.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/BT-Sport-ESPN.html</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_FCS_Championship_live_American_Football/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -111,9 +111,9 @@
 <title>[COLORred][B]23:00 - 00:15 [/COLOR][/B][COLORwhite][B]Live College Basketball: Indiana - Minnesota [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/ESPN-US.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/BT-Sport-ESPN.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Indiana_-_Minnesota_live_Basketball/stream37</sublink></link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CFB_FCS_Championship_live_American_Football/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
