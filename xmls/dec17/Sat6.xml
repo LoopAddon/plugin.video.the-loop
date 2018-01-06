@@ -67,19 +67,19 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Norwich City vs Chelsea [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/Sportsnet-World.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/Bein-Sports-2.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/Bein-Sports-11.html</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sdw-net.me/channels/BT-Sport-2.html</sublink>
+<sublink>http://genti1.genti.stream/9ad8a768e95e09a43be43fccce63f893.m3u8</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/united4all/index.m3u8</sublink>
+<sublink>http://185.231.160.35/29/3/index.m3u8</sublink>
+<sublink>http://46.29.163.100/live2/playlist.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Norwich_City_vs_Chelsea_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL St. Louis Blues at Philadelphia Flyers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
