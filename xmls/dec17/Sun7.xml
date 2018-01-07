@@ -1,14 +1,22 @@
-<plugin>
+<item>
 <title>[COLORred][B]12:00 - 14:30 [/COLOR][/B][COLORwhite][B]England FA CUP: Newport County vs L***s United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_World_Cup_Otepaa-_Estonia_live_Skiing/stream22</sublink></link>
-<referer></referer>
+<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_wales_hd.m3u8</link>
+<referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
+<item>
+<title>[COLORred][B]All Day [/COLOR][/B][COLORwhite][B]2018 Lakeside Darts Championship[/COLOR][/B]</title>
+<info>[COLORyellow][B]Skiing[/COLOR][/B]</info>
+<link>
+<sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8</sublink>
+<sublink>http://streams.yo.tv/srv3/ngrp:3.stream_all/playlist.m3u8</sublink></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
-<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Shrewsbury Town vs West Ham United [/COLOR][/B]</title>
+<title>[COLORred][B]00 - 16:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Shrewsbury Town vs West Ham United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Shrewsbury_Town_vs_West_Ham_United_live_Football/stream1</sublink></link>
