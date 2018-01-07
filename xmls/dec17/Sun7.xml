@@ -35,15 +35,26 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]17:30 - 21:30 [/COLOR][/B][COLORwhite][B]NFL Buffalo Bills @ Jacksonville Jaguars [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Buffalo_Bills_Jacksonville_Jaguars_live_NFL/nfl1</sublink></link>
-<referer></referer>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Action-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Action/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Mix-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Mix/mpegts?token=hcWUvw2Ur3</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
+<item>
+<title>[COLORred][B]18:45 - 23:00 [/COLOR][/B][COLORwhite][B]2018 BDO Darts Championship[/COLOR][/B]</title>
+<info>[COLORyellow][B]Ice Hockey[/COLOR][/B]</info>
+<link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-3-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-3/mpegts?token=hcWUvw2Ur3</sublink></link>
+<item
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live NHL Ice Hockey New York Islanders v New Jersey Devils [/COLOR][/B]</title>
 <info>[COLORyellow][B]Ice Hockey[/COLOR][/B]</info>
@@ -98,24 +109,28 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Loyola - Northern Iowa [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Loyola_-_Northern_Iowa_live_Basketball/stream37</sublink></link>
-<referer></referer>
+<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN/mpegts?token=hcWUvw2Ur3</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]21:00 - 01:00 [/COLOR][/B][COLORwhite][B]NFL Carolina Panthers @ New Orleans Saints [/COLOR][/B]</title>
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Carolina_Panthers_New_Orleans_Saints_live_NFL/nfl2</sublink></link>
-<referer></referer>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Action-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Action/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Mix-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Mix/mpegts?token=hcWUvw2Ur3</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NHL Florida Panthers @ Columbus Blue Jackets [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
@@ -125,7 +140,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Florida State - Miami [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
@@ -133,7 +148,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Vancouver Canucks @ Montr�al Canadiens [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
