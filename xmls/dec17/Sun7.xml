@@ -17,7 +17,7 @@
 <link>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-3-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-3/mpegts?token=hcWUvw2Ur3</sublink></link>
-<item
+</item>
 <item>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live NHL Ice Hockey New York Islanders v New Jersey Devils [/COLOR][/B]</title>
 <info>[COLORyellow][B]Ice Hockey[/COLOR][/B]</info>
@@ -37,7 +37,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Buffalo Sabres @ Philadelphia Flyers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
