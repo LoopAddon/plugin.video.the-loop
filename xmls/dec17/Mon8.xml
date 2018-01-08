@@ -27,18 +27,16 @@
 <link>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3(Night Session)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3(Night Session)</sublink>
+<sublink>https://events.sportsbest.info/Stream-brcr/tracks-v1a1/index.m3u8</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/chaos/index.m3u8</sublink>
 <sublink>http://185.231.160.35/29/3/index.m3u8(Russian Comms)</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <plugin>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Milwaukee Bucks at Indiana Pacers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milwaukee_Bucks_at_Indiana_Pacers_live_NBA/nba1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]]England - FA Cup Brighton - Hove Albion vs Crystal Palace Acestream [/COLOR][/B]</title>
+<link>plugin://program.plexus/?mode=1&url=acestream://e1471aeb1a49d21250dff24755d68cc0205cada8(Acestream)</link> 
 <fanart></fanart>
 </plugin>
 <item>
@@ -54,7 +52,7 @@
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Raptors_at_Brooklyn_Nets_live_NBA/nba2</sublink></link>
-<referer></referer>
+<referer><plugin://program.plexus/?mode=1&url=acestream://e1471aeb1a49d21250dff24755d68cc0205cada8(Acestream)</sublink> /referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
