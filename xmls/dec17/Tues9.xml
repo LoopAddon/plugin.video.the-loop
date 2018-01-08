@@ -1,0 +1,25 @@
+<item>
+<title>[COLORred][B]All Day [/COLOR][/B][COLORwhite][B]Darts BDO World Championship [/COLOR][/B]</title>
+<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
+<link>
+<sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8(Afternoon Session)</sublink>  
+<sublink>http://streams.yo.tv/srv3/ngrp:3.stream_all/playlist.m3u8(Afternoon Session)</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3(Night Session)</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3(Night Session)</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]England - League Cup - Leg 1 Chelsea vs Arsenal [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/-_Leg_1_Chelsea_vs_Arsenal_live_Football/skysportsmainevent</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink></link>
+</link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
