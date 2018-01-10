@@ -38,6 +38,13 @@
 <sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Acestream)<sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://2d468d38f57248998cf52cc90de64f9c379380f4(Acestream)<sublink></link>
 </plugin>
+</item> 
+<item> 
+<title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]Madrid vs Numancia [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info> 
+<link> 
+<sublink>https://events.sportsbest.info/Stream-vile1/tracks-v1a1/index.m3u8</sublink>
+<sublink>http://163.172.61.99:8080/Bein12/tracks-v1a1/index.m3u8</sublink></link>
+</item>
 <plugin>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators at Toronto Maple Leafs [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
