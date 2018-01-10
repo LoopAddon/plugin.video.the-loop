@@ -14,6 +14,11 @@
 <title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]England - League Cup - Leg 1 Chelsea vs Arsenal [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info> 
 <link> 
 <sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink> 
+<sublink>http://www.gentistream.pw/65d7a083252f4ae1d293e4907b89d225.m3u8</sublink>
+<sublink>http://www.gentistream.pw/man.m3u8</sublink>
+<sublink>http://163.172.61.99:8080/SkyFtHD/tracks-v1a1/index.m3u8</sublink>
+<sublink>https://events.sportsbest.info/Stream-char/tracks-v1a1/index.m3u8</sublink>
+<sublink>https://events.sportsbest.info/Stream-char2/tracks-v1a1/index.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>  
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>  
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>  
@@ -24,6 +29,15 @@
 <thumbnail></thumbnail> 
 <fanart></fanart> 
 </item> 
+<plugin> 
+<title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]League Cup - Chelsea vs Arsenal Acestream [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info> 
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a754914cc2a04c6bff59b6c70c46a36eed6a3c11(Acestream)</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Acestream)</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)<sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://9eba690be925a98e8aecfc758070b874e19260c6(Acestream)<sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2d468d38f57248998cf52cc90de64f9c379380f4(Acestream)<sublink></link>
+</plugin>
 <plugin>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators at Toronto Maple Leafs [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
