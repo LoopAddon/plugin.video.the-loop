@@ -1,0 +1,135 @@
+<plugin>
+<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]England - Premier League AFC Bournemouth vs Arsenal [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Arsenal_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - Premier League Liverpool vs Manchester City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Manchester_City_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 20:00 [/COLOR][/B][COLORwhite][B]Live BDO World Championships Live BDO World Championship Final: 2018 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_BDO_World_Championship_Final_2018_live_Darts/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 20:30 [/COLOR][/B][COLORwhite][B]NHL Detroit Red Wings at Chicago Blackhawks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Red_Wings_at_Chicago_Blackhawks_live_Hockey/nhl1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Live European Rugby Champions Cup Cardiff Blues vs Toulouse [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_Blues_vs_Toulouse_live_Rugby_Union_-_Domestic/stream24</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]European Rugby Champions Cup Castres vs Leicester [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Castres_vs_Leicester_live_Rugby/btsports2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live NFL Jacksonville Jaguars at Pittsburgh Steelers [/COLOR][/B]</title>
+<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Jacksonville_Jaguars_at_Pittsburgh_Steelers_live_American_Football/skysportsaction</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:45 - 22:00 [/COLOR][/B][COLORwhite][B]Live Masters Snooker 2018 Day One Match Two [/COLOR][/B]</title>
+<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_One_Match_Two_live_Snooker/stream23</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NHL Calgary Flames at Carolina Hurricanes [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Calgary_Flames_at_Carolina_Hurricanes_live_Hockey/nhl2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]21:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live NFL New Orleans Saints at Minnesota Vikings [/COLOR][/B]</title>
+<info>[COLORyellow][B]American Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Saints_at_Minnesota_Vikings_live_American_Football/skysportsaction</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: NC State - Virginia [/COLOR][/B]</title>
+<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_NC_State_-_Virginia_live_Basketball/stream37</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL New York Rangers at Pittsburgh Penguins [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Rangers_at_Pittsburgh_Penguins_live_Hockey/nhl3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Vancouver Canucks at Minnesota Wild [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vancouver_Canucks_at_Minnesota_Wild_live_Hockey/nhl4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 124 Stephens vs Choi, Prelims [/COLOR][/B]</title>
+<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Stephens_vs_Choi_Prelims_live_UFC/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 05:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night 124 Stephens vs Choi [/COLOR][/B]</title>
+<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Stephens_vs_Choi_live_UFC/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
