@@ -1,3 +1,15 @@
+<item>  
+<title>[COLORred][B]All Day [/COLOR][/B][COLORwhite][B]Darts BDO World Championship [/COLOR][/B]</title>  
+<info>[COLORyellow][B]Darts[/COLOR][/B]</info>  
+<link>  
+<sublink>http://uk.stream.yo.tv/livehttporigin/Channel4_360p.stream/chunklist.m3u8(Afternoon Session)</sublink>    
+<sublink>http://streams.yo.tv/srv3/ngrp:3.stream_all/playlist.m3u8(Afternoon Session)</sublink>  
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3(Night Session)</sublink>   
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3(Night Session)</sublink></link>  
+<referer></referer>  
+<thumbnail></thumbnail>  
+<fanart></fanart>  
+</item>  
 <plugin>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Championship Cardiff City vs Sunderland [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
