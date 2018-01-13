@@ -10,17 +10,22 @@
 <thumbnail></thumbnail>  
 <fanart></fanart>  
 </item>  
-<plugin>
+<item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Championship Cardiff City vs Sunderland [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink> 
 <sublink>http://80.82.70.155:1935/tv/fkkAeZHZRV20171105/chunklist_w775299993_tkaGxzZW5kdGltZT0xNTE1ODQ1MTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9XzJ0ZjNYYkJEOWdKQjlDQ2RqS0lsZXJfYWlPVFNuOWxzbjdRU09Qdy1Gaz0=.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Sunderland_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL -  Chelsea vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
