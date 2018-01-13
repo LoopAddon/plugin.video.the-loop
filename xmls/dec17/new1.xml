@@ -44,7 +44,7 @@
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Crystal Palace vs Burnley [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink></sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Burnley_live_Football/stream5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -71,6 +71,7 @@
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Watford vs Southampton [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/TSN-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Watford_vs_Southampton_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
