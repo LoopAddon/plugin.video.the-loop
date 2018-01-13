@@ -10,119 +10,6 @@
 <thumbnail></thumbnail>  
 <fanart></fanart>  
 </item>  
-<item>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Championship Cardiff City vs Sunderland [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink> 
-<sublink>https://content-aeui1.uplynk.com/event/b657986459624b26a739d09a988cebf9/h.m3u8?ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_fw_euid,null&exp=1515846391&ptid=ESPN3_Events_VDMS&rn=839698661&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=espnlive&ad.csid=watchespn:chromecast_uplynk:espn3:live:en&ad.caid=a110392519&eid=a110392519&euid=ESPN3_VDMS&ct=e&sig=d50e5db477eff3fcc40f7caf90a26907a0bbd338c7fc36ef0cd021b29b2e09b2&pbs=d4984f56b20646ad84bc2436401292dc</sublink>
-<sublink>https://content-aeui1.uplynk.com/event/b657986459624b26a739d09a988cebf9/e.m3u8?ad.kv=_fw_ae,53da17a30bd0d3c946a41c86cb5873f1,_fw_euid,null&exp=1515846391&ptid=ESPN3_Events_VDMS&rn=839698661&tc=1&oid=d09b16c953aa40c98dd8c513526aca5a&linearv=4&ad=espnlive&ad.csid=watchespn:chromecast_uplynk:espn3:live:en&ad.caid=a110392519&eid=a110392519&euid=ESPN3_VDMS&ct=e&sig=d50e5db477eff3fcc40f7caf90a26907a0bbd338c7fc36ef0cd021b29b2e09b2&pbs=d4984f56b20646ad84bc2436401292dc</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Sunderland_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL -  Chelsea vs Leicester City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
-<sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://sprtlive18.akamaized.net/hls/live/586309/nbc-sports0113050024/exp=1515936482~acl=%2fhls%2flive%2f586309*~data=hdntl~hmac=bdc942118a1c7e71fb33f7eda8dad0b3053ecdd1474d419afa69e15c4343fa15/OTT18_VIDEO_0_5564000.m3u8|Cookie=hdntl=exp=1515936482~acl=%2fhls%2flive%2f586309*~data=hdntl~hmac=bdc942118a1c7e71fb33f7eda8dad0b3053ecdd1474d419afa69e15c4343fa15&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtlive18.akamaized.net/hls/live/586309/nbc-sports0113050024/exp=1515936482~acl=%2fhls%2flive%2f586309*~data=hdntl~hmac=bdc942118a1c7e71fb33f7eda8dad0b3053ecdd1474d419afa69e15c4343fa15/OTT18_VIDEO_1_2264000.m3u8|Cookie=hdntl=exp=1515936482~acl=%2fhls%2flive%2f586309*~data=hdntl~hmac=bdc942118a1c7e71fb33f7eda8dad0b3053ecdd1474d419afa69e15c4343fa15&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtlive18.akamaized.net/hls/live/586309/nbc-sports0113050024/exp=1515936482~acl=%2fhls%2flive%2f586309*~data=hdntl~hmac=bdc942118a1c7e71fb33f7eda8dad0b3053ecdd1474d419afa69e15c4343fa15/OTT18_VIDEO_2_2264000.m3u8|Cookie=hdntl=exp=1515936482~acl=%2fhls%2flive%2f586309*~data=hdntl~hmac=bdc942118a1c7e71fb33f7eda8dad0b3053ecdd1474d419afa69e15c4343fa15&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://chi.bankai.stream/live.m3u8</sublink>
-<sublink>http://185.231.160.42/23/3/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Leicester_City_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Crystal Palace vs Burnley [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports-gold0113051732/OTT02_VIDEO_0_5564000.m3u8|Cookie=_alid_=BAN8pctlTTxJjBwXsphWow==; hdntl=exp=1515936939~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=fc2f3a439dc540b4d1e6b0bd2bc6acf7f98d17c63fd461aadcf1995c62a21828&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports-gold0113051732/OTT02_VIDEO_1_4064000.m3u8|Cookie=_alid_=BAN8pctlTTxJjBwXsphWow==; hdntl=exp=1515936939~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=fc2f3a439dc540b4d1e6b0bd2bc6acf7f98d17c63fd461aadcf1995c62a21828&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott2-i.akamaihd.net/hls/live/222320/nbc-sports-gold0113051732/OTT02_VIDEO_2_2264000.m3u8|Cookie=_alid_=BAN8pctlTTxJjBwXsphWow==; hdntl=exp=1515936939~acl=%2fhls%2flive%2f222320*~data=hdntl~hmac=fc2f3a439dc540b4d1e6b0bd2bc6acf7f98d17c63fd461aadcf1995c62a21828&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Burnley_live_Football/stream5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Huddersfield Town vs West Ham United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports-gold0113052223/OTT04_VIDEO_0_5564000.m3u8|Cookie=_alid_=D5n+49sjDlqK5OCu+tlrrA==; hdntl=exp=1515936814~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=d8552abd199f82f7af8d388e1997564b62a1ea448a3f7f266fa157b3a33437a2&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports-gold0113052223/OTT04_VIDEO_1_4064000.m3u8|Cookie=_alid_=D5n+49sjDlqK5OCu+tlrrA==; hdntl=exp=1515936814~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=d8552abd199f82f7af8d388e1997564b62a1ea448a3f7f266fa157b3a33437a2&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott4-i.akamaihd.net/hls/live/222322/nbc-sports-gold0113052223/OTT04_VIDEO_2_2264000.m3u8|Cookie=_alid_=D5n+49sjDlqK5OCu+tlrrA==; hdntl=exp=1515936814~acl=%2fhls%2flive%2f222322*~data=hdntl~hmac=d8552abd199f82f7af8d388e1997564b62a1ea448a3f7f266fa157b3a33437a2&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_West_Ham_United_live_Football/stream3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Newcastle United vs Swansea City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://sprtott6-i.akamaihd.net/hls/live/222324/nbc-sports-gold0113053342/OTT06_VIDEO_0_5564000.m3u8|Cookie=_alid_=kaPV0Zk+VKPPCen8vAA0XQ==; hdntl=exp=1515937340~acl=%2fhls%2flive%2f222324*~data=hdntl~hmac=171d3749615d71876f27240fb0f89d461915afdfd1e4a9c08d82cdcc0dadd6ff&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://tau.bankai.stream/live.m3u8</sublink>
-<sublink>http://sprtott6-i.akamaihd.net/hls/live/222324/nbc-sports-gold0113053342/OTT06_VIDEO_1_4064000.m3u8|Cookie=_alid_=kaPV0Zk+VKPPCen8vAA0XQ==; hdntl=exp=1515937340~acl=%2fhls%2flive%2f222324*~data=hdntl~hmac=171d3749615d71876f27240fb0f89d461915afdfd1e4a9c08d82cdcc0dadd6ff&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott6-i.akamaihd.net/hls/live/222324/nbc-sports-gold0113053342/OTT06_VIDEO_2_2264000.m3u8|Cookie=_alid_=kaPV0Zk+VKPPCen8vAA0XQ==; hdntl=exp=1515937340~acl=%2fhls%2flive%2f222324*~data=hdntl~hmac=171d3749615d71876f27240fb0f89d461915afdfd1e4a9c08d82cdcc0dadd6ff&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Swansea_City_live_Football/stream4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Watford vs Southampton [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/TSN-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://sprtott8-i.akamaihd.net/hls/live/222483/nbc-sports-gold0113054439/OTT08_VIDEO_0_5564000.m3u8|Cookie=_alid_=Jx12jPfi1PubW3SLXVDu5Q==; hdntl=exp=1515939549~acl=%2fhls%2flive%2f222483*~data=hdntl~hmac=c68c41c8868626a261bca72efbf249f80ddcf53a792d2b5a59a3f66df6b0bc7f&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott8-i.akamaihd.net/hls/live/222483/nbc-sports-gold0113054439/OTT08_VIDEO_1_4064000.m3u8|Cookie=_alid_=Jx12jPfi1PubW3SLXVDu5Q==; hdntl=exp=1515939549~acl=%2fhls%2flive%2f222483*~data=hdntl~hmac=c68c41c8868626a261bca72efbf249f80ddcf53a792d2b5a59a3f66df6b0bc7f&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott8-i.akamaihd.net/hls/live/222483/nbc-sports-gold0113054439/OTT08_VIDEO_2_2264000.m3u8|Cookie=_alid_=Jx12jPfi1PubW3SLXVDu5Q==; hdntl=exp=1515939549~acl=%2fhls%2flive%2f222483*~data=hdntl~hmac=c68c41c8868626a261bca72efbf249f80ddcf53a792d2b5a59a3f66df6b0bc7f&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Watford_vs_Southampton_live_Football/stream2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - West Bromwich Albion vs Brighton - Hove Albion [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://sprtott10-i.akamaihd.net/hls/live/222493/nbc-sports-gold0113055301/OTT10_VIDEO_0_5564000.m3u8|Cookie=_alid_=nLMrQZ2AC1rQwvyQhS4Zog==; hdntl=exp=1515939458~acl=%2fhls%2flive%2f222493*~data=hdntl~hmac=130095b161fff3ccefcb0e5901470d72f20e370b5108137331856d8f5ce70b0f&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott10-i.akamaihd.net/hls/live/222493/nbc-sports-gold0113055301/OTT10_VIDEO_2_4064000.m3u8|Cookie=_alid_=nLMrQZ2AC1rQwvyQhS4Zog==; hdntl=exp=1515939458~acl=%2fhls%2flive%2f222493*~data=hdntl~hmac=130095b161fff3ccefcb0e5901470d72f20e370b5108137331856d8f5ce70b0f&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>http://sprtott10-i.akamaihd.net/hls/live/222493/nbc-sports-gold0113055301/OTT10_VIDEO_1_2264000.m3u8|Cookie=_alid_=nLMrQZ2AC1rQwvyQhS4Zog==; hdntl=exp=1515939458~acl=%2fhls%2flive%2f222493*~data=hdntl~hmac=130095b161fff3ccefcb0e5901470d72f20e370b5108137331856d8f5ce70b0f&X-Forwarded-For=75.119.202.80</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Brighton_-_Hove_Albion_live_Football/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EFL Championship - Middlesbrough vs Fulham [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Middlesbrough_vs_Fulham_live_Football/stream58</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]16:00 - 17:15 [/COLOR][/B][COLORwhite][B]Formula E 2017-18: Marrakech ePrix [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_Marrakech_ePrix_live_Motor_Sport/stream22</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 <plugin>
 <title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Kansas State - Kansas [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
@@ -136,7 +23,12 @@
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]EPL - Tottenham Hotspur vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://wowzaprod159-i.akamaihd.net/hls/live/593643/32e87ece_1_2728/chunklist.m3u8</sublink>
+<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
 <sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>https://wowzaprod159-i.akamaihd.net/hls/live/593643/32e87ece_1_2728/chunklist.m3u8</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/livexsports1/index.m3u8</sublink>
+<sublink>http://185.231.160.42/608/3/index.m3u8(Spanish commentary)</sublink>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>   
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://185.231.160.42/608/3/index.m3u8</sublink>
