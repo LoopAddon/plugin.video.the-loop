@@ -14,6 +14,8 @@
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Championship Cardiff City vs Sunderland [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+
+<sublink>http://80.82.70.155:1935/tv/fkkAeZHZRV20171105/chunklist_w775299993_tkaGxzZW5kdGltZT0xNTE1ODQ1MTYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9XzJ0ZjNYYkJEOWdKQjlDQ2RqS0lsZXJfYWlPVFNuOWxzbjdRU09Qdy1Gaz0=.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Sunderland_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -23,6 +25,7 @@
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL -  Chelsea vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://185.231.160.42/23/3/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Leicester_City_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -32,6 +35,7 @@
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Crystal Palace vs Burnley [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://185.231.160.42/23/3/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Burnley_live_Football/stream5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -103,6 +107,7 @@
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]EPL - Tottenham Hotspur vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://185.231.160.42/608/3/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_Everton_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
