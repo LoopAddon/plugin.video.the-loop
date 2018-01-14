@@ -157,6 +157,11 @@
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NHL Colorado Avalanche @ Dallas Stars [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515979028~id=nhlGatewayId:1091891~data=56133203~hash=fe489071c0a9c04d2e7b28902a73b00a4b504219/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_COLDAL_M2_HOME_20180114_1514401440700/3500K/3500_complete.m3u8</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515979063~id=nhlGatewayId:1091891~data=56133203~hash=61ce3f7ba11982246fb451932fc4af573e43d654/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_COLDAL_M2_HOME_20180114_1514401440700/2500K/2500_complete.m3u8</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515978844~id=nhlGatewayId:1091891~data=56133303~hash=28665c54fbe26c8df081630a5d54ddc94abf36d1/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_COLDAL_M2_VISIT_20180114_1514401440862/3500K/3500_complete.m3u8</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515978947~id=nhlGatewayId:1091891~data=56133303~hash=fe401b684cbd12272bcafabdd3cd5a58369ae78c/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_COLDAL_M2_VISIT_20180114_1514401440862/2500K/2500_complete.m3u8</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515979142~id=nhlGatewayId:1091891~data=56133803~hash=27f1491426295d2eb486afc7b6b89f1633086fb3/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_COLDAL_M2_COMPOSITE_3X_20180114_1514401441281/2500K/2500_complete.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Colorado_Avalanche_Dallas_Stars_live_Hockey/nhl6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
