@@ -1,12 +1,14 @@
-<plugin>
+<item>
 <title>[COLORred][B]ALL DAY [/COLOR][/B][COLORwhite][B]Masters Snooker [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8|X-Forwaded-For=178.208.163.66&Name=(HD England)</sublink>
+<sublink>http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d2812032.m3u8|X-Forwaded-For=178.208.163.66&Name=(SD England)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Arsenal_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <item>
 <title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
@@ -36,6 +38,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
+</item>
 <item>  
 <title>[COLORred][B]All Day [/COLOR][/B][COLORwhite][B]Darts BDO World Championship [/COLOR][/B]</title>  
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>  
