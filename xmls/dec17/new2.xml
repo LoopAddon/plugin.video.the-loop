@@ -8,7 +8,7 @@
 <fanart></fanart>
 </plugin>
 <item>
-<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]England - Premier League AFC Bournemouth vs Arsenal [/COLOR][/B]</title>
+<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
@@ -17,14 +17,14 @@
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
-http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Arsenal_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - Premier League Liverpool vs Manchester City [/COLOR][/B]</title>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]EPL - Liverpool vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
