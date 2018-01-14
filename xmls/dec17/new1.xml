@@ -103,15 +103,20 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets @ Minnesota Wild [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971170~id=nhlGatewayId:1091891~data=56130203~hash=3507bf3788ef4e7029afa9e9ce37705433e0f9f2/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_HOME_20180114_1514400818198/3500K/3500_complete.m3u8|Cookie=mediaAuth=88c707ab69e95ae2444dc4a861861c4a1e0f7115594d3458cacde8af70b3a9daa0d7e98f7052bbd8c26e73cd93982d58b03cb1fbec76b2a517cdd18c306c5d38782e1acaf8ff0d1763c5f1636d6f3994a0c34361dbe3a9e19b12385288223f20fa614cea121c6141d454987be7d32f6df06a43a6c1616d033b69712e7d3a0df5&User-Agent=PS4Application libhttp/1.000 libhttp/4.07&X-Forwarded-For=96.17.192.28</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971211~id=nhlGatewayId:1091891~data=56130203~hash=d7f497356093b491a96c46c702cd80b5b792e844/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_HOME_20180114_1514400818198/2500K/2500_complete.m3u8|Cookie=mediaAuth=88c707ab69e95ae2444dc4a861861c4a1e0f7115594d3458cacde8af70b3a9daa0d7e98f7052bbd8c26e73cd93982d58b03cb1fbec76b2a517cdd18c306c5d38782e1acaf8ff0d1763c5f1636d6f3994a0c34361dbe3a9e19b12385288223f20fa614cea121c6141d454987be7d32f6df06a43a6c1616d033b69712e7d3a0df5&User-Agent=PS4Application libhttp/1.000 libhttp/4.07&X-Forwarded-For=96.17.192.28</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971088~id=nhlGatewayId:1091891~data=56130303~hash=eda67c611b5569f57b24feae13ec0e9551434595/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_VISIT_20180114_1514400818356/3500K/3500_complete.m3u8|Cookie=mediaAuth=88c707ab69e95ae2444dc4a861861c4a1e0f7115594d3458cacde8af70b3a9daa0d7e98f7052bbd8c26e73cd93982d58b03cb1fbec76b2a517cdd18c306c5d38782e1acaf8ff0d1763c5f1636d6f3994a0c34361dbe3a9e19b12385288223f20fa614cea121c6141d454987be7d32f6df06a43a6c1616d033b69712e7d3a0df5&User-Agent=PS4Application libhttp/1.000 libhttp/4.07&X-Forwarded-For=96.17.192.28</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971121~id=nhlGatewayId:1091891~data=56130303~hash=2c049f56c0dee697cec57657a95bac6f947177ad/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_VISIT_20180114_1514400818356/2500K/2500_complete.m3u8|Cookie=mediaAuth=88c707ab69e95ae2444dc4a861861c4a1e0f7115594d3458cacde8af70b3a9daa0d7e98f7052bbd8c26e73cd93982d58b03cb1fbec76b2a517cdd18c306c5d38782e1acaf8ff0d1763c5f1636d6f3994a0c34361dbe3a9e19b12385288223f20fa614cea121c6141d454987be7d32f6df06a43a6c1616d033b69712e7d3a0df5&User-Agent=PS4Application libhttp/1.000 libhttp/4.07&X-Forwarded-For=96.17.192.28/sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971236~id=nhlGatewayId:1091891~data=56130803~hash=bb97e1d470de8bcccf99c9d9b04bba7ff488f384/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_COMPOSITE_3X_20180114_1514400818788/2500K/2500_complete.m3u8|Cookie=mediaAuth=88c707ab69e95ae2444dc4a861861c4a1e0f7115594d3458cacde8af70b3a9daa0d7e98f7052bbd8c26e73cd93982d58b03cb1fbec76b2a517cdd18c306c5d38782e1acaf8ff0d1763c5f1636d6f3994a0c34361dbe3a9e19b12385288223f20fa614cea121c6141d454987be7d32f6df06a43a6c1616d033b69712e7d3a0df5&User-Agent=PS4Application libhttp/1.000 libhttp/4.07&X-Forwarded-For=96.17.192.28/sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Winnipeg_Jets_Minnesota_Wild_live_Hockey/nhl3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Boston Bruins @ Montr�al Canadiens [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
