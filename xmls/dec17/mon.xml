@@ -23,15 +23,28 @@
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester United vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://wowzaprod158-i.akamaihd.net/hls/live/595691/bf868855_1_2728/chunklist.m3u8</sublink>
+<sublink>http://163.172.61.99:8080/SkyP/tracks-v1a1/index.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://212.8.242.56:8080/hls/sportignite.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://185.231.160.42/608/3/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Stoke_City_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs Stoke City Acestreams [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://d80d8a7bf2fd85faaae2890127954bc0a4050ab5(1080p)</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://5cf5679ee22ba1d90659084ca4650bc40e2ea730</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://011c091debc5ecc080289d1bc05a9a61449febce</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://92376ea16e80c90f2727c49e05fc5e4b75eae3e9</sublink></link>
 <item>
 <title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Miami Heat @ Chicago Bulls [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
