@@ -23,10 +23,10 @@
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester United vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>https://wowzaprod158-i.akamaihd.net/hls/live/595691/bf868855_1_2728/chunklist.m3u8</sublink>
-<sublink>http://163.172.61.99:8080/SkyP/tracks-v1a1/index.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>https://wowzaprod158-i.akamaihd.net/hls/live/595691/bf868855_1_2728/chunklist.m3u8</sublink>
+<sublink>http://163.172.61.99:8080/SkyP/tracks-v1a1/index.m3u8</sublink>
 <sublink>http://212.8.242.56:8080/hls/sportignite.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
