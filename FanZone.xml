@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <dir>
-        <name>Wednesday 17th January</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/b.xml</link>
+        <name>Friday 19th January</name>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/fri.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
         <animated_fanart></animated_fanart>
@@ -9,8 +9,8 @@
 </dir>
 
 <dir>
-        <name>Thursday 18th January</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/bb.xml</link>
+        <name>Saturday 20th January</name>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/sat.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
         <animated_fanart><animated_fanart>
