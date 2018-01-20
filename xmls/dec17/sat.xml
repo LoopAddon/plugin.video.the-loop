@@ -111,7 +111,11 @@
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Aston Villa vs Barnsley [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aston_Villa_vs_Barnsley_live_Football/stream39</link>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aston_Villa_vs_Barnsley_live_Football/stream39</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch19.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream28.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch19.php</sublink></link> 
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
