@@ -1,125 +1,3 @@
-<item>
-<title>[COLORred][B]12:15 - 14:15 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Aberdeen vs St- Mirren [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8|X-Forwaded-For=178.208.163.66(HD Scotland)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aberdeen_vs_St-_Mirren_live_Football/stream28</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - National League Sutton United vs Dagenham - Redbridge [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sutton_United_vs_Dagenham_-_Redbridge_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League Brighton - Hove Albion vs Chelsea [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_Chelsea_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]13:00 - 16:00 [/COLOR][/B][COLORwhite][B]Live Masters Snooker 2018 First Semi-Final [/COLOR][/B]</title>
-<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
-<link>
-<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8|X-Forwaded-For=178.208.163.66(HD England)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_First_Semi-Final_live_Snooker/stream23</sublink></link><referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Celtic vs Brechin City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Celtic_vs_Brechin_City_live_Football/stream29</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Arsenal vs Crystal Palace [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Crystal_Palace_live_Football/stream2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Burnley vs Manchester United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burnley_vs_Manchester_United_live_Football/stream4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Everton vs West Bromwich Albion [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Everton_vs_West_Bromwich_Albion_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Leicester City vs Watford [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/TSN-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leicester_City_vs_Watford_live_Football/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Stoke City vs Huddersfield Town [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Stoke_City_vs_Huddersfield_Town_live_Football/stream5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - West Ham United vs AFC Bournemouth [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Ham_United_vs_AFC_Bournemouth_live_Football/stream3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Aston Villa vs Barnsley [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aston_Villa_vs_Barnsley_live_Football/stream39</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/ch19.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.scupdate/live9/stream28.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.sc/update/ch19.php</sublink></link> 
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
 <plugin>
 <title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Purdue - Iowa: 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
@@ -133,6 +11,10 @@
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]EPL - Manchester City vs Newcastle United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_Newcastle_United_live_Football/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -142,6 +24,8 @@
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Championship Sheffield Wednesday vs Cardiff City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sheffield_Wednesday_vs_Cardiff_City_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
