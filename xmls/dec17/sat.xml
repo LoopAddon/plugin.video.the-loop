@@ -1,13 +1,15 @@
-<plugin>
+<item>
 <title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Purdue - Iowa: 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Purdue_-_Iowa_2017_live_Basketball/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]EPL - Manchester City vs Newcastle United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -19,8 +21,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Championship Sheffield Wednesday vs Cardiff City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -30,7 +32,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+<item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Dallas Stars at Buffalo Sabres [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
@@ -62,6 +64,8 @@
 <title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Oklahoma - Oklahoma State: 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Oklahoma_-_Oklahoma_State_2017_live_Basketball/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -98,6 +102,8 @@
 <title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Notre Dame - Clemson: 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Notre_Dame_-_Clemson_2017_live_Basketball/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -116,6 +122,8 @@
 <title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Baylor - Kansas: 2017 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Baylor_-_Kansas_2017_live_Basketball/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
