@@ -1,224 +1,16 @@
 <item>
-<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Purdue - Iowa: 2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Purdue_-_Iowa_2017_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]EPL - Manchester City vs Newcastle United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_Newcastle_United_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Championship Sheffield Wednesday vs Cardiff City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sheffield_Wednesday_vs_Cardiff_City_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<item>
-<plugin>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Dallas Stars at Buffalo Sabres [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Stars_at_Buffalo_Sabres_live_Hockey/nhl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils at Philadelphia Flyers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_at_Philadelphia_Flyers_live_Hockey/nhl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:45 - 22:00 [/COLOR][/B][COLORwhite][B]Live Masters Snooker 2018 Second Semi-Final [/COLOR][/B]</title>
-<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Second_Semi-Final_live_Snooker/stream23</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Oklahoma - Oklahoma State: 2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Oklahoma_-_Oklahoma_State_2017_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NHL New York Rangers at Colorado Avalanche [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Rangers_at_Colorado_Avalanche_live_Hockey/nhl3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets at Calgary Flames [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Winnipeg_Jets_at_Calgary_Flames_live_Hockey/nhl4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Oklahoma City Thunder at Cleveland Cavaliers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Oklahoma_City_Thunder_at_Cleveland_Cavaliers_live_NBA/nba1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Notre Dame - Clemson: 2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Notre_Dame_-_Clemson_2017_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NBA Chicago Bulls at Atlanta Hawks [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chicago_Bulls_at_Atlanta_Hawks_live_NBA/nba2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball: Baylor - Kansas: 2017 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Baylor_-_Kansas_2017_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Memphis Grizzlies at New Orleans Pelicans [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Memphis_Grizzlies_at_New_Orleans_Pelicans_live_NBA/nba4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Miami Heat at Charlotte Hornets [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Heat_at_Charlotte_Hornets_live_NBA/nba3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Boston Bruins at Montreal Canadiens [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Bruins_at_Montreal_Canadiens_live_Hockey/nhl5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Toronto Maple Leafs at Ottawa Senators [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Maple_Leafs_at_Ottawa_Senators_live_Hockey/nhl6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Carolina Hurricanes at Detroit Red Wings [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Carolina_Hurricanes_at_Detroit_Red_Wings_live_Hockey/nhl7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Milwaukee Bucks at Philadelphia 76ers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milwaukee_Bucks_at_Philadelphia_76ers_live_NBA/nba5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Pittsburgh Penguins at San Jose Sharks [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Pittsburgh_Penguins_at_San_Jose_Sharks_live_Hockey/nhl8</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Arizona Coyotes at St. Louis Blues [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arizona_Coyotes_at_St_Louis_Blues_live_Hockey/nhl9</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Florida Panthers at Nashville Predators [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Florida_Panthers_at_Nashville_Predators_live_Hockey/nhl10</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
 <title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC 220: Miocic vs Ngannou Prelims [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Prelims_live_UFC/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]01:00 - 06:00 [/COLOR][/B][COLORwhite][B]Boxing Errol Spence JR vs Lamont Peterson [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
@@ -273,15 +65,18 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]Bellator 192 Lima vs MacDonald [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Lima_vs_MacDonald_live_UFC/stream2</sublink></link>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Prelims_live_UFC/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks at Portland Trail Blazers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
@@ -300,12 +95,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]UFC 220 Miocic vs Ngannou [/COLOR][/B]</title>
 <info>[COLORyellow][B]UFC[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Prelims_live_UFC/btsports2</sublink></link>
+<referer></referer>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miocic_vs_Ngannou_live_UFC/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
