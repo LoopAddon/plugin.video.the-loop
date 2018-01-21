@@ -1,44 +1,4 @@
-<plugin>
-<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Fraserburgh vs Rangers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Fraserburgh_vs_Rangers_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]13:30 - 16:30 [/COLOR][/B][COLORwhite][B]Live Masters Snooker 2018 Final [/COLOR][/B]</title>
-<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Final_live_Snooker/stream23</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - Premier League Southampton vs Tottenham Hotspur [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>https://stream-cdn-1.eventials.com/eventialsLiveOrigin/_definst_/ngrp:zadyomnnof77w8ov_all/chunklist_b1580100.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Tottenham_Hotspur_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]17:30 - 20:30 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers @ Washington Capitals [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_Washington_Capitals_live_Hockey/nhl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NBA Orlando Magic @ Boston Celtics [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
@@ -57,14 +17,16 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NFL New England Patriots @ Jacksonville Jaguars [/COLOR][/B]</title><info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
+<sublink>http://ilvc01.ec.ustvnow.com/ilv05/pr/xxl/smil:A16D9WHPHUSTVNOW/chunklist_b2264000.m3u8</sublink>
+<sublink>http://wslive2.welovesports.xyz/welovesports1.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_England_Patriots_Jacksonville_Jaguars_live_NFL/nfl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA New York Knicks @ Los Angeles Lakers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
