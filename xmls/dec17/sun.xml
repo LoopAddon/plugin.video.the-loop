@@ -5,8 +5,8 @@
 <plugin>
 <title>[COLORred][B]23:30 - 02:00 Acestream [/COLOR][/B][COLORwhite][B]NFL Acestreams [/COLOR][/B]</title><info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Acestream)<sublink></link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Acestream)</sublink></link>
 <fanart></fanart>
 </plugin>
 <item>
