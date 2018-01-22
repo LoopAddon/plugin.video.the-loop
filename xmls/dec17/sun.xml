@@ -93,8 +93,21 @@
 <title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NHL New York Rangers @ Los Angeles Kings [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Rangers_Los_Angeles_Kings_live_Hockey/nhl5</sublink></link>
-<referer></referer>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://ddaae7c4c8a126922697e7a3f5e57ec1e0492511(Link 1)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Link 2)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://7dec8b9689264d00b8a10bc5c3bcede0c069634e(Link 3)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://32840eee48a281d764103342246490a6ccf6aa1d(Link 4)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Link 5)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://7324d2b82fad2bff4d1524b58fcad48b8addb650(Link 6)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://20971069dfc4b625b06768fdb76afbddd1cf7807(Link 7)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Link 8)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Link 9)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://7dec8b9689264d00b8a10bc5c3bcede0c069634e(Link 10)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://32840eee48a281d764103342246490a6ccf6aa1d(Link 11)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://88ed3eb027715170bbc30d6e6278401917901c2c(Link 12)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://7324d2b82fad2bff4d1524b58fcad48b8addb650(Link 13)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://20971069dfc4b625b06768fdb76afbddd1cf7807(Link 14)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Link 15)</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
