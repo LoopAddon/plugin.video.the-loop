@@ -7,7 +7,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - League Cup Arsenal vs Chelsea [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -20,12 +20,9 @@
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/-_Bristol_City_vs_Manchester_City_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Chelsea_live_Football/stream1</sublink></link>
-<referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Chicago Bulls at Philadelphia 76ers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
