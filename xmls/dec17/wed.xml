@@ -1,11 +1,8 @@
-<plugin>
-<title>[COLORred][B]11:00 - 13:00 [/COLOR][/B][COLORwhite][B]Europe UEFA Nations League Draw [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/UEFA_Nations_League_Draw_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<plugin> 
+<title>Chelsea Arsenal ACESTREAM</title> 
+<link> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://37e8757f964b021e7ed9b3699dda28ffa2ed13b5(1080p Acestream)</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://80c2fdb372d646f5c610940e29985d083f8833e9(720p Acestream)</sublink></link>
 </plugin>
 <item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - League Cup Arsenal vs Chelsea [/COLOR][/B]</title>
