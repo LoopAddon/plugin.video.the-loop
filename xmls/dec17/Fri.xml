@@ -15,7 +15,8 @@
 <link>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dunfermline_Athletic_vs_St-_Mirren_live_Football/btsports1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dunfermline_Athletic_vs_St-_Mirren_live_Football/btsports1</sublink>
+</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
