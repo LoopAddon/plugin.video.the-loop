@@ -2,7 +2,7 @@
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live Darts 2018 Unibet Masters: Day One [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
-<sublink>http://ukdvb1.uk.to:8085/ITV4-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/ITV4/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Unibet_Masters_Day_One_live_Darts/stream35</sublink></link>
 <referer></referer>
@@ -28,6 +28,8 @@
 <sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
 <sublink>http://wagonn.info/futbotv/fs1.m3u8</sublink>
 <sublink>http://wagonn.info/futbotv/fs1_10.m3u8</sublink>
+<sublink>http://173.249.26.212:8080/hls/vettori.m3u8</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/bota/index.m3u8</sublink>  
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8|X-Forwaded-For=178.208.163.66(HD England)</sublink>
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8|X-Forwaded-For=178.208.163.66(HD Scotland)</sublink>
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_wales_hd.m3u8|X-Forwaded-For=178.208.163.66(HD Wales)</sublink>
