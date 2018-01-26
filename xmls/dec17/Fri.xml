@@ -1,4 +1,4 @@
-<plugin>
+<item>
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live Darts 2018 Unibet Masters: Day One [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
@@ -8,25 +8,34 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Championship Dunfermline Athletic vs St- Mirren [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dunfermline_Athletic_vs_St-_Mirren_live_Football/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:55 - 21:55 [/COLOR][/B][COLORwhite][B]England - FA Cup Yeovil Town vs Manchester United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1_10.m3u8</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8|X-Forwaded-For=178.208.163.66(HD England)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8|X-Forwaded-For=178.208.163.66(HD Scotland)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_wales_hd.m3u8|X-Forwaded-For=178.208.163.66(HD Wales)</sublink>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8|X-Forwaded-For=178.208.163.66HD(Northern Ireland)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Yeovil_Town_vs_Manchester_United_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]22:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Wagner - Saint Francis [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
