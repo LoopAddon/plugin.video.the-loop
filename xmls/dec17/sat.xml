@@ -100,7 +100,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]18:40 - 21:20 [/COLOR][/B][COLORwhite][B]Live GAA Dublin v Kildare [/COLOR][/B]</title>
 <info>[COLORyellow][B]Gaelic Games[/COLOR][/B]</info>
 <link>
@@ -108,26 +108,18 @@
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dublin_v_Offaly_live_Gaelic_Games/stream6</sublink></link>
 <referer></referer>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live Darts 2018 Unibet Masters: Day Two [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
+<sublink>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Unibet_Masters_Day_Three_-_Afternoon_live_Darts/stream35</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 20:30 [/COLOR][/B][COLORwhite][B]Live Motor Racing Live 24 Hours of Daytona [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_24_Hours_of_Daytona_live_Motor_Sport/stream23</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - FA Cup Liverpool vs West Bromwich Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -142,7 +134,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NBA Oklahoma City Thunder @ Detroit Pistons [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
