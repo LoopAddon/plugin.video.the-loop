@@ -14,17 +14,18 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Middlesbrough vs Brighton - Hove Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Middlesbrough_vs_Brighton_-_Hove_Albion_live_Football/stream6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Notts County vs Swansea City [/COLOR][/B]</title>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Bristol City vs QPR [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Notts_County_vs_Swansea_City_live_Football/stream5</sublink></link>
@@ -32,15 +33,16 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Wigan Athletic vs West Ham United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://tglext04h-i.akamaihd.net/hls/live/566487/elvnch2pcweb/04.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Wigan_Athletic_vs_West_Ham_United_live_Football/stream4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Celtic vs Hibernian [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
