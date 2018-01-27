@@ -25,6 +25,15 @@
 <fanart></fanart>
 </item>
 <plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Notts County vs Swansea [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Notts_County_vs_Swansea_City_live_Football/stream5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Bristol City vs QPR [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
