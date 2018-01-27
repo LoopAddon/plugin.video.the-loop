@@ -1,12 +1,19 @@
-<plugin>
+<item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Peterborough United vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1_4.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/d2mp0a1lc8sa9b_fs1.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>  
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Peterborough_United_vs_Leicester_City_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Middlesbrough vs Brighton - Hove Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
