@@ -65,38 +65,48 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]16:30 - 18:40 [/COLOR][/B][COLORwhite][B]Live GAA Cork v Tipperary [/COLOR][/B]</title>
 <info>[COLORyellow][B]Gaelic Games[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Premiere-Sports/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cork_v_Tipperary_live_Gaelic_Games/stream36</sublink></link><referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]16:55 - 18:40 [/COLOR][/B][COLORwhite][B]Live GAA Dublin v Offaly [/COLOR][/B]</title>
 <info>[COLORyellow][B]Gaelic Games[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Premiere-Sports/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dublin_v_Offaly_live_Gaelic_Games/stream6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Newport County vs Tottenham Hotspur [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newport_County_vs_Tottenham_Hotspur_live_Football/btsports2</sublink></link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1_4.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/d2mp0a1lc8sa9b_fs1.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>  
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Peterborough_United_vs_Leicester_City_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]18:40 - 21:20 [/COLOR][/B][COLORwhite][B]Live GAA Dublin v Kildare [/COLOR][/B]</title>
 <info>[COLORyellow][B]Gaelic Games[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dublin_v_Kildare_live_Gaelic_Games/stream36</sublink></link><referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://ukdvb1.uk.to:8085/Premiere-Sports/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dublin_v_Offaly_live_Gaelic_Games/stream6</sublink></link>
+<referer></referer>
 <fanart></fanart>
 </plugin>
 <plugin>
