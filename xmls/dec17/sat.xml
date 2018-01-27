@@ -131,7 +131,14 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - FA Cup Liverpool vs West Bromwich Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_West_Bromwich_Albion_live_Football/btsports2</sublink></link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs2.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs2_4.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/d2mp0a1lc8sa9b_fs2.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>  
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Peterborough_United_vs_Leicester_City_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
