@@ -45,15 +45,16 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Celtic vs Hibernian [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://bit.ly/2DCG2nv</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Celtic_vs_Hibernian_live_Football/stream7</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Spain - La Liga Valencia vs Real Madrid [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
