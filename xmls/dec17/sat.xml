@@ -160,6 +160,23 @@
 <fanart></fanart>
 </item>
 <plugin>
+<title>[COLORred][B]23:30 - 04:30 [/COLOR][/B][COLORwhite][B]UFC Jacare vs Brunson II [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>http://wagonn.info/futbotv/fs1.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1_4.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/d2mp0a1lc8sa9b_fs1.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://wslive2.welovesports.xyz/welovesports5.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_Atlanta_Hawks_live_NBA/nba3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards @ Atlanta Hawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
