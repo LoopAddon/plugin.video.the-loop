@@ -159,7 +159,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]23:30 - 04:30 [/COLOR][/B][COLORwhite][B]UFC Jacare vs Brunson II [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
@@ -175,8 +175,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards @ Atlanta Hawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
@@ -184,8 +184,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Charlotte Hornets @ Miami Heat [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
@@ -193,16 +193,18 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA Boston Celtics @ Golden State Warriors [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Celtics_Golden_State_Warriors_live_NBA/nba5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Brooklyn Nets @ Minnesota Timberwolves [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
