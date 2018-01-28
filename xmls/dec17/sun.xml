@@ -12,6 +12,13 @@
 <title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Chelsea vs Newcastle United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs1_4.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/d2mp0a1lc8sa9b_fs1.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>  
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink> 
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Newcastle_United_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -21,6 +28,10 @@
 <title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Ross County vs Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ross_County_vs_Rangers_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -30,6 +41,12 @@
 <title>[COLORred][B]15:45 - 17:45 [/COLOR][/B][COLORwhite][B]England - FA Cup Cardiff City vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/04.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs2.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/fs2_4.m3u8</sublink>
+<sublink>http://wagonn.info/futbotv/d2mp0a1lc8sa9b_fs2.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink> 
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8|X-Forwaded-For=178.208.163.66(HD England)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cardiff_City_vs_Manchester_City_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
