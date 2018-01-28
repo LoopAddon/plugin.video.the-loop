@@ -78,6 +78,10 @@
 <title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Milwaukee Bucks at Chicago Bulls [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/chi.m3u8</sublink>
+<sublink>http://mygood.stream/nba/mil.m3u8</sublink>
+<sublink>http://www.gentistream.pw/mil.m3u8</sublink>
+<sublink>http://www.gentistream.pw/chi.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milwaukee_Bucks_at_Chicago_Bulls_live_NBA/nba1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -87,6 +91,10 @@
 <title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Phoenix Suns at Houston Rockets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://www.gentistream.pw/hou.m3u8</sublink>
+<sublink>http://www.gentistream.pw/pho.m3u8</sublink>
+<sublink>http://mygood.stream/nba/hou.m3u8</sublink>
+<sublink>http://mygood.stream/nba/pho.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Phoenix_Suns_at_Houston_Rockets_live_NBA/nba2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -105,6 +113,10 @@
 <title>[COLORred][B]21:00 - 00:00 [/COLOR][/B][COLORwhite][B]NBA LA Clippers at New Orleans Pelicans [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/cli.m3u8</sublink>
+<sublink>http://mygood.stream/nba/pel.m3u8</sublink>
+<sublink>http://www.gentistream.pw/cli.m3u8</sublink>
+<sublink>http://www.gentistream.pw/pel.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/LA_Clippers_at_New_Orleans_Pelicans_live_NBA/nba3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -115,15 +127,6 @@
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Northern_Iowa_-_Loyola_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]21:45 - 23:30 [/COLOR][/B][COLORwhite][B]Live PGA Tour Golf 2018 Farmers Insurance Open: Day Four [/COLOR][/B]</title>
-<info>[COLORyellow][B]Golf[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Farmers_Insurance_Open_Day_Four_live_Golf/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
