@@ -180,6 +180,10 @@
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards @ Atlanta Hawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/was.m3u8</sublink>
+<sublink>http://mygood.stream/nba/atl.m3u8</sublink>
+<sublink>http://www.gentistream.pw/atl.m3u8</sublink>
+<sublink>http://www.gentistream.pw/was.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_Atlanta_Hawks_live_NBA/nba3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -189,6 +193,10 @@
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Charlotte Hornets @ Miami Heat [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/cha.m3u8</sublink>
+<sublink>http://mygood.stream/nba/mia.m3u8</sublink>
+<sublink>http://www.gentistream.pw/mia.m3u8</sublink>
+<sublink>http://www.gentistream.pw/cha.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Charlotte_Hornets_Miami_Heat_live_NBA/nba4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -199,7 +207,11 @@
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://mygood.stream/nba/bos.m3u8</sublink>
+<sublink>http://mygood.stream/nba/gol.m3u8</sublink>
+<sublink>http://www.gentistream.pw/bos.m3u8</sublink>
+<sublink>http://www.gentistream.pw/gol.m3u8</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3</sublink>  
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Celtics_Golden_State_Warriors_live_NBA/nba5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -209,6 +221,10 @@
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Brooklyn Nets @ Minnesota Timberwolves [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/bro.m3u8</sublink>
+<sublink>http://mygood.stream/nba/min.m3u8</sublink>
+<sublink>http://www.gentistream.pw/bro.m3u8</sublink>
+<sublink>http://www.gentistream.pw/min.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brooklyn_Nets_Minnesota_Timberwolves_live_NBA/nba6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -218,6 +234,10 @@
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks @ Denver Nuggets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/dal.m3u8</sublink>
+<sublink>http://mygood.stream/nba/den.m3u8</sublink>
+<sublink>http://www.gentistream.pw/dal.m3u8</sublink>
+<sublink>http://www.gentistream.pw/den.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Mavericks_Denver_Nuggets_live_NBA/nba7</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
