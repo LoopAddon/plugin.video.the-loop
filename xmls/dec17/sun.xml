@@ -138,8 +138,8 @@
 <title>[COLORred][B]22:00 - 00:00 [/COLOR][/B][COLORwhite][B]WWE Royal Rumble Philadelphia, Kickoff [/COLOR][/B]</title>
 <info>[COLORyellow][B]WWE[/COLOR][/B]</info>
 <link>
-<sublink>http://ukdvb1.uk.to:8085/WWE-Network-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/WWE-Network/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/WWE-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/WWE/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Wwe-Network-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Wwe-Network/mpegts?token=hcWUvw2Ur3</sublink></link>
 </item>
