@@ -223,16 +223,19 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]02:30 - 07:00 [/COLOR][/B][COLORwhite][B]Boxing Lucas Matthysse vs Tewa Kiram [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
 <link>
+<sublink>http://live.bn.simplestreamcdn.com/boxnation/3/prog_index.m3u8</sublink>
+<sublink>http://live.bn.simplestreamcdn.com/boxnation/4/prog_index.m3u8</sublink>
+<sublink>http://live.bn.simplestreamcdn.com/boxnation/5/prog_index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Lucas_Matthysse_vs_Tewa_Kiram_live_Boxing/stream3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]03:30 - 04:30 [/COLOR][/B][COLORwhite][B]WWE NXT TakeOver Philadelphia Preshow [/COLOR][/B]</title>
 <info>[COLORyellow][B]WWE[/COLOR][/B]</info>
 <link>
@@ -240,8 +243,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]04:30 - 07:00 [/COLOR][/B][COLORwhite][B]WWE NXT TakeOver Philadelphia [/COLOR][/B]</title>
 <info>[COLORyellow][B]WWE[/COLOR][/B]</info>
 <link>
@@ -249,4 +252,4 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
