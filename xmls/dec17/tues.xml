@@ -2,6 +2,17 @@
 <title>/COLOR][/B][COLORwhite][B]Follow us on Twitter @TheLoop85204328 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 </item>
+<plugin> 
+<title>Premiership Acestream Links</title> 
+<link> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://0407e26ef10806d37c39f98880ca0bb43c006bf7(TSN 2 720p)</sublink> 
+<sublink>plugin://program.plexus/?mode=1&url=acestream://06353bc5479abce8fd52dceb2dd19ee6b4e3f4d4(BT Sport 1080p)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a5c49857c71af231860535086b201d5bba789949(Sportsnet World 720p)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2247277e77ac05e617f85d270a02cf9cc0825a10(NBCSN 520p)</sublink></link>
+<animated_thumbnail></animated_thumbnail> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+</plugin>
 <item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Swansea City vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
