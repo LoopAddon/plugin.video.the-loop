@@ -77,8 +77,9 @@
 <link>
 <sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3(TSN 4 HD)</sublink>
 <sublink>http://45.32.88.67:25461/live/bein/Cloudflare/11.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_West_Bromwich_Albion_live_Football/stream4</sublink></link>
-<referer></referer>
+<sublink>http://sprtott20-i.akamaihd.net/hls/live/250898/nbc-sports-gold0131104732/OTT20_VIDEO_0_5564000.m3u8|Cookie=_alid_=qqjbrg0p0dDS/K0hdi5Z5Q==; hdntl=exp=1517512832~acl=%2fhls%2flive%2f250898*~data=hdntl~hmac=94e280d020f4f798db8cc82a9be0a0b49ea9e93f6f5a863d3dbdc0f5d3e80752&X-Forwarded-For=23.193.85.223(1080)</sublink>
+<sublink>http://sprtott20-i.akamaihd.net/hls/live/250898/nbc-sports-gold0131104732/OTT20_VIDEO_1_4064000.m3u8|Cookie=_alid_=qqjbrg0p0dDS/K0hdi5Z5Q==; hdntl=exp=1517512832~acl=%2fhls%2flive%2f250898*~data=hdntl~hmac=94e280d020f4f798db8cc82a9be0a0b49ea9e93f6f5a863d3dbdc0f5d3e80752&X-Forwarded-For=23.193.85.223(720)</sublink>
+<sublink>http://sprtott20-i.akamaihd.net/hls/live/250898/nbc-sports-gold0131104732/OTT20_VIDEO_2_2264000.m3u8|Cookie=_alid_=qqjbrg0p0dDS/K0hdi5Z5Q==; hdntl=exp=1517512832~acl=%2fhls%2flive%2f250898*~data=hdntl~hmac=94e280d020f4f798db8cc82a9be0a0b49ea9e93f6f5a863d3dbdc0f5d3e80752&X-Forwarded-For=23.193.85.223(576)</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
