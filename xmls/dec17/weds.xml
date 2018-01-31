@@ -16,6 +16,8 @@
 <title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Fraserburgh vs Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3(Sky Sports Football HD)</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3(Sky Sports Football SD)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Fraserburgh_vs_Rangers_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -31,16 +33,17 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Everton vs Leicester City [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Everton vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/TSN-2-HD/mpegts?token=hcWUvw2Ur3(TSN 2 HD)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Everton_vs_Leicester_City_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Newcastle United vs Burnley [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Newcastle United vs Burnley [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Burnley_live_Football/stream5</sublink></link>
@@ -49,7 +52,7 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Southampton vs Brighton - Hove Albion [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]EPL - Southampton vs Brighton - Hove Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Brighton_-_Hove_Albion_live_Football/stream6</sublink></link>
@@ -58,16 +61,17 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester City vs West Bromwich Albion [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester City vs West Bromwich Albion [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3(TSN 4 HD)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_West_Bromwich_Albion_live_Football/stream4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Stoke City vs Watford [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Stoke City vs Watford [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Stoke_City_vs_Watford_live_Football/stream7</sublink></link><referer></referer>
@@ -75,9 +79,11 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Tottenham Hotspur vs Manchester United [/COLOR][/B]</title>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Tottenham Hotspur vs Manchester United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3(BT Sport 1 HD)</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3(BT Sport 1 SD)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tottenham_Hotspur_vs_Manchester_United_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
