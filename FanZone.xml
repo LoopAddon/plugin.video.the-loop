@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <dir>
-        <name>Tuesday 30th January</name>
+        <name>Thursdsy 1st February</name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/tues.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
@@ -9,7 +9,7 @@
 </dir>
 
 <dir>
-        <name>Wednesday 31st January</name>
+        <name>Wednesday 31st January<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/weds.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
