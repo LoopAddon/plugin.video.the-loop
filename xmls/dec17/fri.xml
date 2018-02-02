@@ -23,7 +23,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Indiana Pacers @ Charlotte Hornets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
@@ -31,7 +31,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 <item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Washington Capitals @ Pittsburgh Penguins [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
