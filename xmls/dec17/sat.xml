@@ -94,6 +94,17 @@
 <fanart></fanart>
 </item>
 <item>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]College Basketball - Notre Damn @ NC State [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -129,6 +140,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]College Basketball - Miami @ Virginia Tech [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
 <title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Chicago Bulls at LA Clippers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
@@ -138,6 +160,28 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]College Basketball - Alabama @ Florida [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]College Basketball - Oklahoma @ Texas [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Miami Heat at Detroit Pistons [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
@@ -226,6 +270,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]College Basketball - Michigan State @ Indiana [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
 <title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]Mexico - Liga MX Monterrey vs Leon [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
@@ -289,6 +344,17 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+<item>
+<title>[COLORred][B]03:00 - 05:00 [/COLOR][/B][COLORwhite][B]College Basketball - BYU @ Gonzaga [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks at Sacramento Kings [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
