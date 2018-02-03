@@ -14,7 +14,7 @@
 </plugin>
 <item>
 <title>Sky Sports Main Event</title>
-<link>https://live.bypassed.st/94bed263-6d1e-4132-a872-6a6017c18899</link>
+<link>https://live.bypassed.st/sky-sports-main-event</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -33,16 +33,16 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>Sky Sports Action</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk3.php</link>
+<link>https://live.bypassed.st/sky-sports-action</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>Sky Sports Golf</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://unblocked.lol/unblocked/sportsphp/sk4.php</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://live.bypassed.st/sky-sports-action</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
