@@ -63,7 +63,9 @@
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs Huddersfield Town [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
 <sublink>https://wowzaprod152-i.akamaihd.net/hls/live/618873/14d67a0b_1_1728/chunklist.m3u8</sublink>
+<sublink>http://delta.bankai.stream/live.m3u8</sublink>
 <sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50982.m3u8</sublink>
 <sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50997.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Huddersfield_Town_live_Football/stream2</sublink></link>
