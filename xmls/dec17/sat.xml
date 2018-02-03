@@ -1,5 +1,5 @@
 <plugin>
-<title>[COLOR white][12:30 GMT] Burnley vs Manchester City[/COLOR]</title>
+<title>[COLOR white][12:30 GMT] Burnley vs Manchester City Acestreams [/COLOR]</title>
 <link>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(acestream)<sublink>
 <sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(acestream)<sublink>
@@ -42,8 +42,8 @@
 <item>
 <title>[COLORred][B]12:30-15:00 [/COLOR][/B][COLORwhite][B]EPL - Burnley vs Man City [/COLOR][/B]</title>
 <link>
-<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50996.m3u8</sublink>
-<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50995.m3u8</sublink>
+<sublink>http://94.23.217.58:88/live/PLEXFULL123/PLEXFULL123/50996.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink>
+<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50995.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink>
 </item>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Stoke City [/COLOR][/B]</title>
