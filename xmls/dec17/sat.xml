@@ -1,13 +1,15 @@
-<plugin>
+<item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Kilmarnock vs Celtic [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_7.m3u8|Cookie=hdnea%3Dexp%3D1517688418~acl%3D%252f%2A~hmac%3D7a04a4540dd201bba82f9b3b20394be46c80da423d0842bd3ea2a5a16593fff9&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/prog_index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kilmarnock_vs_Celtic_live_Football/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League Burnley vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -15,7 +17,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
