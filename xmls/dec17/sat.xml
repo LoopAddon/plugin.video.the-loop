@@ -1,20 +1,20 @@
 <plugin>
 <title>[COLOR white][12:30 GMT] Burnley vs Manchester City Acestreams [/COLOR]</title>
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://2454785f168248777562497d0aa9bc1038b83596(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529(Acestream)<sublink>  
-<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(Acestream)<sublink>  
-<sublink>plugin://program.plexus/?mode=1&url=acestream://bbd370098fc3ab2a4f203ffa22395c79722e9f98(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://2454785f168248777562497d0aa9bc1038b83596(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(Acestream)<sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://bbd370098fc3ab2a4f203ffa22395c79722e9f98(Acestream)<sublink></link>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2454785f168248777562497d0aa9bc1038b83596(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529(Acestream)</sublink>  
+<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(Acestream)</sublink>  
+<sublink>plugin://program.plexus/?mode=1&url=acestream://bbd370098fc3ab2a4f203ffa22395c79722e9f98(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://2454785f168248777562497d0aa9bc1038b83596(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://bbd370098fc3ab2a4f203ffa22395c79722e9f98(Acestream)</sublink></link>
 </plugin>
 <item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Kilmarnock vs Celtic [/COLOR][/B]</title>
@@ -22,6 +22,8 @@
 <link>
 <sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_7.m3u8|Cookie=hdnea%3Dexp%3D1517688418~acl%3D%252f%2A~hmac%3D7a04a4540dd201bba82f9b3b20394be46c80da423d0842bd3ea2a5a16593fff9&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
 <sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/prog_index.m3u8</sublink>
+<sublink>http://45.32.88.67:25461/live/bein/Cloudflare/11.m3u8</sublink>
+<sublink>http://delta.bankai.stream/live.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kilmarnock_vs_Celtic_live_Football/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
