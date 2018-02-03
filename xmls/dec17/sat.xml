@@ -21,6 +21,15 @@
 <sublink>plugin://program.plexus/?url=acestream://dc5683eb59d1c585118fd2da70695002b9d245d7&amp;mode=1&amp;name=Acestream-Live-Event</sublink></link>
 </plugin>
 <item>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]BT Sport SCORE [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://45.32.88.67:25461/live/bein/Cloudflare/11.m3u8</sublink>
+<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_7.m3u8|Cookie=hdnea%3Dexp%3D1517688418~acl%3D%252f%2A~hmac%3D7a04a4540dd201bba82f9b3b20394be46c80da423d0842bd3ea2a5a16593fff9&User-Agent=BTSport%234.12.2%23Android%237.0</sublink></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -54,6 +63,7 @@
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs Huddersfield Town [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://wowzaprod152-i.akamaihd.net/hls/live/618873/14d67a0b_1_1728/chunklist.m3u8</sublink>
 <sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50982.m3u8</sublink>
 <sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50997.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Huddersfield_Town_live_Football/stream2</sublink></link>
