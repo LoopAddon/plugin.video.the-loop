@@ -124,15 +124,15 @@
 	<fanart>-</fanart>
 	<summary>-</summary>
 </plugin>
-<plugin>
+<item>
 	<title>BT Sport 1</title>
 	<link>
-	<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://liveonlinetv247.info/embed/btsport1.php</sublink>
+	<sublink>https://edge3.liveonlinetv247.com/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMTggMTA6MTE6NTAgQU0maGFzaF92YWx1ZT1mRDNkMFVUNjhPMGlLUnUyNllmd0dnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE2Mi4xNTguMTU0LjI0MCZzdHJtX2xlbj0xNg==</sublink>
 	</link>
 	<thumbnail>https://i.imgur.com/ZFWtoa1.png</thumbnail>
 	<fanart>-</fanart>
 	<summary>-</summary>
-</plugin>
+</item>
 <plugin>
 	<title>BT Sport 2</title>
 	<link>
