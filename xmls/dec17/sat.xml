@@ -98,9 +98,8 @@
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_7.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 1080p)</sublink>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)
-<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink>
-</link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/4180_6.m3u8|Cookie=hdnea%3Dexp%3D1517703253~acl%3D%252f%2A~hmac%3Dce8ce1e0e455ff2296a33c5fb9a56d2651f0526e6792579756320659bdade1a8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport ESPN 720p)</sublink>
+<sublink>http://myipcam.ddns.net:80/live/raja/raja/1407.m3u8(BT Sport ESPN)</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
