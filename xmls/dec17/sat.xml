@@ -1,100 +1,77 @@
 <plugin>
-<title>[COLOR white][12:30 GMT] Burnley vs Manchester City Acestreams [/COLOR]</title>
+<title>[COLOR cadetblue][15:00 GMT] Man Utd vs Huddersfield Acestream - [COLOR FFff8397b0]
 <link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://2454785f168248777562497d0aa9bc1038b83596(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529(Acestream)</sublink>  
-<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(Acestream)</sublink>  
-<sublink>plugin://program.plexus/?mode=1&url=acestream://bbd370098fc3ab2a4f203ffa22395c79722e9f98(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://7098a219175adef851f66e50ee3d3209e72ce7f6(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://2454785f168248777562497d0aa9bc1038b83596(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://fe40ad1ded331a323c99ad3cec08db6c67073324(Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://bbd370098fc3ab2a4f203ffa22395c79722e9f98(Acestream)</sublink></link>
+<sublink>plugin://program.plexus/?url=acestream://1bf018e6e80e26960dde754507c2f96a7e449bc1&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://3320e45cf41d1cf9400356553236f720c0480ef8&amp;mode=1&amp;name=Acestream-Live-Event</sublink>   
+<sublink>plugin://program.plexus/?url=acestream://7742140efd2c0bc85b7d803441725d25e4d4e0f1&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://4751514e3515e1b76d1a9ec0fc88dadfba6825a9&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://1d253b6e5791d9310361cb95aa7806a93cd499d0&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://2454785f168248777562497d0aa9bc1038b83596&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://dc5683eb59d1c585118fd2da70695002b9d245d7&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://1bf018e6e80e26960dde754507c2f96a7e449bc1&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://3320e45cf41d1cf9400356553236f720c0480ef8&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://4751514e3515e1b76d1a9ec0fc88dadfba6825a9&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://1d253b6e5791d9310361cb95aa7806a93cd499d0&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://2454785f168248777562497d0aa9bc1038b83596&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://3328c1ec4a3a18d00ab27213fb3fa7b1570d4529&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://dc5683eb59d1c585118fd2da70695002b9d245d7&amp;mode=1&amp;name=Acestream-Live-Event</sublink></link>
 </plugin>
 <item>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Kilmarnock vs Celtic [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_7.m3u8|Cookie=hdnea%3Dexp%3D1517688418~acl%3D%252f%2A~hmac%3D7a04a4540dd201bba82f9b3b20394be46c80da423d0842bd3ea2a5a16593fff9&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
-<sublink>https://tglext03h-i.akamaihd.net/hls/live/566481/elvnch1pcweb/prog_index.m3u8</sublink>
-<sublink>http://45.32.88.67:25461/live/bein/Cloudflare/11.m3u8</sublink>
-<sublink>http://delta.bankai.stream/live.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kilmarnock_vs_Celtic_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League Burnley vs Manchester City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/embed/tsn.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://liveonlinetv247.info/skysportspremierleague.php</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.footballstreaming.tv/tsn-the-sports-network-1-online.html(tsn1)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burnley_vs_Manchester_City_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]12:30-15:00 [/COLOR][/B][COLORwhite][B]EPL - Burnley vs Man City [/COLOR][/B]</title>
-<link>
-<sublink>https://wowzaprod152-i.akamaihd.net/hls/live/618873/14d67a0b_1_1728/chunklist.m3u8</sublink>
-<sublink>http://tau.bankai.stream/live.m3u8</sublink>
-<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50996.m3u8</sublink>
-<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50995.m3u8</sublink></link>
-</item>
-<plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://sprtott16-i.akamaihd.net/hls/live/248902/nbc-sports-gold0203061019/OTT16_VIDEO_0_5564000.m3u8|Cookie=_alid_=TkSCW0co7Cl8CZbGp8KX6w==; hdntl=exp=1517754422~acl=%2fhls%2flive%2f248902*~data=hdntl~hmac=abf88a2d112e1c4268c390d24b8078d17df3f04a7bc34a4d0a8a046c4ddb4761&X-Forwarded-For=104.72.58.55(NBC Gold)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Stoke_City_live_Football/stream6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Brighton - Hove Albion vs West Ham United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublinksubli<sublink>http://sprtott17-i.akamaihd.net/hls/live/250895/nbc-sports-gold0203062553/OTT17_VIDEO_0_5564000.m3u8|Cookie=_alid_=2q1XtqEsDeSvjXt2OOmTVg==; hdntl=exp=1517754924~acl=%2fhls%2flive%2f250895*~data=hdntl~hmac=209fb91d239adec48ba74b967fba0388597691ef3dddfed7ed57c234807fbb73&X-Forwarded-For=104.72.58.55(NBC Gold)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_West_Ham_United_live_Football/stream4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Leicester City vs Swansea City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://sprtott18-i.akamaihd.net/hls/live/250896/nbc-sports-gold0203062102/OTT18_VIDEO_0_5564000.m3u8|Cookie=_alid_=N6G26t5Pv4JhHjqA32xJMQ==;hdntl=exp=1517754808~acl=%2fhls%2flive%2f250896*~data=hdntl~hmac=5fd55f6c3fd450ca23893dc8f09ba61ce6be4ca5ddd8fa28b68c494df48864b9&X-Forwarded-For=104.72.58.55(NBC Gold)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leicester_City_vs_Swansea_City_live_Football/stream3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs Huddersfield Town [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50982.m3u8</sublink>
+<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50997.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Huddersfield_Town_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]EPL - West Bromwich Albion vs Southampton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://sprtott19-i.akamaihd.net/hls/live/250897/nbc-sports-gold0203054815/OTT19_VIDEO_0_5564000.m3u8|Cookie=_alid_=Qkq2WuAlB+DST2p79UWKvQ==;hdntl=exp=1517754208~acl=%2fhls%2flive%2f250897*~data=hdntl~hmac=ed13911e4799b3e3c5b68b929f9d8dcdd9d2cd1dbaadd0e2a37bb2c73728888a&X-Forwarded-For=104.72.58.55(NBC Gold)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Southampton_live_Football/stream5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Championship - L***s vs Cardiff [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -103,8 +80,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -112,8 +89,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Championship Wolverhampton Wanderers vs Sheffield United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -121,7 +98,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Anaheim Ducks at Montreal Canadiens [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
