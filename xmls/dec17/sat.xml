@@ -29,15 +29,18 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Anaheim Ducks at Montreal Canadiens [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nhl/ana.m3u8</sublink>
+<sublink>http://mygood.stream/nhl/mon.m3u8</sublink>
+<sublink>http://mygood.stream/0350f5d9-69dd-4daa-a979-d3e474e2f49c</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Anaheim_Ducks_at_Montreal_Canadiens_live_Hockey/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators at Philadelphia Flyers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
