@@ -3,34 +3,34 @@
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 </item>
 <item>
-<title>[COLOR cadetblue](Some channels may need 2 clicks)[/COLOR]</title>
+<title>[COLORwhite](Some channels may need 2 clicks)[/COLOR]</title>
 <link>http://</link>
-<thumbnail>https://i.imgur.com/32rruDN.png</thumbnail>
-<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
+<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </item>
 <item>
-<title>[COLOR cadetblue](Links normally come live 15 mins before kick-off)[/COLOR]</title>
+<title>[COLORwhite](Links normally come live 15 mins before kick-off)[/COLOR]</title>
 <link>http://</link>
-<thumbnail>https://i.imgur.com/32rruDN.png</thumbnail>
-<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
+<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </item>
 <item>
 <title>[COLOR gold]All Links provided in collaboration with[/COLOR]</title>
 <link>http://</link>
-<thumbnail>https://i.imgur.com/32rruDN.png</thumbnail>
-<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
+<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </item>
 <item>
 <title>[COLOR gold]the JEN community.[/COLOR]</title>
 <link>http://</link>
-<thumbnail>https://i.imgur.com/32rruDN.png</thumbnail>
-<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
+<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </item>
 <item>
 <title>[COLOR gold]RESPECT & Thanks to all[/COLOR]</title>
 <link>http://</link>
-<thumbnail>https://i.imgur.com/32rruDN.png</thumbnail>
-<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
+<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </item>
 <item>
 <title>[COLORwhite][B]Direct Channel Links [/COLOR][/B]</title>
@@ -66,45 +66,14 @@
 <thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
 <fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </plugin>
-<item>
+<plugin>
 <name>[COLOR orange]Acestream Links[/COLOR]</name>
-<link>http://ignoreme</link>
 <thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
 <fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
-</item>
-<item>
-<title>[COLOR cadetblue]SUPER BOWL 2018: Eagles @ Patriots  - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-<link>plugin://program.plexus/?url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55&amp;mode=1&amp;name=Acestream-Live-Event</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR cadetblue]SUPER BOWL 2018: Eagles @ Patriots  - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-<link>plugin://program.plexus/?url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029&amp;mode=1&amp;name=Acestream-Live-Event</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR cadetblue]SUPER BOWL 2018: Eagles @ Patriots  - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
-<link>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR cadetblue]SUPER BOWL 2018: Eagles @ Patriots  - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
-<link>plugin://program.plexus/?url=acestream://6be84154927955d684a6266ec0720b9f0a4b8e1b&amp;mode=1&amp;name=Acestream-Live-Event</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR cadetblue]SUPER BOWL 2018: Eagles @ Patriots  - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
-<link>plugin://program.plexus/?url=acestream://e6ffa94f2ef8b13fee70ee81765a43dea2e797c8&amp;mode=1&amp;name=Acestream-Live-Event</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR cadetblue]SUPER BOWL 2018: Eagles @ Patriots  - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
-<link>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<sublink>plugin://program.plexus/?url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://6be84154927955d684a6266ec0720b9f0a4b8e1b&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://e6ffa94f2ef8b13fee70ee81765a43dea2e797c8&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 </item>
