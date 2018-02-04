@@ -44,17 +44,17 @@
 </plugin>
 <plugin>
 <title>[COLOR orange]Acestream Links[/COLOR]</title>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://e6ffa94f2ef8b13fee70ee81765a43dea2e797c8(NBC Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://a559d6deade3daeb5bf6e3483cf9f2855906aea5(NBC Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://de2d428c3e00356d3975ce9c5ec18f123f01ae30(NBC Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55(NBC Acestream)</sublink>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029(NBC Acestream)</sublink>
+<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
+<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
+<sublink>plugin://program.plexus/?url=acestream://e6ffa94f2ef8b13fee70ee81765a43dea2e797c8&amp;mode=1&amp;name=NBC Acestream</sublink>
+<sublink>plugin://program.plexus/?url=acestream://a559d6deade3daeb5bf6e3483cf9f2855906aea5&amp;mode=1&amp;name=NBC Acestream</sublink>
+<sublink>plugin://program.plexus/?url=acestream://de2d428c3e00356d3975ce9c5ec18f123f01ae30&amp;mode=1&amp;name=NBC Acestream</sublink>
+<sublink>plugin://program.plexus/?url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55&amp;mode=1&amp;name=NBC Acestream</sublink>
+<sublink>plugin://program.plexus/?url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029&amp;mode=1&amp;name=NBC Acestream</sublink>
 <sublink>plugin://program.plexus/?url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://6be84154927955d684a6266ec0720b9f0a4b8e1b&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://e6ffa94f2ef8b13fee70ee81765a43dea2e797c8&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</sublink></link>
-<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
-<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </plugin>
