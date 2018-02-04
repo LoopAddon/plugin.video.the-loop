@@ -67,7 +67,7 @@
 <fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 </plugin>
 <plugin>
-<name>[COLOR orange]Acestream Links[/COLOR]</name>
+<title>[COLOR orange]Acestream Links[/COLOR]</title>
 <thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
 <fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
 <sublink>plugin://program.plexus/?url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
