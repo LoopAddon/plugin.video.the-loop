@@ -5,10 +5,13 @@
 <item>
 <title>[COLORwhite][B]Direct Channel Links [/COLOR][/B]</title>
 <link>
-<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
-<sublink>http://live.field59.com/wjfw1/ngrp:wjfw1_all/chunklist_b828000.m3u8</sublink>
-<sublink>http://wslive2.welovesports.xyz/welovesports5.m3u8</sublink>
-<sublink>http://stream2.nba4live.com/hls/lal.m3u8</sublink>
+Sez:
+<sublink>http://east.sprtlive.akamaized.net/live/nbc-sports0204134410-ua/OTT13_VIDEO_0_5564000.m3u8|User-Agent=NBCSports-iOS/9971 CFNetwork/811.5.4 Darwin/16.6.0&X-Forwarded-For=104.72.58.55(NBC)</sublink>
+<sublink>http://east.sprtlive.akamaized.net/live/nbc-sports0204134410-ua/OTT13_VIDEO_1_4064000.m3u8|User-Agent=NBCSports-iOS/9971 CFNetwork/811.5.4 Darwin/16.6.0&X-Forwarded-For=104.72.58.55(NBC)</sublink>
+<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88(Kwese)</sublink>
+<sublink>http://live.field59.com/wjfw1/ngrp:wjfw1_all/chunklist_b828000.m3u8(NBC)</sublink>
+<sublink>http://wslive2.welovesports.xyz/welovesports5.m3u8(NBC)</sublink>
+<sublink>http://stream2.nba4live.com/hls/lal.m3u8(NBC)</sublink>
 <sublink>http://gvjygo6mloem-hls-live.5centscdn.com/lives/stream.stream/tracks-v1a1/index.m3u8(HD)</sublink>
 <sublink>http://ilvc05.ec.ustvnow.com/ilv01/pr/xxe/smil:97E17WGALUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f94b0701fc822fd3961dfa336056b09b894935bdc853d1e22b0befd1a6c3d0be4e(NBC HD)</sublink>
 <sublink>http://gvjygo6mloem-hls-live.5centscdn.com/sky/480p.stream/tracks-v1a1/index.m3u8(NBC SD)</sublink>
