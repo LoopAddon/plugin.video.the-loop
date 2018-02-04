@@ -79,6 +79,13 @@
 <fanart></fanart>
 </plugin>
 <item>
+<title>[COLORred][B]03:00 - 07:00 [/COLOR][/B][COLORwhite][B]UFC Fight Night Main Card [/COLOR][/B]</title>
+<link>
+<sublink>http://nlds234.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500_ced.m3u8?hdnea=expires%3D1517712367%7Eaccess%3D%2Fnlds%2Fufc%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3De2cdbb42cd968eacb38fc9cee5f1c2f5&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</sublink>
+<sublink>http://nlds234.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000_ced.m3u8?hdnea=expires%3D1517712367%7Eaccess%3D%2Fnlds%2Fufc%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3De2cdbb42cd968eacb38fc9cee5f1c2f5&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</sublink>
+<sublink>http://nlds209.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500_ced.m3u8?hdnea=expires%3D1517700256%7Eaccess%3D%2Fnlds%2Fufce%2Faffiliate%2Fas%2Flive%2F*%7Emd5%3D800165af65ffc864274ad87de8bbc70d&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</sublink></link>
+</item>
+<item>
 <title>[COLORred][B]03:00 - 05:00 [/COLOR][/B][COLORwhite][B]College Basketball - BYU @ Gonzaga [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
