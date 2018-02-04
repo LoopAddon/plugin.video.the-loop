@@ -3,46 +3,20 @@
 <info>[COLORyellow][B]NFL[/COLOR][/B]</info>
 </item>
 <item>
-<title>[COLORwhite](Some channels may need 2 clicks)[/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
-<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
-</item>
-<item>
-<title>[COLORwhite](Links normally come live 15 mins before kick-off)[/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
-<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
-</item>
-<item>
-<title>[COLOR gold]All Links provided in collaboration with[/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
-<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
-</item>
-<item>
-<title>[COLOR gold]the JEN community.[/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
-<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
-</item>
-<item>
-<title>[COLOR gold]RESPECT & Thanks to all[/COLOR]</title>
-<link>http://</link>
-<thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
-<fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
-</item>
-<item>
 <title>[COLORwhite][B]Direct Channel Links [/COLOR][/B]</title>
 <link>
 <sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
-<sublink>http://ilvc05.ec.ustvnow.com/ilv01/pr/xxe/smil:97E17WGALUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f94b0701fc822fd3961dfa336056b09b894935bdc853d1e22b0befd1a6c3d0be4e(NBC)</sublink>
+<sublink>http://live.field59.com/wjfw1/ngrp:wjfw1_all/chunklist_b828000.m3u8</sublink>
 <sublink>http://wslive2.welovesports.xyz/welovesports5.m3u8</sublink>
 <sublink>http://stream2.nba4live.com/hls/lal.m3u8</sublink>
+<sublink>http://gvjygo6mloem-hls-live.5centscdn.com/lives/stream.stream/tracks-v1a1/index.m3u8(HD)</sublink>
+<sublink>http://ilvc05.ec.ustvnow.com/ilv01/pr/xxe/smil:97E17WGALUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f94b0701fc822fd3961dfa336056b09b894935bdc853d1e22b0befd1a6c3d0be4e(NBC HD)</sublink>
+<sublink>http://gvjygo6mloem-hls-live.5centscdn.com/sky/480p.stream/tracks-v1a1/index.m3u8(NBC SD)</sublink>
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8|X-Forwaded-For=178.208.163.66(BBC1 HD England)</sublink>
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8|X-Forwaded-For=178.208.163.66(BBC1 HD Scotland)</sublink>
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_wales_hd.m3u8|X-Forwaded-For=178.208.163.66(BBC1 HD Wales)</sublink>
 <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8|X-Forwaded-For=178.208.163.66(BBC1 HD Northern Ireland)</sublink> <sublink>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8(NFL Now Superbowl Build Up)</sublink>
+<sublink>http://buffstream.com/player2.php?v=https://livemain-i-video-nfl.akamaized.net/ch01/f7b8efa6-169e-4199-aa62-91fdaa942ff1/f7b8efa6-169e-4199-aa62-91fda.m3u8</sublink>
 <sublink>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_3000k.m3u8(NFL Now Superbowl Buildup)</sublink></link>
 <referer></referer>
 <thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
@@ -70,6 +44,11 @@
 <title>[COLOR orange]Acestream Links[/COLOR]</title>
 <thumbnail>https://i.imgur.com/nSOaiuw.jpg</thumbnail>
 <fanart>https://i.imgur.com/3lHUbno.jpg</fanart>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://e6ffa94f2ef8b13fee70ee81765a43dea2e797c8(NBC Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://a559d6deade3daeb5bf6e3483cf9f2855906aea5(NBC Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://de2d428c3e00356d3975ce9c5ec18f123f01ae30(NBC Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55(NBC Acestream)</sublink>
+<sublink>plugin://program.plexus/?mode=1&url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029(NBC Acestream)</sublink>
 <sublink>plugin://program.plexus/?url=acestream://81770743dda2b297bc0d3ad44fc057815a5e0c55&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://4aafd0e48c51e93d62d1775cffc4f41146840029&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
 <sublink>plugin://program.plexus/?url=acestream://cc4439d0a67e58833a294a5bdfc512fdbd33d58b&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
