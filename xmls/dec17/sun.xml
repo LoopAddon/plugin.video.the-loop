@@ -1,4 +1,32 @@
 <plugin>
+<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B] Palace vs Newcastle Acestreams [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event(if you like this Acestream section)</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event(please give a mention to)</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event(@Radix79989581 on Twitter)</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event(THIS is an example of the)</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event(JEN community working together)</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
+<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
+<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
 <title>[COLORred][B]12:45 - 16:00 [/COLOR][/B][COLORwhite][B]Live Snooker: German Masters 2018 Final: Session One [/COLOR][/B]</title>
 <info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
 <link>
@@ -7,7 +35,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Newcastle United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -15,8 +43,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - Premier League Liverpool vs Tottenham Hotspur [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -24,7 +52,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]College Basketball - GA Tech - Boston College [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
