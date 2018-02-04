@@ -15,15 +15,23 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks at Sacramento Kings [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://mygood.stream/nba/dal.m3u8</sublink>
+<sublink>http://www.gentistream.pw/dal.m3u8</sublink>
+<sublink>http://acesports.stream/nba/dal.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=mavericks</sublink>
+<sublink>http://mygood.stream/nba/psac.m3u8</sublink>
+<sublink>http://www.gentistream.pw/sac.m3u8</sublink>
+<sublink>http://acesports.stream/nba/sac.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=kings</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Mavericks_at_Sacramento_Kings_live_NBA/nba9</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Tampa Bay Lightning at Vancouver Canucks [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
