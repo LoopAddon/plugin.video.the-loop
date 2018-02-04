@@ -1,55 +1,8 @@
-<plugin>
-<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B] Palace vs Newcastle Acestreams [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event(Link 1 - if you like this Acestream section)</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event(Link 2 - please give a mention to)</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event(Link 3 - @Radix79989581 on Twitter)</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event(Link 4 - THIS is an example of the)</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event(Link 5 - JEN community working together)</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
-<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</sublink>
-<sublink>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</sublink> 
-<sublink>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]12:45 - 16:00 [/COLOR][/B][COLORwhite][B]Live Snooker: German Masters 2018 Final: Session One [/COLOR][/B]</title>
-<info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Final_Session_One_live_Snooker/stream22</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<item>
-<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Newcastle United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://94.23.217.58:88/live/PLEXFULL123/PLEXFULL123/50996.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink>
-<sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50995.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 <item>
 <title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - Premier League Liverpool vs Tottenham Hotspur [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://185.231.160.42/29/3/index.m3u8(Russian Comms)</sublink>
 <sublink>http://94.23.217.58:88/live/PLEXFULL123/PLEXFULL123/50996.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink>
 <sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50995.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink></link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Tottenham_Hotspur_live_Football/stream2</sublink></link>
