@@ -7,9 +7,26 @@
 <sublink>http://superstreams.tv:80/live/PLEXFULL123/PLEXFULL123/50995.m3u8?token=TBsKBUQJFgMXVwFUDQsPAg1WUFMABVJbDQVXUAVVVgJWWFYFVFYADgZBH0BGR0sBWFg9X1wUWAwFDAsEHkcUR1JLPQ1TQw4bAVcHWhcfGxBQWAcUAgZOG0VcVhAIR1MMAA5VRhtDUUFBBkEMVF9mAFxDC1VdFFhXQFleHhAKD2tTXA8FWQUWAxdSEU4XWkoUGw9AdVRZF11zWVNAV0UoWlQXQEgVA11NRwJHBxcJG1EJBlYUFBQBVkBbRkBLR1sWcHtASBUETE1QDUALWl0bXhtYUUMAFE4bXEZtQFcWFUZSWA8BRUMOGwRBH0BYUkE7WloMWF1VFlBaW0EQCEdRFhsbDwtZCEBWRzxDC1ERA0YLDVUBCBQf</sublink></link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Tottenham_Hotspur_live_Football/stream2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/FZ1wlg4.png</thumbnail>
+<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
 </item>
+<plugin>
+<title>[COLORred]16:30 - [/COLOR][COLORwhite]Liverpool v Tottenham Sportsdevil [/COLOR][COLOR FFff8397b0][I](E.P.L.)[/I][/COLOR]</title>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wenger.online/realmadrid.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wenger.online/ch20.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://c247.cf/bein11.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://c247.cf/bein2.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/skysportspremierleague.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/skysports1.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/beinsports11.php</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://live-sports-stream.net/embed/video.php?channel=11</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch8.html</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/ch12.html</sublink></link>
+<referer></referer>
+<thumbnail>https://i.imgur.com/FZ1wlg4.png</thumbnail>
+<fanart>https://i.imgur.com/tYF57im.jpg</fanart>
+</plugin>
 <plugin>
 <title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]College Basketball - GA Tech - Boston College [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
