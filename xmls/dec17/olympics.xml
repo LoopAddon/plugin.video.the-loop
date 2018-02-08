@@ -56,6 +56,24 @@
 </item>
 
 <item>
+<title>2018 Olympics - Eurosport 1</title>
+<sublink>http://185.231.160.42/160/1/index.m3u8</sublink>
+<sublink>http://185.231.160.42/174/2/index.m3u8</sublink>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+<item>
+<title>2018 Olympics - Eurosport 2</title>
+<link>
+<sublink>http://185.231.160.42/78/1/index.m3u8</sublink>
+<sublink>http://185.231.160.42/77/2/index.m3u8</sublink></link>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+
+<item>
 <title>BBC Red Button</title>
 <link>
   <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8(Red Button 1)</sublink>
