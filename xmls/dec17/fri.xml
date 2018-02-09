@@ -20,6 +20,31 @@
 <fanart></fanart>
 </plugin>
 <item>
+<title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga RB Leipzig vs Augsburg [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>http://185.231.160.42/24/1/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<plugin>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Italy - Serie A Fiorentina vs Juventus [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://c294z293.pushrcdn.com/720p.m3u8</sublink>
+<sublink>http://195.252.68.245:1935/KLIKTV_2/smil:pink74.mf.smil/playlist.m3u8</sublink></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Saint-Etienne vs Olympique Marseille [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Saint-Etienne_vs_Olympique_Marseille_live_Football/stream8</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA LA Clippers at Detroit Pistons [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
