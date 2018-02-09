@@ -9,8 +9,8 @@
 </dir>
 
 <dir>
-        <name>Thursday 8th February</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/thurs.xml</link>
+        <name>Friday 9th February</name>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/fri.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -18,10 +18,19 @@
 </dir>
               
 <dir>   
-        <name>Saturday 3rd February<name>        
+        <name>Saturday 10th February</name>        
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/sat.xml</link>        
         <animated_thumbnail><animated_thumbnail>        
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>        
         <animated_fanart><animated_fanart>        
         <fanart>https://i.imgur.com/xxFuVCq.png</fanart>
 </dir>
+                
+<dir>
+        <name>Sunday 11th February</name>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/sun.xml</link>
+        <animated_thumbnail><animated_thumbnail>
+        <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
+        <animated_fanart><animated_fanart>
+        <fanart>https://i.imgur.com/xxFuVCq.png</fanart>
+</dir>                
