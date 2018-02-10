@@ -1,97 +1,56 @@
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]These Links are Acestream Links and require the Plexus Addon installed[/B][/COLOR]</title>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]You also may need to use a VPN for these links[/B][/COLOR]</title>
-<referer></referer>
+<item>
+<name>[COLOR white][12:30 GMT] Tottenham Hotspur vs Arsenal[/COLOR]</name>
+<link>ignore</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]Sky Sports Football [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://f239723176264f77680507cab70a606a1876451a(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>  <link>plugin://program.plexus/?url=acestream://8b9622ff71bb3a5fbd266157b55d135c5dd7349e&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]Sky Sports Main Event [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://f01dd99ffaa3b1d271ff1f14cc57ecb38a86dbbb(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://b11e12a03526f548ebea776861de557945c2ba41&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]Sky Sports Premier League [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://bb5711b3f7ab00bdcf5702ca69b9a178d81c7f51(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://0d287b12ba91e0ca35055ea9e0a7d439238c1472&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]TSN 1 [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://ea4acda277d3b475b9a3055846d8c7a15300afb0(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://3b441f7c985348074393e6943303f90165975669&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]Match TV 1080P Russian [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://aa4a87cefe83da878335f06ecebc2c70fe479d3c(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://b11e12a03526f548ebea776861de557945c2ba41&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]Eurosport 1 Romania [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://96c8e0c63c6452bb8a7f8da1c0a02320adb50df0(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://0d287b12ba91e0ca35055ea9e0a7d439238c1472&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]BT Sport 1 [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=4c0ede503809a1e170f4407b09c1cba7addbe500(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 7[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://3b441f7c985348074393e6943303f90165975669&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]Setanta Eurasia [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://00df92eb9e2594f9c778adabbc2f26a85277c4d4(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 8[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://0d287b12ba91e0ca35055ea9e0a7d439238c1472&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]BT Sport 2 [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://5ca49262061442df2256ebdf3dd3945d82bf66f5(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 9[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://3b441f7c985348074393e6943303f90165975669&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-
-<plugin>
-<title>[COLORred][B][/COLOR][/B][COLORwhite][B]BT Sport 3 [/COLOR][/B]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&url=acestream://a05f669c3dd1ff5e58acd8c3282b3fe6e646dd55(Acestream)</sublink></link>
-<referer></referer>
+</item>
+<item>
+<title>[COLOR cadetblue][12:30 GMT] Tottenham Hotspur vs Arsenal - [COLOR FFff8397b0][I]Link 10[/COLOR][/I]</title> <link>plugin://program.plexus/?url=acestream://3c2d157d782867cd2ae32ee5a42f580349c0370b&amp;mode=1&amp;name=Acestream-Live-Event</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
