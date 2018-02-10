@@ -64,6 +64,7 @@
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Everton vs Crystal Palace [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://185.231.160.48/29/3/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Everton_vs_Crystal_Palace_live_Football/stream4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -106,10 +107,29 @@
 <fanart></fanart>
 </item>
 <item>
+<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Spain - La Liga Malaga vs Atletico Madrid [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Malaga_vs_Atletico_Madrid_live_Football/stream10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
 <title>[COLORred][B]16:00 - 17:00 [/COLOR][/B][COLORwhite][B]Live College GameDay 2017-18 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Basketball/stream37</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 Toulouse vs PSG [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://185.231.160.48/23/3/index.m3u8</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toulouse_vs_PSG_live_Football/stream8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -145,6 +165,7 @@
 <title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester City vs Leicester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://93.171.216.228/SkyM/tracks-v1a1/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_Leicester_City_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
