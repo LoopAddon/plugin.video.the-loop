@@ -34,20 +34,22 @@
 <title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]6 Nations Rubgy Ireland v Italy [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby[/COLOR][/B]</info>
 <link>
+<sublink>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8</sublink>	
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ireland_v_Italy_live_Rugby/stream6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>[COLORred][B]14:45 - 17:15 [/COLOR][/B][COLORwhite][B]BT Sport Score 2017-18 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football - Club[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/btsport1.php|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/52.0.2743.116%20Safari/537.36</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Football_-_Club/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 <item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Bristol City vs Sunderland [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
