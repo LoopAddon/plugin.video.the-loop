@@ -9,7 +9,7 @@
 </dir>
 
 <dir>
-        <name>Score Zone</name>
+        <name>Score Zone<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/ScoreZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/jMQzfCv.png</thumbnail>
@@ -36,7 +36,7 @@
 </dir>
 
 <dir>
-        <name>Ace Zone</name>
+        <name>Ace Zone<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
