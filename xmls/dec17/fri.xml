@@ -8,16 +8,9 @@
 <fanart></fanart>
 </item>
 <plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Championship Millwall vs Cardiff City [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/skysportsfootball.php|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/52.0.2743.116%20Safari/537.36</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/skysports1.php|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/52.0.2743.116%20Safari/537.36</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/beinsports11.php|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/52.0.2743.116%20Safari/537.36</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.liveonlinetv247.info/embed/beinsports3.php|User-Agent=Mozilla/5.0%20(Windows%20NT%206.1;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/52.0.2743.116%20Safari/537.36</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Millwall_vs_Cardiff_City_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>EPL Match Day</title>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
+<thumbnail>https://i.imgur.com/RRlZyV2.png</thumbnail>
 </plugin>
 <item>
 <title>[COLORred][B]19:30 - 21:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga RB Leipzig vs Augsburg [/COLOR][/B]</title>
