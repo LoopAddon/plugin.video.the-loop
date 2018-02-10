@@ -1,8 +1,9 @@
 <item>
-<title>[COLORred][B]12:15 - 14:15 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Celtic vs Partick Thistle [/COLOR][/B]</title>
+<title>[COLORred][B]14:00 [/COLOR][/B][COLORwhite][B] Featherstone vs Thatto Heath [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Celtic_vs_Partick_Thistle_live_Football/stream27</sublink></link>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Celtic_vs_Partick_Thistle_live_Football</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
