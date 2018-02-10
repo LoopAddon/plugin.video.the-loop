@@ -7,6 +7,11 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+<plugin>
+<name>EPL MatchDay</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
+<thumbnail>https://i.imgur.com/RRlZyV2.png</thumbnail>
+</plugin>
 <item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Championship Sheffield United vs Leeds United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
