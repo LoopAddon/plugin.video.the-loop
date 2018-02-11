@@ -37,7 +37,7 @@
 
 <plugin>
         <name>Ace Zone</name>
-        <link>plugin://plugin.video.live.streamspro/?url=https://github.com/LoopAddon/plugin.video.the-loop/blob/master/AceZone.xml</link>
+        <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
         <animated_fanart><animated_fanart>
