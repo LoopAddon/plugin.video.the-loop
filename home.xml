@@ -36,7 +36,7 @@
 </dir>
 
 <dir>
-        <name>Ace Zone<name>
+        <name>Ace Zone</name>
         <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
