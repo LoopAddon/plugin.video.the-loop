@@ -2,8 +2,14 @@
 <title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Detroit Pistons at Atlanta Hawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Pistons_at_Atlanta_Hawks_live_NBA/nba2</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/det.m3u8</sublink>
+<sublink>http://www.gentistream.pw/det.m3u8</sublink>
+<sublink>http://acesports.stream/nba/det.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=pistons</sublink>
+<sublink>http://mygood.stream/nba/atl.m3u8</sublink>
+<sublink>http://www.gentistream.pw/atl.m3u8</sublink>
+<sublink>http://acesports.stream/nba/atl.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=hawks</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -12,8 +18,14 @@
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
 <sublink>http://188.165.13.95:8080/29/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cleveland_Cavaliers_at_Boston_Celtics_live_NBA/nba3</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/cle.m3u8</sublink>
+<sublink>http://www.gentistream.pw/cle.m3u8</sublink>
+<sublink>http://acesports.stream/nba/cle.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=cavaliers</sublink>
+<sublink>http://mygood.stream/nba/bos.m3u8</sublink>
+<sublink>http://www.gentistream.pw/bos.m3u8</sublink>
+<sublink>http://acesports.stream/nba/bos.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=celtics</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -39,8 +51,14 @@
 <title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NBA New York Knicks at Indiana Pacers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Knicks_at_Indiana_Pacers_live_NBA/nba4</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/ind.m3u8</sublink>
+<sublink>http://www.gentistream.pw/ind.m3u8</sublink>
+<sublink>http://acesports.stream/nba/ind.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=pacers</sublink>
+<sublink>http://mygood.stream/nba/nyk.m3u8</sublink>
+<sublink>http://www.gentistream.pw/nyk.m3u8</sublink>
+<sublink>http://acesports.stream/nba/nyk.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=knicks</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -57,8 +75,14 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks at Houston Rockets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Mavericks_at_Houston_Rockets_live_NBA/nba5</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/dal.m3u8</sublink>
+<sublink>http://www.gentistream.pw/dal.m3u8</sublink>
+<sublink>http://acesports.stream/nba/dal.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=mavericks</sublink>
+<sublink>http://mygood.stream/nba/hou.m3u8</sublink>
+<sublink>http://www.gentistream.pw/hou.m3u8</sublink>
+<sublink>http://acesports.stream/nba/hou.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=rockets</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -66,8 +90,14 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Sacramento Kings at Minnesota Timberwolves [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sacramento_Kings_at_Minnesota_Timberwolves_live_NBA/nba6</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/psac.m3u8</sublink>
+<sublink>http://www.gentistream.pw/sac.m3u8</sublink>
+<sublink>http://acesports.stream/nba/sac.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=kings</sublink>
+<sublink>http://mygood.stream/nba/min.m3u8</sublink>
+<sublink>http://www.gentistream.pw/min.m3u8</sublink>
+<sublink>http://acesports.stream/nba/min.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=timberwolves</sublink><link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -75,8 +105,14 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Memphis Grizzlies at Oklahoma City Thunder [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Memphis_Grizzlies_at_Oklahoma_City_Thunder_live_NBA/nba7</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/mem.m3u8</sublink>
+<sublink>http://www.gentistream.pw/mem.m3u8</sublink>
+<sublink>http://acesports.stream/nba/mem.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=grizzlies</sublink>
+<sublink>http://mygood.stream/nba/okc.m3u8</sublink>
+<sublink>http://www.gentistream.pw/okc.m3u8</sublink>
+<sublink>http://acesports.stream/nba/okc.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=thunder</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -128,8 +164,14 @@
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Utah Jazz at Portland Trail Blazers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Utah_Jazz_at_Portland_Trail_Blazers_live_NBA/nba8</sublink></link>
-<referer></referer>
+<sublink>http://mygood.stream/nba/uta.m3u8</sublink>
+<sublink>http://www.gentistream.pw/uta.m3u8</sublink>
+<sublink>http://acesports.stream/nba/uta.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=jazz</sublink>
+<sublink>http://mygood.stream/nba/por.m3u8</sublink>
+<sublink>http://www.gentistream.pw/por.m3u8</sublink>
+<sublink>http://acesports.stream/nba/por.m3u8</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=blazers</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
