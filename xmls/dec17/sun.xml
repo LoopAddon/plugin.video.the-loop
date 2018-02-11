@@ -1,75 +1,9 @@
-<item>
-<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Premier League Huddersfield Town vs AFC Bournemouth [/COLOR][/B]</title>
+<plugin>
+<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]Southampton vs Liverpool [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_AFC_Bournemouth_live_Football/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Championship Aston Villa vs Birmingham City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aston_Villa_vs_Birmingham_City_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]12:30 - 15:15 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live Harlequins v Wasps [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Harlequins_v_Wasps_live_Rugby_Union_-_Domestic/btsports2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]England - Premier League Newcastle United vs Manchester United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Manchester_United_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Ayr United vs Rangers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ayr_United_vs_Rangers_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]RBS European 6 Nations Scotland vs France [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Scotland_vs_France_live_Rugby/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Aberdeen vs Dundee United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aberdeen_vs_Dundee_United_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - Premier League Southampton vs Liverpool [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Southampton_vs_Liverpool_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
+<thumbnail>https://i.imgur.com/RRlZyV2.png</thumbnail>
+</plugin>
 <item>
 <title>[COLORred][B]17:00 - 20:00 [/COLOR][/B][COLORwhite][B]NHL Pittsburgh Penguins at St. Louis Blues [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
