@@ -42,15 +42,8 @@
 <title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NBA New York Knicks at Indiana Pacers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>http://mygood.stream/nba/ind.m3u8</sublink>
-<sublink>http://www.gentistream.pw/ind.m3u8</sublink>
-<sublink>http://acesports.stream/nba/ind.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=pacers</sublink>
-<sublink>http://mygood.stream/nba/nyk.m3u8</sublink>
-<sublink>http://www.gentistream.pw/nyk.m3u8</sublink>
-<sublink>http://acesports.stream/nba/nyk.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=knicks</sublink></link>
-<thumbnail></thumbnail>
+<sublink>http://www.genti.stream/nba/nyk.m3u8</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700836h.m3u8</sublink></link>
 <fanart></fanart>
 </item>
 <item>
@@ -66,8 +59,8 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks at Houston Rockets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>http://mygood.stream/nba/dal.m3u8</sublink>
-<sublink>http://www.gentistream.pw/dal.m3u8</sublink>
+<sublink>http://www.genti.stream/nba/dal.m3u8</sublink>
+<sublink>http://www.genti.stream/nba/hou.m3u8</sublink>
 <sublink>http://acesports.stream/nba/dal.m3u8</sublink>
 <sublink>http://streamhub.live/hls/master.php?team=mavericks</sublink>
 <sublink>http://mygood.stream/nba/hou.m3u8</sublink>
@@ -81,8 +74,8 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Sacramento Kings at Minnesota Timberwolves [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>http://mygood.stream/nba/psac.m3u8</sublink>
-<sublink>http://www.gentistream.pw/sac.m3u8</sublink>
+<sublink>http://www.genti.stream/nba/min.m3u8</sublink>
+<sublink>http://www.genti.stream/nba/sac.m3u8</sublink>
 <sublink>http://acesports.stream/nba/sac.m3u8</sublink>
 <sublink>http://streamhub.live/hls/master.php?team=kings</sublink>
 <sublink>http://mygood.stream/nba/min.m3u8</sublink>
@@ -96,8 +89,8 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Memphis Grizzlies at Oklahoma City Thunder [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>http://mygood.stream/nba/mem.m3u8</sublink>
-<sublink>http://www.gentistream.pw/mem.m3u8</sublink>
+<sublink>http://www.genti.stream/nba/ock.m3u8</sublink>
+<sublink>http://www.genti.stream/nba/mem.m3u8</sublink>
 <sublink>http://acesports.stream/nba/mem.m3u8</sublink>
 <sublink>http://streamhub.live/hls/master.php?team=grizzlies</sublink>
 <sublink>http://mygood.stream/nba/okc.m3u8</sublink>
