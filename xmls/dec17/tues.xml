@@ -1,16 +1,20 @@
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Basel vs Manchester City [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Basel vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1518561870~acl%3D%252f*~hmac%3D56ed58924f1114b82e74fc512f2ee34d4260c40542115a474f7254bb6117187c&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1518561870~acl%3D%252f*~hmac%3D56ed58924f1114b82e74fc512f2ee34d4260c40542115a474f7254bb6117187c&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Basel_vs_Manchester_City_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Juventus vs Tottenham Hotspur [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Juventus vs Tottenham Hotspur [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1518561921~acl%3D%252f*~hmac%3Db2ea6d8e35a1b6f9dc2f58d61a5a7638178a4ef03b9df485c036338c81f1bf12&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1518561921~acl%3D%252f*~hmac%3Db2ea6d8e35a1b6f9dc2f58d61a5a7638178a4ef03b9df485c036338c81f1bf12&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Juventus_vs_Tottenham_Hotspur_live_Football/stream4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
