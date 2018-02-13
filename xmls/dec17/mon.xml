@@ -9,19 +9,23 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+<item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA New Orleans Pelicans @ Detroit Pistons [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700841h.m3u8</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700841a.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Pelicans_Detroit_Pistons_live_NBA/nba1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA New York Knicks @ Philadelphia 76ers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700842h.m3u8</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700842a.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Knicks_Philadelphia_76ers_live_NBA/nba2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
