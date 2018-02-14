@@ -28,9 +28,11 @@
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Miami Heat at Toronto Raptors [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700847h.m3u8</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700847a.m3u8</sublink> 
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Heat_at_Toronto_Raptors_live_NBA/nba1</sublink></link><referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://nbahdo.com/wp-content/uploads/2017/04/Miami-Heat-VS-Toronto-Raptors-300x167.jpg</thumbnail>    
+<fanart>https://wallpapercave.com/wp/wc1710078.jpg</fanart>
 </item>
 <item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Calgary Flames at Boston Bruins [/COLOR][/B]</title>
@@ -98,10 +100,12 @@
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Atlanta Hawks at Milwaukee Bucks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700848h.m3u8</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700848a.m3u8</sublink> 
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Atlanta_Hawks_at_Milwaukee_Bucks_live_NBA/nba2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://i0.wp.com/jasonpronostics.org/wp-content/uploads/2017/03/ATL-HAWKS-VS-MIL-BUCKS-NBA-2015.jpg?fit=406%2C228</thumbnail>   
+<fanart>https://wallpapercave.com/wp/wc1710078.jpg</fanart>
 </item>
 <item>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Houston Rockets at Minnesota Timberwolves [/COLOR][/B]</title>
@@ -116,10 +120,11 @@
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Cleveland Cavaliers at Oklahoma City Thunder [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700849h.m3u8</sublink> <sublink>http://gg.notlive.xyz/nba_list/0021700849a.m3u8</sublink>  
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cleveland_Cavaliers_at_Oklahoma_City_Thunder_live_NBA/nba4</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://sas.suplitodomedia.com/articles_images/GamblersPalace/HOU-ROCKETS-vs.-MIN-TIMBERWOLVE.jpg</thumbnail>  
+<fanart>https://wallpapercave.com/wp/wc1710078.jpg</fanart>
 </item>
 <item>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL St. Louis Blues at Nashville Predators [/COLOR][/B]</title>
@@ -161,10 +166,11 @@
 <title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA Sacramento Kings at Dallas Mavericks [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700851h.m3u8</sublink>  
+<sublink>http://gg.notlive.xyz/nba_list/0021700851a.m3u8</sublink> 
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sacramento_Kings_at_Dallas_Mavericks_live_NBA/nba5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://sas.suplitodomedia.com/articles_images/GamblersPalace/SAC-KINGS-vs.-DAL-MAVERICKS.jpghttp://sas.suplitodomedia.com/articles_images/GamblersPalace/PHX-SUNS-vs.-GS-WARRIORS.jpg</thumbnail>  
+<fanart>https://wallpapercave.com/wp/wc1710078.jpg</fanart>
 </item>
 <item>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Chicago Blackhawks at Vegas Golden Knights [/COLOR][/B]</title>
@@ -179,10 +185,11 @@
 <title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NBA San Antonio Spurs at Denver Nuggets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
+<sublink>http://gg.notlive.xyz/nba_list/0021700851h.m3u8</sublink> 
+<sublink>http://gg.notlive.xyz/nba_list/0021700851a.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Antonio_Spurs_at_Denver_Nuggets_live_NBA/nba6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://sas.suplitodomedia.com/articles_images/GamblersPalace/SAN-ANTONIO-SPURS-vs-DENVER-NUGGETS.jpg</thumbnail>  
+<fanart>https://wallpapercave.com/wp/wc1710078.jpg</fanart>
 </item>
 <item>
 <title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NHL Arizona Coyotes at San Jose Sharks [/COLOR][/B]</title>
