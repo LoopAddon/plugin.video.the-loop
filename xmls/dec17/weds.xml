@@ -4,11 +4,10 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1518658182~acl%3D%252f*~hmac%3D1d6967e986fd5637f06db4ae537e6fca386ae2de76a506161ed1b72111f40860&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1518658182~acl%3D%252f*~hmac%3D1d6967e986fd5637f06db4ae537e6fca386ae2de76a506161ed1b72111f40860&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
-<sublink>http://gvjygo6mloem-hls-live.5centscdn.com/chanels/sonyespn.stream/tracks-v1a1/index.m3u8?st=wWI2D9uab5DVHfwnN07_BQ&e=1518633771</sublink>
+<sublink>https://cors.now.sh/http://onlyhdchannels.com/stable/ftv.php?id=Six_HD/Six_HD_1200.m3u8/sublink>
 <sublink>http://vip.live24.ir/538505092/_definst_/h001t/chunklist_w1226709343.m3u8</sublink>
 <sublink>http://enter.pdns.cz:8081/hls/poli/chunks.m3u8</sublink>
 <sublink>http://185.231.160.49/29/3/index.m3u8</sublink>
-<sublink>https://cors.now.sh/http://onlyhdchannels.com/stable/ftv.php?id=Six_HD/Six_HD_1200.m3u8</sublink>
 <sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/14/0214_360_Liverpool_n1a/master_4.m3u8</sublink>
 <sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/14/0214_360_Liverpool_n1a/master.m3u8</sublink>
 <sublink>http://195.252.68.245:1935/KLIKTV_2/smil:pink71.mf.smil/playlist.m3u8</sublink>
