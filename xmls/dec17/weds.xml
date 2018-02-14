@@ -1,7 +1,15 @@
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Porto vs Liverpool [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Porto vs Liverpool [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1518658182~acl%3D%252f*~hmac%3D1d6967e986fd5637f06db4ae537e6fca386ae2de76a506161ed1b72111f40860&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1518658182~acl%3D%252f*~hmac%3D1d6967e986fd5637f06db4ae537e6fca386ae2de76a506161ed1b72111f40860&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>http://gvjygo6mloem-hls-live.5centscdn.com/chanels/sonyespn.stream/tracks-v1a1/index.m3u8?st=wWI2D9uab5DVHfwnN07_BQ&e=1518633771</sublink>
+<sublink>http://vip.live24.ir/538505092/_definst_/h001t/chunklist_w1226709343.m3u8</sublink>
+<sublink>http://enter.pdns.cz:8081/hls/poli/chunks.m3u8</sublink>
+<sublink>http://185.231.160.49/29/3/index.m3u8</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/14/0214_360_Liverpool_n1a/master_4.m3u8</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/14/0214_360_Liverpool_n1a/master.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Porto_vs_Liverpool_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -11,6 +19,15 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Real Madrid vs PSG [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1518658256~acl%3D%252f*~hmac%3Df537fee36d2cb415fb09092b500cda06f0ac11155c76133818ef39019ebdf93b&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1518658256~acl%3D%252f*~hmac%3Df537fee36d2cb415fb09092b500cda06f0ac11155c76133818ef39019ebdf93b&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/acesports6/index.m3u8</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/13/0213_360_manchester_n2b/master_2.m3u8</sublink>
+<sublink>http://sportstv-1872968023.us-west-1.elb.amazonaws.com/tv/d2dkqhv7di9c35_fs1_19.m3u8</sublink>
+<sublink>http://wawastream.xyz/ind/ten2.m3u8</sublink>
+<sublink>http://185.231.160.49/23/3/index.m3u8</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/14/0214_360_paris_n2b/master_3.m3u8</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/14/0214_360_paris_n2b/master.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Real_Madrid_vs_PSG_live_Football/stream9</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
