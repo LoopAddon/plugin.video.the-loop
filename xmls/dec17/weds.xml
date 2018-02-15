@@ -53,11 +53,19 @@
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]00:00 - 03:0 [/COLOR][/B][COLORwhite][B]NBA Miami Heat @ Philadelphia 76ers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<title>[COLORred][B]7:00 pm ET [/COLOR][/B][COLORwhite][B]Atlanta Hawks at Detroit Pistons[/COLOR][/B]</title>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Heat_Philadelphia_76ers_live_NBA/nba3</sublink></link><referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://gg.notlive.xyz/nba_list/0021700853h.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 1 Home Feed)</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700853a.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 1 Away Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=hawks|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 2 Home Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=pistons|User-Agent=AppleCoreMedia/1.0.0.8C148a=(Link 2 Away Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/atl.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 3 Home Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/det.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 3 Away Feed)</sublink>
+<sublink>http://sportival.shop/feeds/atl.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 4 Home Feed)</sublink>
+<sublink>http://sportival.shop/feeds/det.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 4 Away Feed)</sublink>
+<sublink>http://www.genti.stream/nba/atl.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 5 Home Feed)</sublink>
+<sublink>http://www.genti.stream/nba/det.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C148a(Link 5 Away Feed)</sublink></link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/ATL.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
