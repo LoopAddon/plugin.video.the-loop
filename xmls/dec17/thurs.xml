@@ -25,6 +25,7 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
+<sublink>https://content-ause4.uplynk.com/channel/08e4df273bfd448fbde05acb28a80eaf/h.m3u8?pbs=abd7301378ee46e48873a8b82551cbb0</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ostersunds_FK_vs_Arsenal_live_Football/stream4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
