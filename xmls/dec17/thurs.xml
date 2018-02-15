@@ -66,6 +66,7 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/espn.m3u8|Cookie=hdnea%3Dexp%3D1518742442~acl%3D%252f*~hmac%3D6e479803c9df674b3187777134c22b66e3c912010041d8262cb39bad7ba69047&User-Agent=BTSport%234.12.2%23Android%237.0(1080p)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/espn/espn.m3u8|Cookie=hdnea%3Dexp%3D1518742442~acl%3D%252f*~hmac%3D6e479803c9df674b3187777134c22b66e3c912010041d8262cb39bad7ba69047&User-Agent=BTSport%234.12.2%23Android%237.0(720p)</sublink>
+<sublink>https://content-ause4.uplynk.com/channel/08e4df273bfd448fbde05acb28a80eaf/h.m3u8?pbs=abd7301378ee46e48873a8b82551cbb0</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Copenhagen_vs_Atletico_Madrid_live_Football/stream10</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
