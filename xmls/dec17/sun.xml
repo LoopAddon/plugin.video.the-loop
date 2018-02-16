@@ -1,161 +1,90 @@
-<item>
-<title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Detroit Pistons at Atlanta Hawks [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>http://streamhub.live/hls/master.php?team=hawks</link>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Cleveland Cavaliers at Boston Celtics [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<plugin>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Championship Norwich City vs Ipswich Town [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>http://188.165.13.95:8080/29/index.m3u8</sublink>
-<sublink>http://mygood.stream/nba/cle.m3u8</sublink>
-<sublink>http://www.gentistream.pw/cle.m3u8</sublink>
-<sublink>http://acesports.stream/nba/cle.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=cavaliers</sublink>
-<sublink>http://mygood.stream/nba/bos.m3u8</sublink>
-<sublink>http://www.gentistream.pw/bos.m3u8</sublink>
-<sublink>http://acesports.stream/nba/bos.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=celtics</sublink></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]21:00 - 00:00 [/COLOR][/B][COLORwhite][B]NHL Vancouver Canucks at Dallas Stars [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vancouver_Canucks_at_Dallas_Stars_live_Hockey/nhl4</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Norwich_City_vs_Ipswich_Town_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Cincinnati - SMU [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]SPL -  Hamilton Academical vs Rangers [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Hamilton_Academical_vs_Rangers_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 17:15 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live Wasps v Exeter Chiefs [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Wasps_v_Exeter_Chiefs_live_Rugby_Union_-_Domestic/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:45 - 17:00 [/COLOR][/B][COLORwhite][B]Live Rugby League Championship Halifax RLFC v Toronto Wolfpack [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby League - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Halifax_RLFC_v_Toronto_Wolfpack_live_Rugby_League_-_Domestic/stream36</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Celtic vs St- Johnstone [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Celtic_vs_St-_Johnstone_live_Football/stream7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Rochdale vs Tottenham Hotspur [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rochdale_vs_Tottenham_Hotspur_live_Football/stream1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - Championship Leeds United vs Bristol City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leeds_United_vs_Bristol_City_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live NASCAR 2018 Daytona 500 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Daytona_500_live_Motor_Sport/stream36</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Wichita - Cincinnati [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Cincinnati_-_SMU_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Wichita_-_Cincinnati_live_Basketball/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NBA New York Knicks at Indiana Pacers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>http://www.genti.stream/nba/nyk.m3u8</sublink>
-<sublink>http://gg.notlive.xyz/nba_list/0021700836h.m3u8</sublink></link>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Duke - Georgia Tech [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Pittsburgh - FL State [/COLOR][/B]</title>
 <info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Duke_-_Georgia_Tech_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Pittsburgh_-_FL_State_live_Basketball/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Dallas Mavericks at Houston Rockets [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>http://www.genti.stream/nba/dal.m3u8</sublink>
-<sublink>http://www.genti.stream/nba/hou.m3u8</sublink>
-<sublink>http://acesports.stream/nba/dal.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=mavericks</sublink>
-<sublink>http://mygood.stream/nba/hou.m3u8</sublink>
-<sublink>http://www.gentistream.pw/hou.m3u8</sublink>
-<sublink>http://acesports.stream/nba/hou.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=rockets</sublink></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Sacramento Kings at Minnesota Timberwolves [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>http://www.genti.stream/nba/min.m3u8</sublink>
-<sublink>http://www.genti.stream/nba/sac.m3u8</sublink>
-<sublink>http://acesports.stream/nba/sac.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=kings</sublink>
-<sublink>http://mygood.stream/nba/min.m3u8</sublink>
-<sublink>http://www.gentistream.pw/min.m3u8</sublink>
-<sublink>http://acesports.stream/nba/min.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=timberwolves</sublink><link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Memphis Grizzlies at Oklahoma City Thunder [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>http://www.genti.stream/nba/ock.m3u8</sublink>
-<sublink>http://www.genti.stream/nba/mem.m3u8</sublink>
-<sublink>http://acesports.stream/nba/mem.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=grizzlies</sublink>
-<sublink>http://mygood.stream/nba/okc.m3u8</sublink>
-<sublink>http://www.gentistream.pw/okc.m3u8</sublink>
-<sublink>http://acesports.stream/nba/okc.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=thunder</sublink></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Colorado Avalanche vs Buffalo Sabres [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Colorado_Avalanche_vs_Buffalo_Sabres_live_Hockey/nhl5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Boston Bruins vs New Jersey Devils [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Bruins_vs_New_Jersey_Devils_live_Hockey/nhl6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Calgary Flames vs New York Islanders [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Calgary_Flames_vs_New_York_Islanders_live_Hockey/nhl7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers vs Vegas Golden Knights [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_vs_Vegas_Golden_Knights_live_Hockey/nhl8</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL San Jose Sharks vs Anaheim Ducks [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Jose_Sharks_vs_Anaheim_Ducks_live_Hockey/nhl9</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Utah Jazz at Portland Trail Blazers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>http://mygood.stream/nba/uta.m3u8</sublink>
-<sublink>http://www.gentistream.pw/uta.m3u8</sublink>
-<sublink>http://acesports.stream/nba/uta.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=jazz</sublink>
-<sublink>http://mygood.stream/nba/por.m3u8</sublink>
-<sublink>http://www.gentistream.pw/por.m3u8</sublink>
-<sublink>http://acesports.stream/nba/por.m3u8</sublink>
-<sublink>http://streamhub.live/hls/master.php?team=blazers</sublink></link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+</plugin>

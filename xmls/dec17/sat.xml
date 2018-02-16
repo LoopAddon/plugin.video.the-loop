@@ -1,217 +1,234 @@
-<item>
-<title>[COLORred][B]19:00 - 21:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Oklahoma - Iowa State [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
+<plugin>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Ross County vs Hearts [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>http://37.187.145.109:25461/live/raja/raja/1407.m3u8?token=H0FcUkcMFlgVU1MMVwQBAQFbA1peUABTBApcUgwIVQdRAlYGAgUNVQBASRpCERZRVlVsClwQCldRAw4fFkxABhY8XVcWXhZQA1FSGh1HEF1aXRFZCB4SFgxXGwkWCABUV1AWHxYBTBZSEAtZXToAUUFRUAYaCF4TCV8VEVtXbAcBDlVdUEYOQAdASRpYFhQWDRplCkpVWQhFflxXXVgTLw0OXUdRABZOFQAMTEMEEFEVAhFUDwQHREkRWlxBV0cRHUEOEXMmFk4VBx1MVAsXXVhWEVkaXwMTXREVEV1KbBEBEEBBUQVZB0VAXxoAR0gWWllLPFtdXggAUE1aW1dAQV5BBQMERhhAWg0LUUUKFmtHUVdBAhABUlACCxFJ</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ross_County_vs_Hearts_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball 2017-18 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
+</plugin>
+<plugin>
+<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Sheffield Wednesday vs Swansea City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>http://37.187.145.109:25461/live/raja/raja/1407.m3u8?token=H0FcUkcMFlgVU1MMVwQBAQFbA1peUABTBApcUgwIVQdRAlYGAgUNVQBASRpCERZRVlVsClwQCldRAw4fFkxABhY8XVcWXhZQA1FSGh1HEF1aXRFZCB4SFgxXGwkWCABUV1AWHxYBTBZSEAtZXToAUUFRUAYaCF4TCV8VEVtXbAcBDlVdUEYOQAdASRpYFhQWDRplCkpVWQhFflxXXVgTLw0OXUdRABZOFQAMTEMEEFEVAhFUDwQHREkRWlxBV0cRHUEOEXMmFk4VBx1MVAsXXVhWEVkaXwMTXREVEV1KbBEBEEBBUQVZB0VAXxoAR0gWWllLPFtdXggAUE1aW1dAQV5BBQMERhhAWg0LUUUKFmtHUVdBAhABUlACCxFJ</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sheffield_Wednesday_vs_Swansea_City_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball 2017-18 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
+</plugin>
+<plugin>
+<title>[COLORred][B]14:30 - 17:15 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live Leicester Tigers v Harlequins [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
 <link>
-<sublink>http://37.187.145.109:25461/live/raja/raja/1407.m3u8?token=H0FcUkcMFlgVU1MMVwQBAQFbA1peUABTBApcUgwIVQdRAlYGAgUNVQBASRpCERZRVlVsClwQCldRAw4fFkxABhY8XVcWXhZQA1FSGh1HEF1aXRFZCB4SFgxXGwkWCABUV1AWHxYBTBZSEAtZXToAUUFRUAYaCF4TCV8VEVtXbAcBDlVdUEYOQAdASRpYFhQWDRplCkpVWQhFflxXXVgTLw0OXUdRABZOFQAMTEMEEFEVAhFUDwQHREkRWlxBV0cRHUEOEXMmFk4VBx1MVAsXXVhWEVkaXwMTXREVEV1KbBEBEEBBUQVZB0VAXxoAR0gWWllLPFtdXggAUE1aW1dAQV5BBQMERhhAWg0LUUUKFmtHUVdBAhABUlACCxFJ</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2017-18_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Leicester_Tigers_v_Harlequins_live_Rugby_Union_-_Domestic/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:00 - 02:00 [/COLOR][/B][COLORwhite][B]NBA New Orleans Pelicans @ Brooklyn Nets [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Denmark - Super Liga Silkeborg vs Lyngby [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Silkeborg_vs_Lyngby_live_Football/stream40</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Brighton - Hove Albion vs Coventry City [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_Coventry_City_live_Football/stream1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup West Bromwich Albion vs Southampton [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Southampton_live_Football/stream2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Queens Park Rangers vs Bolton Wanderers [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Queens_Park_Rangers_vs_Bolton_Wanderers_live_Football/stream27</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Huddersfield Town vs Manchester United [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_Manchester_United_live_Football/stream1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Northern Ireland League Cup Final Ballymena v Dungannon [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ballymena_v_Dungannon_live_Football/stream32</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Los Angeles Kings at Buffalo Sabres [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Pelicans_Brooklyn_Nets_live_NBA/nba1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Kings_at_Buffalo_Sabres_live_NBA/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:30 - 01:00 [/COLOR][/B][COLORwhite][B]UFC 221 Romero vs Rockhold - Early Prelims [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+</plugin>
+<plugin>
+<title>[COLORred][B]18:50 - 21:20 [/COLOR][/B][COLORwhite][B]Live GAA Tipperary v Wexford [/COLOR][/B]</title>
+<info>[COLORyellow][B]Gaelic Games[/COLOR][/B]</info>
 <link>
-<sublink>http://nlds232.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_4500_android.m3u8?hdnea=expires%3D1518299133%7Eaccess%3D%2Fnlds%2Fufce%2Faffiliate%2Fas%2Flive%2F*%7Emd5%3D6a9c5829cfd346219cf351b85f4c459f&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0%20(Linux;%20Android%206.0.1;%20D6603%20Build/23.5.A.0.570;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/56.0.2924.87%20Mobile%20Safari/537.36%20android%20mobile%20ufc</sublink>
-<sublink>http://nlds232.cdnak.neulion.com/nlds/ufce/affiliate/as/live/affiliate_hd_3000_android.m3u8?hdnea=expires%3D1518299133%7Eaccess%3D%2Fnlds%2Fufce%2Faffiliate%2Fas%2Flive%2F*%7Emd5%3D6a9c5829cfd346219cf351b85f4c459f&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0%20(Linux;%20Android%206.0.1;%20D6603%20Build/23.5.A.0.570;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/56.0.2924.87%20Mobile%20Safari/537.36%20android%20mobile%20ufc</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Romero_vs_Rockhold_-_Early_Prelims_live_UFC/stream1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tipperary_v_Wexford_live_Gaelic_Games/stream36</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Milwaukee Bucks @ Orlando Magic [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milwaukee_Bucks_Orlando_Magic_live_NBA/nba2</sublink></link><referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA LA Clippers @ Philadelphia 76ers [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/LA_Clippers_Philadelphia_76ers_live_NBA/nba3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Buffalo Sabres @ Boston Bruins [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 22:00 [/COLOR][/B][COLORwhite][B]NHL Anaheim Ducks at Minnesota Wild [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Buffalo_Sabres_Boston_Bruins_live_Hockey/nhl1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Anaheim_Ducks_at_Minnesota_Wild_live_Hockey/nhl2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators @ Toronto Maple Leafs [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 22:00 [/COLOR][/B][COLORwhite][B]NHL New York Rangers at Ottawa Senators [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ottawa_Senators_Toronto_Maple_Leafs_live_Hockey/nhl2</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Rangers_at_Ottawa_Senators_live_Hockey/nhl3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Nashville Predators @ Montr�al Canadiens [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Nashville_Predators_Montr_al_Canadiens_live_Hockey/nhl3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Los Angeles Kings @ Tampa Bay Lightning [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Kings_Tampa_Bay_Lightning_live_Hockey/nhl4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils @ Columbus Blue Jackets [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_Columbus_Blue_Jackets_live_Hockey/nhl5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 05:00 [/COLOR][/B][COLORwhite][B]Boxing Miguel Berchelt vs. Maxwell Awuku [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]19:00 - 21:30 [/COLOR][/B][COLORwhite][B]Boxing George Groves vs Chris Eubank Jr Undercards [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miguel_Berchelt_vs_Maxwell_Awuku_live_Boxing/stream7</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/George_Groves_vs_Chris_Eubank_Jr_Undercards_live_Boxing/stream6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards @ Chicago Bulls [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_Chicago_Bulls_live_NBA/nba4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers @ Arizona Coyotes [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]21:00 - 00:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers at Arizona Coyotes [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_Arizona_Coyotes_live_Hockey/nhl6</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_at_Arizona_Coyotes_live_Hockey/nhl4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Chicago Blackhawks @ Minnesota Wild [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]21:30 - 00:00 [/COLOR][/B][COLORwhite][B]Boxing George Groves vs Chris Eubank Jr [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/George_Groves_vs_Chris_Eubank_Jr_live_Boxing/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Montreal Canadiens at Vegas Golden Knights [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chicago_Blackhawks_Minnesota_Wild_live_Hockey/nhl7</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Montreal_Canadiens_at_Vegas_Golden_Knights_live_Hockey/nhl5</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Colorado Avalanche @ Carolina Hurricanes [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils at Tampa Bay Lightning [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Colorado_Avalanche_Carolina_Hurricanes_live_Hockey/nhl8</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_at_Tampa_Bay_Lightning_live_Hockey/nhl6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 03:00 [/COLOR][/B][COLORwhite][B]UFC 221 Romero vs Rockhold - Prelims [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
-<link>
-<sublink>http://nlds225.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_3000_android.m3u8?hdnea=expires%3D1518306319%7Eaccess%3D%2Fnlds%2Fufcp%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3Dd6e271b82a5f90fe9b9cbdd14ff1ee45&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</sublink>
-<sublink>http://nlds225.cdnak.neulion.com/nlds/ufcp/camera0/as/live/camera0_hd_4500_android.m3u8?hdnea=expires%3D1518306319%7Eaccess%3D%2Fnlds%2Fufcp%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3Dd6e271b82a5f90fe9b9cbdd14ff1ee45&nltid=ufc&nltdt=8&nltnt=1&uid=663360|User-Agent=Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36 android mobile ufc 7.0310</sublink>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1518335422~acl%3D%252f*~hmac%3Da4dcfdf35dbaa8e54bc96ae078ed0f0fde5391af8406bbd23e17ccc62119134e&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Romero_vs_Rockhold_-_Prelims_live_UFC/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA Los Angeles Lakers @ Dallas Mavericks [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Lakers_Dallas_Mavericks_live_NBA/nba5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA San Antonio Spurs @ Golden State Warriors [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Antonio_Spurs_Golden_State_Warriors_live_NBA/nba6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Denver Nuggets @ Phoenix Suns [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Denver_Nuggets_Phoenix_Suns_live_NBA/nba7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers @ San Jose SharkS [/COLOR][/B]</title>
+</plugin>
+<plugin>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Toronto Maple Leafs at Pittsburgh Penguins [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_San_Jose_SharkS_live_Hockey/nhl9</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Maple_Leafs_at_Pittsburgh_Penguins_live_Hockey/nhl7</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]UFC 221 Romero vs Rockhold Main Event [/COLOR][/B]</title>
-<info>[COLORyellow][B]UFC[/COLOR][/B]</info>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Detroit Red Wings at Nashville Predators [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>http://nlds235.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_3000_ced.m3u8?hdnea=expires%3D1518316199%7Eaccess%3D%2Fnlds%2Fufc%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3D83aaa177214f8821ccbc06207f59125d&nltid=ufc&nltdt=8&nltnt=1&uid=1177362|User-Agent=Mozilla/5.0%20(Linux;%20Android%206.0.1;%20D6603%20Build/23.5.A.0.570;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/56.0.2924.87%20Mobile%20Safari/537.36%20android%20mobile%20ufc%207.0310</sublink>
-<sublink>http://nlds235.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_4500_ced.m3u8?hdnea=expires%3D1518316199%7Eaccess%3D%2Fnlds%2Fufc%2Fcamera0%2Fas%2Flive%2F*%7Emd5%3D83aaa177214f8821ccbc06207f59125d&nltid=ufc&nltdt=8&nltnt=1&uid=1177362|User-Agent=Mozilla/5.0%20(Linux;%20Android%206.0.1;%20D6603%20Build/23.5.A.0.570;%20wv)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/56.0.2924.87%20Mobile%20Safari/537.36%20android%20mobile%20ufc%207.0310</sublink>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1518335422~acl%3D%252f*~hmac%3Da4dcfdf35dbaa8e54bc96ae078ed0f0fde5391af8406bbd23e17ccc62119134e&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Romero_vs_Rockhold_Main_Event_live_UFC/stream1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Red_Wings_at_Nashville_Predators_live_Hockey/nhl8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Skills Challenge, Three Point contest and Slam Dunk Competition [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Skills_Challenge_Three_Point_contest_and_Slam_Dunk_Competition_live_NBA/stream4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA State Farm All-Star Saturday Night [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/State_Farm_All-Star_Saturday_Night_live_NBA/nba1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NHL Washington Capitals at Chicago Blackhawks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Capitals_at_Chicago_Blackhawks_live_Hockey/nhl9</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Boston Bruins at Vancouver Canucks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Bruins_at_Vancouver_Canucks_live_Hockey/nhl10</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Florida Panthers at Calgary Flames [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Florida_Panthers_at_Calgary_Flames_live_Hockey/nhl11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>[COLORred][B]03:00 - 05:00 [/COLOR][/B][COLORwhite][B]Boxing Danny Garcia vs Brandon Rios [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Danny_Garcia_vs_Brandon_Rios_live_Boxing/stream7</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
