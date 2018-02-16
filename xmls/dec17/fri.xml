@@ -7,7 +7,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - FA Cup Leicester City vs Sheffield United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -16,8 +16,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Chelsea vs Hull City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
@@ -26,7 +26,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]20:00 - 22:30 [/COLOR][/B][COLORwhite][B]Live World Series Boxing Live WSB: GB Lionhearts v Croatia [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
@@ -36,15 +36,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers @ Columbus Blue Jackets [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_Columbus_Blue_Jackets_live_Hockey/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA NBA All star Game [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
@@ -52,8 +52,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL New York Islanders @ Carolina Hurricanes [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -61,8 +61,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Colorado Avalanche @ Winnipeg Jets [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -70,8 +70,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NHL St. Louis Blues @ Dallas Stars [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -79,8 +79,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]02:00 - 05:00 [/COLOR][/B][COLORwhite][B]NBA Mtn Dew Kickstart Rising Stars [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
@@ -88,4 +88,4 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
