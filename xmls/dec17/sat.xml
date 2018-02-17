@@ -10,10 +10,10 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>[COLORred][B]21:30 - 00:00 [/COLOR][/B][COLORwhite][B]Boxing George Groves vs Chris Eubank Jr [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
-<link>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
