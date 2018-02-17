@@ -32,6 +32,7 @@
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>http://bit.ly/2F7zor3</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/trhtrrth/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_Coventry_City_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -43,6 +44,7 @@
 <link>
 <sublink>http://bit.ly/2F8EWS3</sublink>
 <sublink>http://bit.ly/2o6qMd4</sublink>
+<sublink>https://ssh101.com/m3u8/dyn/gnnxft/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Southampton_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -54,6 +56,17 @@
 <link>
 <sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Queens_Park_Rangers_vs_Bolton_Wanderers_live_Football/stream27</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Spain - La Liga Eibar vs Barcelona [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>http://7.futcast11.pro:1935/edge/ch93274/chunklist_w301149285.m3u8</sublink>
+<sublink>http://185.231.160.49/598/3/index.m3u8</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Eibar_vs_Barcelona_live_Football/stream10</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
