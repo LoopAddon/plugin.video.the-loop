@@ -1,16 +1,9 @@
 <plugin>
-<title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Ross County vs Hearts [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ross_County_vs_Hearts_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Sheffield Wednesday vs Swansea City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://bit.ly/2F8EWS3</sublink>
+<sublink>http://bit.ly/2o62eko</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sheffield_Wednesday_vs_Swansea_City_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
