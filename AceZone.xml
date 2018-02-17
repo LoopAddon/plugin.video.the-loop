@@ -7,97 +7,56 @@
  
 <channels>
  
-<channel><name>[COLOR cadetblue][B]Acestream Live Events [/B][/COLOR]</name><link>http://ignoreme</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-<channel><name>[COLOR red]Plexus & Acestream needed for these links to work [/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-<channel><name>[COLOR slategrey][I]Live Events will be refreshed as they become available  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-<channel><name>[COLOR slategrey][I](back out of the Live Events List & re-enter to update)  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-<channel><name>[COLOR slategrey][I] Please remember its best to use VPN with Acestream links  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-<channel><name>[COLOR red] --------------------------------------------------------------------------------- [/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-
-<channel><name>[COLOR gold]<<<<<<<< FOOTBALL >>>>>>>>[/COLOR]</name><link>http://ignoreme</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
+<channel><name>[COLOR cadetblue][B]Acestream Live Events [/B][/COLOR]</name><link>http://ignoreme</link><thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail><fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart></channel>
+<channel><name>[COLOR red]Plexus & Acestream needed for these links to work [/COLOR]</name><link>http://</link><thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail><fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart></channel>
+<channel><name>[COLOR slategrey][I]Live Events will be refreshed as they become available  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail><fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart></channel>
+<channel><name>[COLOR slategrey][I](back out of the Live Events List & re-enter to update)  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail><fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart></channel>
+<channel><name>[COLOR slategrey][I] Please remember its best to use VPN with Acestream links  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail><fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart></channel>
+<channel><name>[COLOR red] --------------------------------------------------------------------------------- [/COLOR]</name><link>http://</link><thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail><fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart></channel>
 
 <channel>
-<name>[COLOR white][18:00 GMT] Östersunds FK vs Arsenal[/COLOR]</name>
+<name>[COLOR white]Groves vs Eubank Jr.[/COLOR]</name>
 <link>ignore</link>
-<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 <items>
 	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Östersunds FK vs Arsenal - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://d35687e0190fcc3de949347fa9fd49aac4d78824&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://70c24a0a1eb6015c642b65e58f4c104ec77f7000&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+		<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Östersunds FK vs Arsenal - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://c660d712200a302dd4017023d80e1e6c023f1997&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://b56c4c030e66baec8f9b65a88a84b5646722aa4c&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+		<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Östersunds FK vs Arsenal - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://d35687e0190fcc3de949347fa9fd49aac4d78824+&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://3ef63a385f1a7e9a817b53c48c0b6e146b84b031&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+		<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Östersunds FK vs Arsenal - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://c660d712200a302dd4017023d80e1e6c023f1997&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-</items>
-</channel>
- 
-<channel>
-<name>[COLOR white][18:00 GMT] Borussia Dortmund vs Atalanta[/COLOR]</name>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-<items>
-	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Borussia Dortmund vs Atalanta - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://29344c399e106241c307bb39de297c422643d63b&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://368eb3580fe1a4c955905fb4ae8055f27e90fb6b&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+		<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Borussia Dortmund vs Atalanta - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://29344c399e106241c307bb39de297c422643d63b++&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-</items>
-</channel>
- 
-<channel>
-<name>[COLOR white][18:00 GMT] Olympique Marseille vs Sporting Braga[/COLOR]</name>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-<items>
-	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Olympique Marseille vs Sporting Braga - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://7d7ab0409d088213c16b73e29aaab7d45416f932&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://368eb3580fe1a4c955905fb4ae8055f27e90fb6b&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+		<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Olympique Marseille vs Sporting Braga - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://7d7ab0409d088213c16b73e29aaab7d45416f932++&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://451b800808144195da964eb70fbb6919f6ee9ea7&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</thumbnail>
+		<fanart>https://i.ebayimg.com/00/s/MTAyNFgxMDI0/z/fk4AAOSwUbdahWej/_86.JPG</fanart>
 	</item>
 </items>
  
 </channels>
  
-l>
-<name>[COLOR white][18:00 GMT] Olympique Marseille vs Sporting Braga[/COLOR]</name>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-<items>
-	<item>
-		<title>[COLOR cadetblue][18:00 GMT] Olympique Marseille vs Sporting Braga - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://7d7ab0409d088213c16b73e29aaab7d45416f932&amp;mode=1&amp;nam
