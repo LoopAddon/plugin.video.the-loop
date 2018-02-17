@@ -1,169 +1,22 @@
 <item>
-<title>[COLORred][B]14:00 - 16:00 [/COLOR][/B][COLORwhite][B]Italy - Serie A Udinese vs Roma [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://185.231.160.49/598/3/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Udinese_vs_Roma_live_Football/stream11</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]Germany - Bundesliga Wolfsburg vs Bayern Munchen [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://185.231.160.49/24/3/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Wolfsburg_vs_Bayern_Munchen_live_Football/stream13</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]14:30 - 17:15 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live Leicester Tigers v Harlequins [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Leicester_Tigers_v_Harlequins_live_Rugby_Union_-_Domestic/btsports1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Brighton - Hove Albion vs Coventry City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://bit.ly/2F7zor3</sublink>
-<sublink>https://ssh101.com/m3u8/dyn/trhtrrth/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_Coventry_City_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup West Bromwich Albion vs Southampton [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://bit.ly/2F8EWS3</sublink>
-<sublink>http://bit.ly/2o6qMd4</sublink>
-<sublink>https://ssh101.com/m3u8/dyn/gnnxft/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Southampton_live_Football/stream2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Championship Queens Park Rangers vs Bolton Wanderers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Queens_Park_Rangers_vs_Bolton_Wanderers_live_Football/stream27</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]15:15 - 17:15 [/COLOR][/B][COLORwhite][B]Spain - La Liga Eibar vs Barcelona [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://7.futcast11.pro:1935/edge/ch93274/chunklist_w301149285.m3u8</sublink>
-<sublink>http://185.231.160.49/598/3/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Eibar_vs_Barcelona_live_Football/stream10</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]France - Ligue 1 PSG vs Strasbourg [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://185.231.160.49/23/3/index.m3u8</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/PSG_vs_Strasbourg_live_Football/stream8</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]England - FA Cup Huddersfield Town vs Manchester United [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://bit.ly/2F8EWS3</sublink>
-<sublink>http://bit.ly/2o6qMd4</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_Manchester_United_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]17:30 - 19:30 [/COLOR][/B][COLORwhite][B]Northern Ireland League Cup Final Ballymena v Dungannon [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Ballymena_v_Dungannon_live_Football/stream32</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Los Angeles Kings at Buffalo Sabres [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Kings_at_Buffalo_Sabres_live_NBA/nhl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:50 - 21:20 [/COLOR][/B][COLORwhite][B]Live GAA Tipperary v Wexford [/COLOR][/B]</title>
-<info>[COLORyellow][B]Gaelic Games[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Tipperary_v_Wexford_live_Gaelic_Games/stream36</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 22:00 [/COLOR][/B][COLORwhite][B]NHL Anaheim Ducks at Minnesota Wild [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Anaheim_Ducks_at_Minnesota_Wild_live_Hockey/nhl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 22:00 [/COLOR][/B][COLORwhite][B]NHL New York Rangers at Ottawa Senators [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Rangers_at_Ottawa_Senators_live_Hockey/nhl3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]19:00 - 21:30 [/COLOR][/B][COLORwhite][B]Boxing George Groves vs Chris Eubank Jr Undercards [/COLOR][/B]</title>
-<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/George_Groves_vs_Chris_Eubank_Jr_Undercards_live_Boxing/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]21:00 - 00:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers at Arizona Coyotes [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_at_Arizona_Coyotes_live_Hockey/nhl4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
 <title>[COLORred][B]21:30 - 00:00 [/COLOR][/B][COLORwhite][B]Boxing George Groves vs Chris Eubank Jr [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/George_Groves_vs_Chris_Eubank_Jr_live_Boxing/stream6</sublink></link>
+<sublink>https://usher.ttvnw.net/api/channel/hls/ulanora1vg.m3u8?allow_source=true&baking_bread=true&baking_brownies=true&baking_brownies_timeout=1050&fast_bread=false&p=298747&player_backend=mediaplayer&rtqos=control&sig=9a095e73a1d54fc4e330cf8348f731432d30abb8&token=%7B%22adblock%22%3Afalse%2C%22player_type%22%3A%22embed%22%2C%22platform%22%3A%22web%22%2C%22user_id%22%3Anull%2C%22channel%22%3A%22ulanora1vg%22%2C%22channel_id%22%3A196862628%2C%22expires%22%3A1518901878%2C%22chansub%22%3A%7B%22view_until%22%3A1924905600%2C%22restricted_bitrates%22%3A%5B%5D%7D%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22https_required%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22device_id%22%3A%22w4qWpBNTl0z6wWroMjZADD8Ytv5JJd3O%22%2C%22turbo%22%3Afalse%2C%22subscriber%22%3Afalse%2C%22hide_ads%22%3Afalse%2C%22partner%22%3Afalse%2C%22game%22%3Anull%2C%22mature%22%3Afalse%2C%22ci_gb%22%3Afalse%7D(1080p)</sublink>
+<sublink>http://ukdvb1.uk.to:8085/ITV-Box-Office/mpegts?token=hcWUvw2Ur3</sublink></link>
+<sublink>http://www.sycamoresports.net/mount/chapo176/index.m3u8</sublink>
+<sublink>http://195.252.68.245:1935/KLIKTV_2/smil:pink73.mf.smil/playlist.m3u8</sublink>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
+<item>
+<title>[COLORred][B]21:30 - 00:00 [/COLOR][/B][COLORwhite][B]Boxing George Groves vs Chris Eubank Jr [/COLOR][/B]</title>
+<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Montreal Canadiens at Vegas Golden Knights [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
