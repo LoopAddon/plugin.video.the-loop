@@ -9,7 +9,7 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-<plugin>
+<item>
 <title>[COLORred][B]14:30 - 17:15 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live Leicester Tigers v Harlequins [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
 <link>
@@ -17,16 +17,7 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]Denmark - Super Liga Silkeborg vs Lyngby [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Silkeborg_vs_Lyngby_live_Football/stream40</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - FA Cup Brighton - Hove Albion vs Coventry City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
