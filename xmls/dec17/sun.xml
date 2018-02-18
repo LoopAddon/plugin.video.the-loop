@@ -2,24 +2,33 @@
 <title>[COLORred][B]11:30 - 13:30 [/COLOR][/B][COLORwhite][B]Italy - Serie A Torino vs Juventus [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://bit.ly/2ocCX7b</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Torino_vs_Juventus_live_Football/stream11</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Championship Norwich City vs Ipswich Town [/COLOR][/B]</title>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]Championship - Norwich City vs Ipswich Town [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Norwich_City_vs_Ipswich_Town_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <plugin>
-<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Hamilton Academical vs Rangers [/COLOR][/B]</title>
+<title>[COLORred][B]14:15 - 16:15 [/COLOR][/B][COLORwhite][B]SPL - Hamilton Academical vs Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Hamilton_Academical_vs_Rangers_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -29,6 +38,7 @@
 <title>[COLORred][B]14:30 - 17:15 [/COLOR][/B][COLORwhite][B]Rugby Union Live - Wasps v Exeter Chiefs [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
 <link>
+<sublink>http://bit.ly/2ocCX7b</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Wasps_v_Exeter_Chiefs_live_Rugby_Union_-_Domestic/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -38,6 +48,7 @@
 <title>[COLORred][B]14:45 - 17:00 [/COLOR][/B][COLORwhite][B]Live Rugby League Championship Halifax RLFC v Toronto Wolfpack [/COLOR][/B]</title>
 <info>[COLORyellow][B]Rugby League - Domestic[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Premiere-Sports/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Halifax_RLFC_v_Toronto_Wolfpack_live_Rugby_League_-_Domestic/stream36</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -83,6 +94,7 @@
 <title>[COLORred][B]19:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live NASCAR 2018 Daytona 500 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Premiere-Sports/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Daytona_500_live_Motor_Sport/stream36</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
