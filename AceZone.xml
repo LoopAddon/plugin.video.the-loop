@@ -9,50 +9,232 @@
  
 <channel><name>[COLOR cadetblue][B]Acestream Live Events [/B][/COLOR]</name><link>http://ignoreme</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
 <channel><name>[COLOR red]Plexus & Acestream needed for these links to work [/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
-<channel><name>[COLOR slategrey][I]Live Events will be refreshed as they become available  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
-<channel><name>[COLOR slategrey][I](back out of the Live Events List & re-enter to update)  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
-<channel><name>[COLOR slategrey][I] Please remember its best to use VPN with Acestream links  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
+<channel><name>[COLOR yellow][I]Live Events will be refreshed as they become available  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
+<channel><name>[COLOR yellow][I](back out of the Live Events List & re-enter to update)  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
+<channel><name>[COLOR yellow][I] Please remember its best to use VPN with Acestream links  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
 <channel><name>[COLOR red] --------------------------------------------------------------------------------- [/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
 
+<channel><name>[COLOR gold]<<<<<<<< FOOTBALL >>>>>>>>[/COLOR]</name><link>http://ignoreme</link><thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail><fanart>https://i.imgur.com/3DI8qHP.png</fanart></channel>
+
 <channel>
-<name>[COLOR white]Groves vs Eubank Jr.[/COLOR]</name>
+<name>[COLOR white][19:30 GMT] Eintracht Frankfurt vs RB Leipzig[/COLOR]</name>
 <link>ignore</link>
 <thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 <fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 <items>
 	<item>
-		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://70c24a0a1eb6015c642b65e58f4c104ec77f7000&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][19:30 GMT] Eintracht Frankfurt vs RB Leipzig - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d52a86863abe9e7f7791fb7e33b9847fe134fb0c&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://b56c4c030e66baec8f9b65a88a84b5646722aa4c&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][19:30 GMT] Eintracht Frankfurt vs RB Leipzig - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://f28bcb602f53b082479345073b7b10626e5632a0&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://3ef63a385f1a7e9a817b53c48c0b6e146b84b031&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][19:30 GMT] Eintracht Frankfurt vs RB Leipzig - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://cb7b5864744efb91df93eb93a9f52033f06614ae&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://368eb3580fe1a4c955905fb4ae8055f27e90fb6b&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][19:30 GMT] Eintracht Frankfurt vs RB Leipzig - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d52a86863abe9e7f7791fb7e33b9847fe134fb0c&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://368eb3580fe1a4c955905fb4ae8055f27e90fb6b&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][19:30 GMT] Eintracht Frankfurt vs RB Leipzig - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://f28bcb602f53b082479345073b7b10626e5632a0&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue]Groves vs Eubank Jr. - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://451b800808144195da964eb70fbb6919f6ee9ea7&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][19:30 GMT] Eintracht Frankfurt vs RB Leipzig - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://cb7b5864744efb91df93eb93a9f52033f06614ae&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[COLOR white][19:45 GMT] Lazio vs Hellas Verona[/COLOR]</name>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+<items>
+	<item>
+		<title>[COLOR cadetblue][19:45 GMT] Lazio vs Hellas Verona - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://0edf47d20a684e362ec7b299f92389d6dd0b4292&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:45 GMT] Lazio vs Hellas Verona - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://55caf33fcc638e69f1fdf68ae7ef495307a3ed31&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:45 GMT] Lazio vs Hellas Verona - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://0421d12581b06cc996490d5f624e0e7408677375&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:45 GMT] Lazio vs Hellas Verona - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://0edf47d20a684e362ec7b299f92389d6dd0b4292&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:45 GMT] Lazio vs Hellas Verona - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://55caf33fcc638e69f1fdf68ae7ef495307a3ed31&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:45 GMT] Lazio vs Hellas Verona - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://0421d12581b06cc996490d5f624e0e7408677375&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[COLOR white][19:55 GMT] Wigan Athletic vs Manchester City[/COLOR]</name>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+<items>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://91407447a28e98a91c9118fcdfe4d777a1af8788&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://75703cf02401ba8a402c77989bfaaf3895cb12ea&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://2726a83ba7902b682050aab51f61b89a737b7cab&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://0f2a5be56a7dbb841ab875e4af02165b64d3a11c&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://847e8c64757eceb51076e24c41e6df4cdcb34cb0&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://91407447a28e98a91c9118fcdfe4d777a1af8788&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 7[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://75703cf02401ba8a402c77989bfaaf3895cb12ea&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 8[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://2726a83ba7902b682050aab51f61b89a737b7cab&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 9[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://0f2a5be56a7dbb841ab875e4af02165b64d3a11c&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][19:55 GMT] Wigan Athletic vs Manchester City - [COLOR FFff8397b0][I]Link 10[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://847e8c64757eceb51076e24c41e6df4cdcb34cb0&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[COLOR white][20:00 GMT] Getafe vs Celta Vigo[/COLOR]</name>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+<items>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Getafe vs Celta Vigo - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d47620552aae0b25189c023c95c46e7268050875&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Getafe vs Celta Vigo - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://739ff92cd35416ec588ce0927a8558513e833b80&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Getafe vs Celta Vigo - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://f0bed93a024dd7c5179007df96f919119a386762&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Getafe vs Celta Vigo - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d47620552aae0b25189c023c95c46e7268050875&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Getafe vs Celta Vigo - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://739ff92cd35416ec588ce0927a8558513e833b80&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Getafe vs Celta Vigo - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://f0bed93a024dd7c5179007df96f919119a386762&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[COLOR white][20:00 GMT] Tondela x Sporting CP[/COLOR]</name>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+<items>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Tondela x Sporting CP - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://548d750b31e5fdcad4346b33e748ab3e9cd47394&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Tondela x Sporting CP - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://548d750b31e5fdcad4346b33e748ab3e9cd47394&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
 		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
 	</item>
@@ -60,4 +242,24 @@
  
 </channels>
  
-k 4[/COLOR][/I]</titl
+pg</fanart>
+	</item>
+</items>
+</channel>
+ 
+<channel>
+<name>[COLOR white][20:00 GMT] Tondela x Sporting CP[/COLOR]</name>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+<items>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Tondela x Sporting CP - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://548d750b31e5fdcad4346b33e748ab3e9cd47394&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/3DI8qHP.png</thumbnail>
+		<fanart>https://i.imgur.com/3DI8qHP.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][20:00 GMT] Tondela x Sporting CP - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://548d750b31e5fdcad4346b33e748ab3e9cd47394&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<th
