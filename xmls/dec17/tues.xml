@@ -5,6 +5,8 @@
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1519164240~acl%3D%252f*~hmac%3Daf6a62591944bc1f2316a0d3d7ff19e2d809dc8297a0a3c8e02c710423d0189d&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1519164240~acl%3D%252f*~hmac%3Daf6a62591944bc1f2316a0d3d7ff19e2d809dc8297a0a3c8e02c710423d0189d&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/20/0220_bayern_360_n2b/master_1.m3u8</sublink>
+<sublink>http://watch.necroiptv.com/live/Q62MGiQ9Bk/6DFY0daax7/4001.m3u8</sublink>
+<sublink>http://185.231.160.49/598/3/index.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Bayern_Munchen_vs_Besiktas_live_Football/stream2</sublink></link>
 <thumbnail>http://movietvtechgeeks.com/wp-content/uploads/2015/03/uefa-champions-league-logo-images-2015.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/571/571559.jpg</fanart>
@@ -16,6 +18,15 @@
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1519164171~acl%3D%252f*~hmac%3D55225173f73af8ff7373322f64a5ea80eb8aad48a05cbf9b4cfc886953b4e1bd&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1519164171~acl%3D%252f*~hmac%3D55225173f73af8ff7373322f64a5ea80eb8aad48a05cbf9b4cfc886953b4e1bd&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/20/0220_chelsea_360_n1a/master_2.m3u8</sublink>
+<sublink>http://93.115.29.27:8081/live/live/chunks.m3u8</sublink>
+<sublink>http://hdcast.root.sx/hls/BTsports2_2q6y9urd/index.m3u8?st=t8hwAR89YDHA2MxmV-UJTw&e=1519156750</sublink>
+<sublink>http://tier5.therugbybase.us/o8/4601.m3u8?sf=NTc4MzhmYzdiMGMyNA==&token=RhX4992GV1rcdGzZtO6tlA&expires=1519160809</sublink>
+<sublink>http://185.231.160.49/654/3/index.m3u8</sublink>
+<sublink>http://alpha01.streaming.mediaservices.windows.net/e6529551-344f-44e6-87dd-990e604c9369/9e7361dd-a6f9-4bbe-a8b2-17cd19f7a17f.ism/QualityLevels(976000)</sublink>
+<sublink>http://sportstv-1872968023.us-west-1.elb.amazonaws.com/tv/d6tp3a0pv9ksu_fs1_8.m3u8</sublink>
+<sublink>http://watch.necroiptv.com/live/Q62MGiQ9Bk/6DFY0daax7/4002.m3u8</sublink>
+<sublink>http://trn.riere.club/live/c43/chunks.m3u8</sublink>
+<sublink>http://chi.bankai.stream/live.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Barcelona_live_Football/btsports2</sublink></link>
 <thumbnail>http://movietvtechgeeks.com/wp-content/uploads/2015/03/uefa-champions-league-logo-images-2015.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/571/571559.jpg</fanart>
