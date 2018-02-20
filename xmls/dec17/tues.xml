@@ -4,6 +4,7 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1519164240~acl%3D%252f*~hmac%3Daf6a62591944bc1f2316a0d3d7ff19e2d809dc8297a0a3c8e02c710423d0189d&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1519164240~acl%3D%252f*~hmac%3Daf6a62591944bc1f2316a0d3d7ff19e2d809dc8297a0a3c8e02c710423d0189d&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/20/0220_bayern_360_n2b/master_1.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Bayern_Munchen_vs_Besiktas_live_Football/stream2</sublink></link>
 <thumbnail>http://movietvtechgeeks.com/wp-content/uploads/2015/03/uefa-champions-league-logo-images-2015.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/571/571559.jpg</fanart>
@@ -14,6 +15,7 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1519164171~acl%3D%252f*~hmac%3D55225173f73af8ff7373322f64a5ea80eb8aad48a05cbf9b4cfc886953b4e1bd&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1519164171~acl%3D%252f*~hmac%3D55225173f73af8ff7373322f64a5ea80eb8aad48a05cbf9b4cfc886953b4e1bd&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
+<sublink>http://hlsremote-akc1.eu1.foxsportsgo.com/out/u/foxsports/2018/02/20/0220_chelsea_360_n1a/master_2.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Barcelona_live_Football/btsports2</sublink></link>
 <thumbnail>http://movietvtechgeeks.com/wp-content/uploads/2015/03/uefa-champions-league-logo-images-2015.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/571/571559.jpg</fanart>
