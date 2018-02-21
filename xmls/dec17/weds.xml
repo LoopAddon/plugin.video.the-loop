@@ -4,6 +4,10 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1519256223~acl%3D%252f*~hmac%3Dece7144629a0b2143b35357c14506b31c89ca820f9766f9b6b6e6f07689669f1&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1519256223~acl%3D%252f*~hmac%3Dece7144629a0b2143b35357c14506b31c89ca820f9766f9b6b6e6f07689669f1&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
+<sublink>http://streamx24.xyz/indo/ten2-master.m3u8</sublink>
+<sublink>http://live.troock.net/hls/troock.m3u8</sublink>
+<sublink>http://enter.pdns.cz:8081/hls/dubsIS2buuf16/chunks.m3u8</sublink>
+<sublink>http://sportstv-1836036501.us-west-1.elb.amazonaws.com/tv/d6tp3a0pv9ksu_fs1_14.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Shakhtar_Donetsk_vs_Roma_live_Football/stream1</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -14,8 +18,12 @@
 <link>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1519253710~acl%3D%252f*~hmac%3D25bb15a81007e7ad21be7474c05bfe2892e257fb9ad5849c9fa300e07602e8f8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
 <sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1519253710~acl%3D%252f*~hmac%3D25bb15a81007e7ad21be7474c05bfe2892e257fb9ad5849c9fa300e07602e8f8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
+<sublink>http://streamx24.xyz/indo/six-master.m3u8</sublink>
 <sublink>http://watch.necroiptv.com/live/Q62MGiQ9Bk/6DFY0daax7/4001.m3u8</sublink>
+<sublink>http://live.pdns.cz:8081/hls/dubsIS2buuf15/chunks.m3u8</sublink>
+<sublink>http://live.pdns.cz:8081/hls/dubsIS2buuf15/chunks.m3u8</sublink>
 <sublink>http://185.231.160.49/598/3/index.m3u8</sublink>
+<sublink>http://hdcast.root.sx/hls/eirsport1_jvsyxeih/index.m3u8?st=GrKEYyX_Fe3glPoA6Oo43Q&e=1519243067</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Shakhtar_Donetsk_vs_Roma_live_Football/stream1</sublink></link>
 <fanart></fanart>
 </item>
