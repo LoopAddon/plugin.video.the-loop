@@ -1,31 +1,39 @@
-<plugin>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Sevilla vs Manchester United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1519253710~acl%3D%252f*~hmac%3D25bb15a81007e7ad21be7474c05bfe2892e257fb9ad5849c9fa300e07602e8f8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1519253710~acl%3D%252f*~hmac%3D25bb15a81007e7ad21be7474c05bfe2892e257fb9ad5849c9fa300e07602e8f8&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sevilla_vs_Manchester_United_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Shakhtar Donetsk vs Roma [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1519256223~acl%3D%252f*~hmac%3Dece7144629a0b2143b35357c14506b31c89ca820f9766f9b6b6e6f07689669f1&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1519256223~acl%3D%252f*~hmac%3Dece7144629a0b2143b35357c14506b31c89ca820f9766f9b6b6e6f07689669f1&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Shakhtar_Donetsk_vs_Roma_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Championship Derby County vs Leeds United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Derby_County_vs_Leeds_United_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Ottawa Senators at Chicago Blackhawks [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -33,8 +41,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Dallas Stars at Anaheim Ducks [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -42,8 +50,8 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Calgary Flames at Vegas Golden Knights [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
@@ -51,4 +59,4 @@
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
