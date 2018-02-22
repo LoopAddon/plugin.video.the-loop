@@ -1,74 +1,24 @@
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Atletico Madrid vs Kobenhavn [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Atletico_Madrid_vs_Kobenhavn_live_Football/stream25</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Dynamo Kyiv vs AEK Athens [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dynamo_Kyiv_vs_AEK_Athens_live_Football/stream38</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Lazio vs Steaua Bucuresti [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Lazio_vs_Steaua_Bucuresti_live_Football/stream11</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
+<item>
 <title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League RB Leipzig vs Napoli [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_7.m3u8|Cookie=hdnea%3Dexp%3D1518742399~acl%3D%252f*~hmac%3D1c0a888a053000b06966ee274b0945066be11e284d3549054e90af9974d14d24&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_6.m3u8|Cookie=hdnea%3Dexp%3D1518742399~acl%3D%252f*~hmac%3D1c0a888a053000b06966ee274b0945066be11e284d3549054e90af9974d14d24&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/RB_Leipzig_vs_Napoli_live_Football/stream14</sublink></link><referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Sporting CP vs Astana [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sporting_CP_vs_Astana_live_Football/stream21</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Viktoria Plzen vs Partizan [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Viktoria_Plzen_vs_Partizan_live_Football/stream47</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Villarreal vs Olympique Lyonnais [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Villarreal_vs_Olympique_Lyonnais_live_Football/stream9</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Zenit vs Celtic [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Zenit_vs_Celtic_live_Football/stream24</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]18:00 - 22:00 [/COLOR][/B][COLORwhite][B]UEFA Europa League Simulcast [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
@@ -109,6 +59,8 @@
 <title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Arsenal vs Ostersunds FK [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Ostersunds_FK_live_Football/btsports2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -118,42 +70,17 @@
 <title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Atalanta vs Borussia Dortmund [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Atalanta_vs_Borussia_Dortmund_live_Football/stream15</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Athletic Club vs Spartak Moskva [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Athletic_Club_vs_Spartak_Moskva_live_Football/stream25</sublink></link>
-<referer></referer>
+<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_7.m3u8|Cookie=hdnea%3Dexp%3D1518742399~acl%3D%252f*~hmac%3D1c0a888a053000b06966ee274b0945066be11e284d3549054e90af9974d14d24&User-Agent=BTSport%234.12.2%23Android%237.0</sublink>
+<sublink>https://t2-btsport-live-hls-prod.akamaized.net/out/u/bts1/4195_6.m3u8|Cookie=hdnea%3Dexp%3D1518742399~acl%3D%252f*~hmac%3D1c0a888a053000b06966ee274b0945066be11e284d3549054e90af9974d14d24&User-Agent=BTSport%234.12.2%23Android%237.0</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
 <plugin>
 <title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Milan vs Ludogorets [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 1080)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1518741360~acl%3D%252f*~hmac%3Db90ea58c7a9dbb1d55b65f5940291a5d72319fe8befbb0362dc1c196fbfe5f93&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sport 720)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milan_vs_Ludogorets_live_Football/stream24</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Salzburg vs Real Sociedad [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Salzburg_vs_Real_Sociedad_live_Football/stream59</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Sporting Braga vs Olympique Marseille [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Sporting_Braga_vs_Olympique_Marseille_live_Football/stream20</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
