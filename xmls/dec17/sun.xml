@@ -1,122 +1,204 @@
 <item>
-<title>[COLORred][B]18:00 - 21:00 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers @ New York Rangers [/COLOR][/B]</title>
+<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Tottenham Hotspur [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Tottenham_Hotspur_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]12:30 - 15:15 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live London Irish v Worcester [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_London_Irish_v_Worcester_live_Rugby_Union_-_Domestic/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Aberdeen vs Celtic [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Aberdeen_vs_Celtic_live_Football/stream32</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]14:05 - 16:05 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester United vs Chelsea [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Chelsea_live_Football/skysportsmainevent</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]14:45 - 17:00 [/COLOR][/B][COLORwhite][B]Live Rugby League Championship London Broncos v Toronto Wolfpack [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby League - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/London_Broncos_v_Toronto_Wolfpack_live_Rugby_League_-_Domestic/stream36</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]15:15 - 17:45 [/COLOR][/B][COLORwhite][B]Live Aviva Premiership Rugby Union Live Saracens v Leicester Tigers [/COLOR][/B]</title>
+<info>[COLORyellow][B]Rugby Union - Domestic[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Saracens_v_Leicester_Tigers_live_Rugby_Union_-_Domestic/btsports1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - League Cup Manchester City vs Arsenal [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_Arsenal_live_Football/stream1</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]17:00 - 20:00 [/COLOR][/B][COLORwhite][B]NHL St. Louis Blues at Nashville Predators [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519066204~acl=/*~id=nhlGatewayId:6784629~data=57656203~hmac=fad7088b64a6f267854856e51e3abd93c763194f44fddb18c7e5e30ece9044ef/4dc27ea00d893e428f63b57bd722939b/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_PHINYR_M2_FRENCH_20180218_1518464775084/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(FRENCH)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519066216~acl=/*~id=nhlGatewayId:6784629~data=57656403~hmac=5683a32b48d23cf9e92a5be776c594ef68e75103489a1e319e4a9ea2df486a95/0edd8f3271de5c3b668a06d7a48e8772/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_PHINYR_M2_COMPOSITE_3X_20180218_1518464775281/master_wired_web.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(COMPOSITE)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519066228~acl=/*~id=nhlGatewayId:6784629~data=57656503~hmac=91ecd230beffe4a13e913840e86031f3be8d024247a47a8067473edc4be99769/f378cccc2b182affe65a09aa142f837d/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_PHINYR_M2_NATIONAL_20180218_1518464845814/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(NATIONAL)</sublink>
-<sublink>http://ukdvb1.uk.to:8085/NBC/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ilvc05.ec.ustvnow.com/ilv01/pr/xxe/smil:1F797WGALUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f9450009fc86b27c55fd8f1efb88cb1981c4fb3d61823e3caa5614e031a5b9107f</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_New_York_Rangers_live_Hockey/nhl1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/St_Louis_Blues_at_Nashville_Predators_live_Hockey/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:00 - 00:00 [/COLOR][/B][COLORwhite][B]Live NASCAR 2018 Daytona 500 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/Premiere-Sports/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ilvc06.ec.ustvnow.com/ilv61/pr/xxe/smil:D5267WPMTUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726285299af87fe04743a02a9c985a1920f9450009fc86b27c55fd8f1efb88cb1981c4fb3d61823e3caa5614e031a5b9107f</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Daytona_500_live_Motor_Sport/stream36</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers @ Colorado Avalanche [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_Colorado_Avalanche_live_Hockey/nhl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Wichita - Cincinnati [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Wichita_-_Cincinnati_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils @ Carolina Hurricanes [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519077046~acl=/*~id=nhlGatewayId:6784629~data=57657503~hmac=6d71a65bbe267afd45602fe22252ce204eafc3f02667a5fcb2f89016498c17c9/de0aae9679761be059d319e231b24314/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_NJDCAR_M2_HOME_20180218_1518465075893/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(HOME)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519077054~acl=/*~id=nhlGatewayId:6784629~data=57657603~hmac=d2e2efe456eff62f8c2cb73451b8270d835773a42c04b5074a1c6dec352173f4/df00b7edbe31cc9bf986e86b096579f7/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_NJDCAR_M2_VISIT_20180218_1518465076056/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(AWAY)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519077062~acl=/*~id=nhlGatewayId:6784629~data=57658103~hmac=9895fedbd711467cf68ffda25073ff31a7981b082c7823db256c3b09a98e4db5/2edecad988b3fc2e0a830a1b52c87902/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_NJDCAR_M2_COMPOSITE_3X_20180218_1518465076476/master_wired_web.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(COMPOSITE)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_Carolina_Hurricanes_live_Hockey/nhl3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:00 - 01:00 [/COLOR][/B][COLORwhite][B]Live College Basketball Live CBB: Pittsburgh - FL State [/COLOR][/B]</title>
-<info>[COLORyellow][B]Basketball[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Wichita_-_Cincinnati_live_Basketball/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Pittsburgh Penguins @ Columbus Blue Jackets [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519080639~acl=/*~id=nhlGatewayId:6784629~data=57658303~hmac=731e98e6c2a283f75108651cc46b07340581dd4d7366e363e7acbb7c22e0f66b/54094d8f1ad4aec762906a3a1bf44b5c/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_PITCBJ_M2_HOME_20180218_1518465185116/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(HOME)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519080647~acl=/*~id=nhlGatewayId:6784629~data=57658403~hmac=d1f358369c9b6c86eeddc54f22029bb6565ce6a0015a58b68f184234a97319cc/25305753a5272826721a3287f66be499/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_PITCBJ_M2_VISIT_20180218_1518465185287/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(AWAY)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519080654~acl=/*~id=nhlGatewayId:6784629~data=57658903~hmac=c49b5c6f18685bc133b0cd68fec56a7866c2198844494cfbc378e96316d2fd39/665e96a19c3f33ddcf57343e20020aea/ls03/nhl/2018/02/18/NHL_GAME_VIDEO_PITCBJ_M2_COMPOSITE_3X_20180218_1518465185721/master_wired_web.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(COMPOSITE)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Pittsburgh_Penguins_Columbus_Blue_Jackets_live_Hockey/nhl4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Toronto Maple Leafs @ Detroit Red Wings [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519084275~acl=/*~id=nhlGatewayId:6784629~data=57659103~hmac=670d974f2d32e1a742b9ec8fc288b107ccc7452760441f9835bbe31c4a484952/48cc918c218799cd8401f94a2b2f013e/ls03/nhl/2018/02/19/NHL_GAME_VIDEO_TORDET_M2_HOME_20180219_1518465400952/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(HOME)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519084283~acl=/*~id=nhlGatewayId:6784629~data=57659203~hmac=325b130513595d68d223797f1276fa17df2a9838bf3f5bea3a3af6e9c58accb4/2d5515b6a7b5a1b4ad8b8d6920b7be7f/ls03/nhl/2018/02/19/NHL_GAME_VIDEO_TORDET_M2_VISIT_20180219_1518465401115/master_wired60.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(AWAY)</sublink>
-<sublink>http://hlslive-akc.med2.med.nhl.com/hdnts=exp=1519084291~acl=/*~id=nhlGatewayId:6784629~data=57659703~hmac=a7955e1d578f9b68fb9579851bba900b56be11760814b0c7bb94b6cd9155493e/7f94db51b3e094bdd9102da5e1d01619/ls03/nhl/2018/02/19/NHL_GAME_VIDEO_TORDET_M2_COMPOSITE_3X_20180219_1518465401540/master_wired_web.m3u8|NHL/11479 CFNetwork/887 Darwin/17.0.0&Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjY3MzUwMjAiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTUyNDk2MDA2OCwidHlwZSI6IlVzZXIiLCJpYXQiOjE0OTM0MjQwNjgsInVzZXJpZCI6IjY0YjM0N2I4LTRhZjMtNGMzZi1iNDdiLTJhNzQ5YTNjODI1Ni0xNDQ1NC05MWY2ZmY4OGM3OGQxN2JlYjk4MTI0NzAwY2QxYTEyOGVlZTVlMTc1IiwidmVyc2lvbiI6InYxLjAiLCJwY19tYXhfcmF0aW5nX3R2IjoiIiwiZW1haWwiOiJtcmhhcHB5MTk4NjAxQGdtYWlsLmNvbSJ9.FCG_g_Wg8LTKZAACcmghoW-Gw5r06xrGy6jmPBMk0l0; mediaAuth=88c707ab69e95ae2444dc4a861861c4a4e50ee2c7ffdfdc188fb6c4bca9fa2dd44040146a051ea55e696be041bc7b97c519199c11aa1839f161f65ef4fc7bfbc10b2e017ee34c0dfec137660fe52663368c66cb0a31148d8d0619470302a74faaba9d88f6fb3c0f14200b708c1ac392f6bb3c2f2030aaed7701003e9b6234b794862ffd9e3ab17670f0cfd4d5181e007c331fbeef231ef97f1c12fb9e6e146b679e8a255839f5be94f2baf0de72edbc5d55603a2dc69cbfbb2b147e5fda94e9b7f61897b11429cfb(COMPOSITE)</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Maple_Leafs_Detroit_Red_Wings_live_Hockey/nhl5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA 67th NBA All-Star Game [/COLOR][/B]</title>
+<title>[COLORred][B]18:00 - 22:00 [/COLOR][/B][COLORwhite][B]NBA Detroit Pistons at Charlotte Hornets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>http://ukdvb1.uk.to:8085/ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-ESPN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_CBB_Wichita_-_Cincinnati_live_Basketball/stream37</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Pistons_at_Charlotte_Hornets_live_NBA/nba1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Dallas Stars @ San Jose Sharks [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<title>[COLORred][B]18:30 - 23:00 [/COLOR][/B][COLORwhite][B]Live NASCAR 2018 Folds of Honor QuikTrip 500 [/COLOR][/B]</title>
+<info>[COLORyellow][B]Motor Sport[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Stars_San_Jose_Sharks_live_Hockey/nhl6</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Folds_of_Honor_QuikTrip_500_live_Motor_Sport/stream36</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Florida Panthers @ Winnipeg Jets [/COLOR][/B]</title>
+<title>[COLORred][B]19:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live JD Nxtgen Boxing Lewis Ritson v Joe Murray [/COLOR][/B]</title><info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Lewis_Ritson_v_Joe_Murray_live_Boxing/skysportsaction</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Italy - Serie A Roma vs Milan [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Roma_vs_Milan_live_Football/stream11</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NBA New Orleans Pelicans at Milwaukee Bucks [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Pelicans_at_Milwaukee_Bucks_live_NBA/nba2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA San Antonio Spurs at Cleveland Cavaliers [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Antonio_Spurs_at_Cleveland_Cavaliers_live_NBA/nba3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NHL Boston Bruins at Buffalo Sabres [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Bruins_at_Buffalo_Sabres_live_NBA/nhl2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]00:00 - 01:00 [/COLOR][/B][COLORwhite][B]WWE Elimination Chamber Kick Off [/COLOR][/B]</title>
+<info>[COLORyellow][B]WWE[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Elimination_Chamber_Kick_Off_live_WWE/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Detroit Red Wings at New York Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Florida_Panthers_Winnipeg_Jets_live_Hockey/nhl7</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Red_Wings_at_New_York_Rangers_live_Hockey/nhl3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Philadelphia 76ers at Washington Wizards [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_76ers_at_Washington_Wizards_live_NBA/nba4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Houston Rockets at Denver Nuggets [/COLOR][/B]</title>
+<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Houston_Rockets_at_Denver_Nuggets_live_NBA/nba5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Edmonton Oilers at Anaheim Ducks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Edmonton_Oilers_at_Anaheim_Ducks_live_Hockey/nhl4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL San Jose Sharks at Minnesota Wild [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Jose_Sharks_at_Minnesota_Wild_live_Hockey/nhl5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]WWE Elimination Chamber [/COLOR][/B]</title>
+<info>[COLORyellow][B]WWE[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Elimination_Chamber_live_WWE/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]02:30 - 05:30 [/COLOR][/B][COLORwhite][B]NHL Vancouver Canucks at Arizona Coyotes [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vancouver_Canucks_at_Arizona_Coyotes_live_Hockey/nhl6</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
