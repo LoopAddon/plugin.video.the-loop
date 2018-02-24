@@ -19,6 +19,9 @@
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>http://enter.pdns.cz:8081/hls/buuf2/chunks.m3u8</sublink>
+<sublink>https://unitedstreams4all.b-cdn.net/cdn/soccer1/chunks.m3u8</sublink>
+<sublink>http://93.115.29.27:8081/live/live/chunks.m3u8</sublink>
+<sublink>http://sportstv-1836036501.us-west-1.elb.amazonaws.com/tv/dh9vna3b9tyaz_cnbc_11.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leicester_City_vs_Stoke_City_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
