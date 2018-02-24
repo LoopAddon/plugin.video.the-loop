@@ -2,7 +2,6 @@
 <title>[COLORred][B]20:30 - 00:30 [/COLOR][/B][COLORwhite][B]PPV Boxing Callum Smith vs Nieky Holzken [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
 <link>
-<sublink>http://ukdvb1.uk.to:8085/ITV-Box-Office-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/ITV-Box-Office/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Callum_Smith_vs_Nieky_Holzken_live_Boxing/stream3</sublink></link>
 <referer></referer>
@@ -11,15 +10,6 @@
 </item>
 <item>
 <title>[COLORred][B]20:30 - 00:30 [/COLOR][/B][COLORwhite][B]Live Boxing Live: Yarde v Averlant [/COLOR][/B]</title>
-<info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Yarde_v_Averlant_live_Boxing/stream6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]20:30 - 00:00 [/COLOR][/B][COLORwhite][B]BT Sport Fight Night Live 2018 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
 <link>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
