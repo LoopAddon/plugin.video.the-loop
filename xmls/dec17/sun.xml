@@ -14,8 +14,15 @@
 <item>
 <title>[COLORred][B]16:30 - 18:30 [/COLOR][/B][COLORwhite][B]England - League Cup Manchester City vs Arsenal [/COLOR][/B]</title><info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://content-aeuf1.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4/h.m3u8?pbs=71bf95fd4b2b4bfaade0c412c571fac8</sublink>
+<sublink>http://ripple.is/live/espn3.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>  
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://test900.gcdn.co/s/links.m3u8</sublink>
+<sublink>http://sportstv-1836036501.us-west-1.elb.amazonaws.com/tv/d2dkqhv7di9c35_espn_7.m3u8</sublink>
+<sublink>http://93.115.29.27:8081/live/live/chunks.m3u8</sublink>
+<sublink>http://enter.pdns.cz:8081/hls/IS2buuf10LS75703cf02401ba8a402c77989bfaaf3895cb12ea/playlist.m3u8</sublink>
+<sublink>http://185.105.4.249:8081/live/stream2016tm12/playlist.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>  
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Tottenham_Hotspur_live_Football/skysportsmainevent</sublink></link>
