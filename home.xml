@@ -9,7 +9,7 @@
 </dir>
 
 <dir>
-        <name>Score Zone</name>
+        <name>Score Zone<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/ScoreZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/jMQzfCv.png</thumbnail>
@@ -27,7 +27,7 @@
 </dir>
 
 <dir>
-        <name>Test Zone</name>
+        <name>Test Zone<name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TestZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/8HazFEz.png</thumbnail>
@@ -36,7 +36,7 @@
 </dir>
 
 <plugin>
-        <name>Ace Zone</name>
+        <name>Ace Zone<name>
         <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
