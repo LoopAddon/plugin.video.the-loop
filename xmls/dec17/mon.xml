@@ -1,129 +1,33 @@
-<plugin>
-<title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB Boston Red Sox @ Pittsburgh Pirates [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Boston_Red_Sox_Pittsburgh_Pirates_live_Baseball/nfl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB Detroit Tigers @ Baltimore Orioles [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Tigers_Baltimore_Orioles_live_Baseball/nfl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB Houston Astros @ Miami Marlins [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Houston_Astros_Miami_Marlins_live_Baseball/nfl3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB St Louis Cardinals @ Minnesota Twins [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/St_Louis_Cardinals_Minnesota_Twins_live_Baseball/nfl4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB Toronto Blue Jays @ Tampa Bay Rays [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Blue_Jays_Tampa_Bay_Rays_live_Baseball/nfl5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB Washington Nationals @ Atlanta Braves [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Nationals_Atlanta_Braves_live_Baseball/nfl6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
+<item>
 <title>[COLORred][B]18:05 - 21:05 [/COLOR][/B][COLORwhite][B]MLB New York Mets @ Houston Astros [/COLOR][/B]</title>
 <info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
 <link>
+<sublink>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_York_Mets_Houston_Astros_live_Baseball/nfl7</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
+</item>
+<item>
 <title>[COLORred][B]18:45 - 22:00 [/COLOR][/B][COLORwhite][B]Live Snooker: Welsh Open 2018 Day One - 3 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Snooker[/COLOR][/B]</info>
 <link>
+<sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_wales_hd.m3u8|X-Forwaded-For=178.208.163.66(HD Wales)</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_One_-_3_live_Snooker/stream22</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Arizona Diamondbacks @ Cincinnati Reds [/COLOR][/B]</title>
+</item>
+<item>
+<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Los Angeles @ San Diego [/COLOR][/B]</title>
 <info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arizona_Diamondbacks_Cincinnati_Reds_live_Baseball/nfl8</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Cleveland Indians @ Milwaukee Brewers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cleveland_Indians_Milwaukee_Brewers_live_Baseball/nfl9</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Kansas City Royals @ San Francisco Giants [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kansas_City_Royals_San_Francisco_Giants_live_Baseball/nfl10</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Los Angeles Dodgers @ Texas Rangers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
+<sublink>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Dodgers_Texas_Rangers_live_Baseball/nfl11</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Oakland Athletics @ Chicago White Sox [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Oakland_Athletics_Chicago_White_Sox_live_Baseball/nfl12</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-<plugin>
-<title>[COLORred][B]20:05 - 23:05 [/COLOR][/B][COLORwhite][B]MLB Seattle Mariners @ Chicago Cubs [/COLOR][/B]</title>
-<info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Seattle_Mariners_Chicago_Cubs_live_Baseball/NFL13</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Washington Capitals @ Columbus Blue Jackets [/COLOR][/B]</title><info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
