@@ -80,13 +80,9 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Manchester City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Manchester_City_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<name>Arsenal vs Man.City</name>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
+<thumbnail>https://i.imgur.com/RRlZyV2.png</thumbnail>
 </plugin>
 <plugin>
 <title>[COLORred][B]20:05 - 00:00 [/COLOR][/B][COLORwhite][B]MLB Los Angeles Angels at San Francisco Giants [/COLOR][/B]</title>
