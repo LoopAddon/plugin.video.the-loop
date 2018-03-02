@@ -1,7 +1,10 @@
 <item>
 <title>[COLORred][B]ALL Day [/COLOR][/B][COLORwhite][B] UK Open Darts[/COLOR][/B]</title>
 <info>[COLORyellow][B]Baseball[/COLOR][/B]</info>
-<link>http://ukdvb1.uk.to:8085/ITV4-HD/mpegts?token=hcWUvw2Ur3</link>
+<link>
+<sublink>http://ukdvb1.uk.to:8085/ITV4-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>https://streamamghdl-lh.akamaihd.net/i/007pxw49d_1@410560/index_1_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1520083886~acl=%2fi%2f007pxw49d_1%40410560*~data=hdntl~hmac=9f7638b395910a563c83f9d04fc07c6a82e0244a8f7c5e0e7ea369f3e4171893</sublink>
+<sublink>https://streamamghdl-lh.akamaihd.net/i/007pxw49d_1@410560/index_1_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1520083886~acl=%2fi%2f007pxw49d_1%40410560*~data=hdntl~hmac=9f7638b395910a563c83f9d04fc07c6a82e0244a8f7c5e0e7ea369f3e4171893</sublink></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
