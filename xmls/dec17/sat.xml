@@ -2,20 +2,22 @@
 <title>[COLORred][B]ALL DAY [/COLOR][/B][COLORwhite][B]Live UK Open Darts 2018 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/ITV4-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Two_live_Darts/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]England - Premier League Burnley vs Everton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Burnley_vs_Everton_live_Football/skysportsmainevent</sublink></link>
 <referer></referer>
 <thumbnail>https://i1.wp.com/soccersweep.com/wp-content/uploads/2016/10/Burnley-v-Everton.jpg?w=634</thumbnail>
 <fanart>https://i1.wp.com/soccersweep.com/wp-content/uploads/2016/10/Burnley-v-Everton.jpg?w=634</fanart>
-</item>
+</plugin>
 <item>
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Celtic vs Greenock Morton [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
@@ -25,15 +27,7 @@
 <thumbnail>https://cdn-celticfc-net.cdn.ampproject.org/i/s/cdn.celticfc.net/assets/images/news/2544c28573091c8eee8364912d7766f8/6afadb0f3536ebb1624ff7c264bf1cc1.png</thumbnail>
 <fanart>https://cdn-celticfc-net.cdn.ampproject.org/i/s/cdn.celticfc.net/assets/images/news/2544c28573091c8eee8364912d7766f8/6afadb0f3536ebb1624ff7c264bf1cc1.png</fanart>
 </item>
-<item>
-<title>[COLORred][B]12:45 - 16:45 [/COLOR][/B][COLORwhite][B]Live Darts 2018 Day Two [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Two_live_Darts/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+
 <item>
 <title>[COLORred][B]15:00 - 17:00 [/COLOR][/B][COLORwhite][B]England - Premier League Southampton vs Stoke City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
