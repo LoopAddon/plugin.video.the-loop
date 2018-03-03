@@ -89,6 +89,10 @@
 <title>[COLORred][B]19:30 - 23:30 [/COLOR][/B][COLORwhite][B]Live Fight Night Kell Brook v Sergey Rabchenko [/COLOR][/B]</title>
 <info>[COLORyellow][B]Boxing[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Action-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Action/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Kell_Brook_v_Sergey_Rabchenko_live_Boxing/skysportsaction</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -98,6 +102,8 @@
 <title>[COLORred][B]21:00 - 23:00 [/COLOR][/B][COLORwhite][B]Live Cage Warriors 91 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Martial Sports[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-1/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Live_Cage_Warriors_91_live_Martial_Sports/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
