@@ -20,24 +20,16 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
+<plugin>
 <title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]England - Premier League Brighton - Hove Albion vs Arsenal [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Brighton_-_Hove_Albion_vs_Arsenal_live_Football/stream2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
+</plugin>
+<plugin>
 <title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester City vs Chelsea [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_City_vs_Chelsea_live_Football/stream1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
+</plugin>
 <item>
 <title>[COLORred][B]16:15 - 18:15 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Rangers vs Falkirk [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
