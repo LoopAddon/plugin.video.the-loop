@@ -2,6 +2,8 @@
 <title>[COLORred][B]ALL DAY [/COLOR][/B][COLORwhite][B]Live UK Open Darts 2018 [/COLOR][/B]</title>
 <info>[COLORyellow][B]Darts[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/ITV4-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/ITV4/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Two_live_Darts/stream37</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
@@ -11,6 +13,8 @@
 <title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - League One Blackburn Rovers vs Wigan Athletic [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Blackburn_Rovers_vs_Wigan_Athletic_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
