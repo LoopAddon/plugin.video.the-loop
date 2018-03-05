@@ -1,12 +1,18 @@
 <plugin>
+<title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]EPL - Crystal Palace vs Manchester United Acestream [/COLOR][/B]</title>
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
+<animated_thumbnail><animated_thumbnail>
+<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+<animated_fanart><animated_fanart>
+<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+</plugin>
+<plugin>
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Crystal Palace vs Manchester United [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Manchester_United_live_Football/stream1</sublink></link>
-<referer></referer>
+<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</plugin>
 <plugin>
 <title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Detroit Pistons at Cleveland Cavaliers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
