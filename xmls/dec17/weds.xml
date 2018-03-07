@@ -1,3 +1,11 @@
+<plugin> 
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League Acestream Zone[/COLOR][/B]</title> 
+<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link> 
+<animated_thumbnail><animated_thumbnail> 
+<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail> 
+<animated_fanart><animated_fanart> 
+<fanart>https://i.imgur.com/kEJor0g.png</fanart> 
+</plugin> 
 <item>
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Man City vs Basel [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
