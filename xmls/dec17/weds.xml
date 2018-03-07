@@ -10,10 +10,16 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Man City vs Basel [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1520475667~acl%3D%252f*~hmac%3D26ce47629a98fd1fa27d92cf243b8e6cbeb42bedf5bd6d06a01613bf44c9c479%0A&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1520475667~acl%3D%252f*~hmac%3D26ce47629a98fd1fa27d92cf243b8e6cbeb42bedf5bd6d06a01613bf44c9c479%0A&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 720p)</sublink>
+<sublink>http://enter.pdns.cz:8081/hls/essenza148/chunks.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/TSN-2-HD/mpegts?token=hcWUvw2Ur3(TSN 2 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/Fox-Sport-2-HD/mpegts?token=hcWUvw2Ur3(Fox Sport 2 720p)</sublink> 
+<sublink>http://ronaldo7.ga/live/fox2/chunks.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-3-HD/mpegts?token=hcWUvw2Ur3(BT Sport 3 720p)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-3/mpegts?token=hcWUvw2Ur3(BT Sport 3 SD)</sublink></link>
+<sublink>http://ukdvb1.uk.to:8085/BT-Sport-3/mpegts?token=hcWUvw2Ur3(BT Sport 3 SD)</sublink>
+<sublink>http://www.shelfawareness.org/files/stream1/master.m3u8</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -22,6 +28,11 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Tottenham vs Juventus [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1520475558~acl%3D%252f*~hmac%3Db3fbf852d74bb2c011aa41af65af4a770c0d209d9c9f4697d4806f0280c7de48&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1520475558~acl%3D%252f*~hmac%3Db3fbf852d74bb2c011aa41af65af4a770c0d209d9c9f4697d4806f0280c7de48&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 720p)</sublink>
+<sublink>https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CogDGrOJEJIj9tytAZueghf-N7V3juGGqI5egQxiovFt1dXWb5-8YJbwW9qgr_teVP5jT03uzhd_yuxYtOrqXh-bRbEuXx2V38fsCUhKTNr4iNM7D2EJFNQ2OO-H07xyotxupgXpzFawaS8w9UjgEuf-uD4zPROjTizY-SNni1ogyh0sPPYJZ-Sy6I25uhe6PZpWTGLWLSHPsfCCWYrQipg30cxVHaD4JHJxJfZa8fUck7U0bSmwVKH3n0xjkRvl4Sn10N1ukBI9QAkpnC8o7qO8g96ADTeZa8LumVDzyvCRHTBXqOrBdoYrP4jUIhFxfzBdTyF01G31JKwp6M77y9WlhKkYNEC9NVZKHW3QO8bioTqYzCRmbPyGBMYcNZ0svPC7VXOAEbpV-qSgwDmS5OWEV5oMTg5KOtwprO_7GrxgBbfo8JqHB1htQm3JkxDEpp2ty5YGiGFTn4DO02_Q7q2rj5A8BKYpfyu2ZLeuj4vBnA5pDNWfleY4AdQaaOSncNsuRraNJiF-L_cSEP_zRQLYfezQIMaUBgsO5yQaDDwyT7PQJe66yPedEA.m3u8</sublink>
+<sublink>http://enter.pdns.cz:8081/hls/essenza147/chunks.m3u8</sublink>
+<sublink>http://s1.heyheymonikaa.se:8080/hls/stream.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3(TSN 5 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3(Fox Sport 1 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3(BT Sport 2 720p)</sublink> 
@@ -34,6 +45,7 @@
 <title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Championship - Leeds vs Wolves [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://163.172.24.253:8081/a/skyyfoot/chunks.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3(SS Main Event HD)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3(SS Football HD)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3(SS Football SD)</sublink> 
