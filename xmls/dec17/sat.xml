@@ -10,6 +10,10 @@
 <title>[COLORred][B]12:30 - 14:30 [/COLOR][/B][COLORwhite][B]EPL - Manchester United vs Liverpool [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://ukdvb1.uk.to:8085/TSN-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-3-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Manchester_United_vs_Liverpool_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
