@@ -211,9 +211,17 @@
 <title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NBA Phoenix Suns @ Charlotte Hornets [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Phoenix_Suns_Charlotte_Hornets_live_NBA/nba1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://gg.notlive.xyz/nba_list/0021700987h.m3u8|User-Agent=iPad(Link 1 Home Feed)</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700987a.m3u8|User-Agent=iPad(Link 1 Away Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=hornets|User-Agent=iPad(Link 2 Home Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=suns|User-Agent=iPad(Link 2 Away Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/cha.m3u8|User-Agent=iPad(Link 3 Home Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/phx.m3u8|User-Agent=iPad(Link 3 Away Feed)</sublink>
+<sublink>http://sportival.shop/feeds/cha.m3u8|User-Agent=iPad(Link 4 Home Feed)</sublink>
+<sublink>http://sportival.shop/feeds/phx.m3u8|User-Agent=iPad(Link 4 Away Feed)</sublink>
+<sublink>http://www.genti.stream/nba/cha.m3u8|User-Agent=iPad(Link 5 Home Feed)</sublink>
+<sublink>http://www.genti.stream/nba/phx.m3u8|User-Agent=iPad(Link 5 Away Feed)</sublink></link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/CHA.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
@@ -238,8 +246,17 @@
 <title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards @ Miami Heat [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_Miami_Heat_live_NBA/nba2</sublink></link><referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://gg.notlive.xyz/nba_list/0021700988h.m3u8|User-Agent=iPad(Link 1 Home Feed)</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700988a.m3u8|User-Agent=iPad(Link 1 Away Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=heat|User-Agent=iPad(Link 2 Home Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=wizards|User-Agent=iPad(Link 2 Away Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/mia.m3u8|User-Agent=iPad(Link 3 Home Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/was.m3u8|User-Agent=iPad(Link 3 Away Feed)</sublink>
+<sublink>http://sportival.shop/feeds/mia.m3u8|User-Agent=iPad(Link 4 Home Feed)</sublink>
+<sublink>http://sportival.shop/feeds/was.m3u8|User-Agent=iPad(Link 4 Away Feed)</sublink>
+<sublink>http://www.genti.stream/nba/mia.m3u8|User-Agent=iPad(Link 5 Home Feed)</sublink>
+<sublink>http://www.genti.stream/nba/was.m3u8|User-Agent=iPad(Link 5 Away Feed)</sublink></link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/MIA.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
@@ -255,18 +272,34 @@
 <title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA Memphis Grizzlies @ Dallas Maverick [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Memphis_Grizzlies_Dallas_Maverick_live_NBA/nba3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://gg.notlive.xyz/nba_list/0021700989h.m3u8|User-Agent=iPad(Link 1 Home Feed)</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700989a.m3u8|User-Agent=iPad(Link 1 Away Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=mavericks|User-Agent=iPad(Link 2 Home Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=grizzlies|User-Agent=iPad(Link 2 Away Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/dal.m3u8|User-Agent=iPad(Link 3 Home Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/mem.m3u8|User-Agent=iPad(Link 3 Away Feed)</sublink>
+<sublink>http://sportival.shop/feeds/dal.m3u8|User-Agent=iPad(Link 4 Home Feed)</sublink>
+<sublink>http://sportival.shop/feeds/mem.m3u8|User-Agent=iPad(Link 4 Away Feed)</sublink>
+<sublink>http://www.genti.stream/nba/dal.m3u8|User-Agent=iPad(Link 5 Home Feed)</sublink>
+<sublink>http://www.genti.stream/nba/mem.m3u8|User-Agent=iPad(Link 5 Away Feed)</sublink></link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/DAL.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>[COLORred][B]01:30 - 04:30 [/COLOR][/B][COLORwhite][B]NBA San Antonio Spurs @ Oklahoma City Thunder [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Antonio_Spurs_Oklahoma_City_Thunder_live_NBA/nba4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://gg.notlive.xyz/nba_list/0021700990h.m3u8|User-Agent=iPad(Link 1 Home Feed)</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700990a.m3u8|User-Agent=iPad(Link 1 Away Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=thunder|User-Agent=iPad(Link 2 Home Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=spurs|User-Agent=iPad(Link 2 Away Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/okc.m3u8|User-Agent=iPad(Link 3 Home Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/sas.m3u8|User-Agent=iPad(Link 3 Away Feed)</sublink>
+<sublink>http://sportival.shop/feeds/okc.m3u8|User-Agent=iPad(Link 4 Home Feed)</sublink>
+<sublink>http://sportival.shop/feeds/sas.m3u8|User-Agent=iPad(Link 4 Away Feed)</sublink>
+<sublink>http://www.genti.stream/nba/okc.m3u8|User-Agent=iPad(Link 5 Home Feed)</sublink>
+<sublink>http://www.genti.stream/nba/sas.m3u8|User-Agent=iPad(Link 5 Away Feed)</sublink></link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/OKC.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
@@ -300,8 +333,16 @@
 <title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NBA Orlando Magic @ LA Clippers [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Orlando_Magic_LA_Clippers_live_NBA/nba5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
+<sublink>http://gg.notlive.xyz/nba_list/0021700991h.m3u8|User-Agent=iPad(Link 1 Home Feed)</sublink>
+<sublink>http://gg.notlive.xyz/nba_list/0021700991a.m3u8|User-Agent=iPad(Link 1 Away Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=clippers|User-Agent=iPad(Link 2 Home Feed)</sublink>
+<sublink>http://streamhub.live/hls/master.php?team=magic|User-Agent=iPad(Link 2 Away Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/lac.m3u8|User-Agent=iPad(Link 3 Home Feed)</sublink>
+<sublink>http://mygoodstream.pw/nba/orl.m3u8|User-Agent=iPad(Link 3 Away Feed)</sublink>
+<sublink>http://sportival.shop/feeds/lac.m3u8|User-Agent=iPad(Link 4 Home Feed)</sublink>
+<sublink>http://sportival.shop/feeds/orl.m3u8|User-Agent=iPad(Link 4 Away Feed)</sublink>
+<sublink>http://www.genti.stream/nba/lac.m3u8|User-Agent=iPad(Link 5 Home Feed)</sublink>
+<sublink>http://www.genti.stream/nba/orl.m3u8|User-Agent=iPad(Link 5 Away Feed)</sublink></link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/LAC.png</thumbnail>
 <fanart></fanart>
 </item>
