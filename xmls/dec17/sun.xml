@@ -1,139 +1,44 @@
 <item>
-<title>[COLORred][B]ALL DAY [/COLOR][/B][COLORwhite][B]Live UK Open Darts 2018 [/COLOR][/B]</title>
-<info>[COLORyellow][B]Darts[/COLOR][/B]</info>
-<link>
-<sublink>http://ukdvb1.uk.to:8085/ITV4-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/ITV4/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/2018_Day_Two_live_Darts/stream37</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]12:00 - 14:00 [/COLOR][/B][COLORwhite][B]England - League One Blackburn Rovers vs Wigan Athletic [/COLOR][/B]</title>
+<title>[COLORred][B]13:00 - 15:00 [/COLOR][/B][COLORwhite][B]England - National League Wrexham vs Chester [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Blackburn_Rovers_vs_Wigan_Athletic_live_Football/stream32</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Wrexham_vs_Chester_live_Football/btsports1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
-<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]England - Premier League Brighton - Hove Albion vs Arsenal [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
-</plugin>
-<plugin>
-<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]England - Premier League Manchester City vs Chelsea [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>plugin://plugin.video.live.streamspro/?url=https://9l7gf7x5o9v.xyz/2GUvC4X&mode=1&name=EPL-Match-Day</link>
-</plugin>
 <item>
-<title>[COLORred][B]16:15 - 18:15 [/COLOR][/B][COLORwhite][B]Scotland - Scottish FA Cup Rangers vs Falkirk [/COLOR][/B]</title>
+<title>[COLORred][B]13:00 - 15:00 [/COLOR][/B][COLORwhite][B]Scotland - Scottish Premiership Rangers vs Celtic [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rangers_vs_Falkirk_live_Football/stream32</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Rangers_vs_Celtic_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NHL Nashville Predators @ Colorado Avalanche [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Nashville_Predators_Colorado_Avalanche_live_Hockey/nhl1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]20:00 - 23:00 [/COLOR][/B][COLORwhite][B]NHL Philadelphia Flyers @ Florida Panthers [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Philadelphia_Flyers_Florida_Panthers_live_Hockey/nhl2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]20:30 - 23:30 [/COLOR][/B][COLORwhite][B]NBA Phoenix Suns @ Atlanta Hawks [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Phoenix_Suns_Atlanta_Hawks_live_NBA/nba1</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]21:00 - 00:00 [/COLOR][/B][COLORwhite][B]NHL Chicago Blackhawks @ Anaheim Ducks [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chicago_Blackhawks_Anaheim_Ducks_live_Hockey/nhl3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]22:00 - 00:00 [/COLOR][/B][COLORwhite][B]USA-Canada - Major League Soccer Seattle Sounders vs Los Angeles FC [/COLOR][/B]</title>
+<title>[COLORred][B]14:30 - 16:30 [/COLOR][/B][COLORwhite][B]England - Premier League Arsenal vs Watford [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Seattle_Sounders_vs_Los_Angeles_FC_live_Football/stream32</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Watford_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]22:00 - 01:00 [/COLOR][/B][COLORwhite][B]NHL Vegas Golden Knights @ New Jersey Devils [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<title>[COLORred][B]15:30 - 17:30 [/COLOR][/B][COLORwhite][B]England - Championship Nottingham Forest vs Derby County [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vegas_Golden_Knights_New_Jersey_Devils_live_Hockey/nhl4</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Nottingham_Forest_vs_Derby_County_live_Football/stream32</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]23:00 - 02:00 [/COLOR][/B][COLORwhite][B]NBA Charlotte Hornets @ Toronto Raptors [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
+<title>[COLORred][B]17:00 - 19:00 [/COLOR][/B][COLORwhite][B]England - Premier League AFC Bournemouth vs Tottenham Hotspur [/COLOR][/B]</title>
+<info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Charlotte_Hornets_Toronto_Raptors_live_NBA/nba2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]23:00 - 02:00 [/COLOR][/B][COLORwhite][B]NBA Indiana Pacers @ Washington Wizards [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Indiana_Pacers_Washington_Wizards_live_NBA/nba3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Detroit Red Wings @ Minnesota Wild [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Detroit_Red_Wings_Minnesota_Wild_live_Hockey/nhl5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Winnipeg Jets @ Carolina Hurricanes [/COLOR][/B]</title>
-<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Winnipeg_Jets_Carolina_Hurricanes_live_Hockey/nhl6</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA New Orleans Pelicans @ Dallas Mavericks [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Pelicans_Dallas_Mavericks_live_NBA/nba4</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Tottenham_Hotspur_live_Football/stream1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
