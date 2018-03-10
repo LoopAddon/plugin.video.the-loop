@@ -12,177 +12,110 @@
 <channel><name>[COLOR yellow][I]Live Events will be refreshed as they become available  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
 <channel><name>[COLOR yellow][I](back out of the Live Events List & re-enter to update)  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
 <channel><name>[COLOR yellow][I] Please remember its best to use VPN with Acestream links  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
-<channel><name>[COLOR yellow][I] This list is managed by the Jen Live Community Group.  [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
+<channel><name>[COLOR yellow][I] This list is updated by the Jen Live Chat Group. With Respect and Thanks. [/I][/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
 <channel><name>[COLOR red] --------------------------------------------------------------------------------- [/COLOR]</name><link>http://</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
+
 <channel><name>[COLOR gold]-------- FOOTBALL --------[/COLOR]</name><link>http://ignoreme</link><thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail><fanart>https://i.imgur.com/kEJor0g.png</fanart></channel>
+
 <channel>
-<name>[COLOR white][19:45 GMT] Tottenham Hotspur vs Juventus[/COLOR]</name>
+<name>[COLOR white][12:30 GMT] Manchester United vs Liverpool[/COLOR]</name>
 <link>ignore</link>
 <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 <fanart>https://i.imgur.com/kEJor0g.png</fanart>
 <items>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d9e86f199f67e87fcec988a1092532fee62d74a5&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://c6b659abbbe165bb829766099bd4a8470db47aeb&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
 		<link>plugin://program.plexus/?url=acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://10c30231f59409fe1573b3a11ad4b48a216149f0&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://280dde74908841dc589aa6c3f2bf8c4154313988&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://71deabd0a0a65d37406fc0fd2da131316eaa5f47&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://7c786b9379404c93eaffd8bce6313f3cfe265dd5&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://2e95331eba1f81760f40669c1027fc1c35a4e425&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 7[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://6594c2232fce9889ca9f57fcc856570b809cd41d&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 8[/COLOR][/I]</title>
 		<link>plugin://program.plexus/?url=acestream://764d37b4b2b2393cddb505a281559e60ba2ffbc9&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://4b2776daa65674f2e5513fca99f7d99f71fb3b52&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 9[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d9e86f199f67e87fcec988a1092532fee62d74a5+&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 7[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://6c1df4562650b8c05f323f8faf99bc3f811e934f&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 10[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://c6b659abbbe165bb829766099bd4a8470db47aeb&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 8[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://24d3c01f39c1cdd06373a7bfa08c35848cd28c4d&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 9[/COLOR][/I]</title>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 11[/COLOR][/I]</title>
 		<link>plugin://program.plexus/?url=acestream://4ed44ebe7ef135fed6611c4da8007aa11dc16966&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 10[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://10c30231f59409fe1573b3a11ad4b48a216149f0&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 12[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://280dde74908841dc589aa6c3f2bf8c4154313988&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 11[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://71deabd0a0a65d37406fc0fd2da131316eaa5f47&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 13[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://d33f71d8cbf26b01a8c770e391cd926db44d1513+&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 12[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://7c786b9379404c93eaffd8bce6313f3cfe265dd5&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 14[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://2e95331eba1f81760f40669c1027fc1c35a4e425&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
 	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 13[/COLOR][/I]</title>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 15[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://6594c2232fce9889ca9f57fcc856570b809cd41d&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 16[/COLOR][/I]</title>
 		<link>plugin://program.plexus/?url=acestream://764d37b4b2b2393cddb505a281559e60ba2ffbc9&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Tottenham Hotspur vs Juventus - [COLOR FFff8397b0][I]Link 14[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://4b2776daa65674f2e5513fca99f7d99f71fb3b52+++&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-</items>
-</channel>
- 
-<channel>
-<name>[COLOR white][19:45 GMT] Manchester City vs Basel[/COLOR]</name>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-<items>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://8e8266e539f8c02100e18503c76dd43c5c7191f9&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://f46cfeb211650946d881c3eedf4eb6fc361eee8c&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://4b2776daa65674f2e5513fca99f7d99f71fb3b52&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://28e566b72e8384b6276c7484a1a308372a3fbf0c&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://48ecdf4951599413b2c2ba23dba56ef7297ebb83&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://ffb34fd44bbcae79451f9c8d82fa6e6289cfc23f&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 7[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://d859c60a84a554ae725bd175b004253b2fa49092&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 8[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://4b2776daa65674f2e5513fca99f7d99f71fb3b52+++&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 9[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://28e566b72e8384b6276c7484a1a308372a3fbf0c&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 10[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://48ecdf4951599413b2c2ba23dba56ef7297ebb83&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 11[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://ffb34fd44bbcae79451f9c8d82fa6e6289cfc23f&amp;mode=1&amp;name=Acestream-Live-Event</link>
-		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
-	</item>
-	<item>
-		<title>[COLOR cadetblue][19:45 GMT] Manchester City vs Basel - [COLOR FFff8397b0][I]Link 12[/COLOR][/I]</title>
-		<link>plugin://program.plexus/?url=acestream://d859c60a84a554ae725bd175b004253b2fa49092&amp;mode=1&amp;name=Acestream-Live-Event</link>
 		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
 		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
 	</item>
@@ -190,4 +123,18 @@
  
 </channels>
  
-ugin://program.plexus/?url=acestream://48ecdf49
+am.plexus/?url=acestream://2e95331eba1f81760f40669c1027fc1c35a4e425&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 15[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://6594c2232fce9889ca9f57fcc856570b809cd41d&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart>https://i.imgur.com/kEJor0g.png</fanart>
+	</item>
+	<item>
+		<title>[COLOR cadetblue][12:30 GMT] Manchester United vs Liverpool - [COLOR FFff8397b0][I]Link 16[/COLOR][/I]</title>
+		<link>plugin://program.plexus/?url=acestream://764d37b4b2b2393cddb505a281559e60ba2ffbc9&amp;mode=1&amp;name=Acestream-Live-Event</link>
+		<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
+		<fanart
