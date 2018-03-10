@@ -9,9 +9,8 @@
 </dir>
 
 <dir>
-        <name>Score Zone<name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/ScoreZone.xml</link>
-        <animated_thumbnail><animated_thumbnail>
+        <name>EPL ScoreZone </name>
+        <link>https://9l7gf7x5o9v.xyz/2GUvC4X</link>
         <thumbnail>https://i.imgur.com/jMQzfCv.png</thumbnail>
         <animated_fanart><animated_fanart>
         <fanart>https://i.imgur.com/jMQzfCv.png</fanart>
@@ -36,7 +35,7 @@
 </dir>
 
 <plugin>
-        <name>Ace Zone<name>
+        <name>Acestream Zone</name>
         <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
