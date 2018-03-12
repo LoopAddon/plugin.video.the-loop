@@ -2,10 +2,15 @@
 <title>[COLORred][B]20:00 - 22:00 [/COLOR][/B][COLORwhite][B]England - Premier League Stoke City vs Manchester City [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>http://s1.heyheymonikaa.se:8080/hls/stream.m3u8</sublink>
+<sublink>http://live.yallasport.co/live/Q62MGiQ9Bk/6DFY0daax7/4236.m3u8</sublink>
 <sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
 <sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://enter.pdns.cz:8081/hls/essenza139/chunks.m3u8</sublink>
+<sublink>http://sigma.bankai.stream/live.m3u8</sublink>
+<sublink>http://185.39.10.71:1935/tv/OWJHCaiSbs20171105/chunklist_w625487608_tkaGxzZW5kdGltZT0xNTIwODg2NDIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UDVLcWFrQWU4OVB4a0wwRXRWVld0MlpVZ2hGQTliTUQ4bGU5WEREM1gyQT0=.m3u8</sublink>
 <sublink>http://cdn.easysport.tv:1935/tv/j9s1xNUAbQ20171118/chunklist_w819329152_tkaGxzZW5kdGltZT0xNTIwODg1NzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9VGVUR2V0VW5zR0w3.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Stoke_City_vs_Manchester_City_live_Football/stream1</sublink></link>
 <referer></referer>
