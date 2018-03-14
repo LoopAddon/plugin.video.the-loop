@@ -1,146 +1,87 @@
-<plugin> 
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League Acestream Zone[/COLOR][/B]</title> 
-<link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link> 
-<animated_thumbnail><animated_thumbnail> 
-<thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail> 
-<animated_fanart><animated_fanart> 
-<fanart>https://i.imgur.com/kEJor0g.png</fanart> 
-</plugin> 
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Man City vs Basel [/COLOR][/B]</title>
+<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Europe - UEFA Champions League Barcelona vs Chelsea [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
-<link>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_7.m3u8|Cookie=hdnea%3Dexp%3D1520475667~acl%3D%252f*~hmac%3D26ce47629a98fd1fa27d92cf243b8e6cbeb42bedf5bd6d06a01613bf44c9c479%0A&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 1080p)</sublink>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/europe/4185_6.m3u8|Cookie=hdnea%3Dexp%3D1520475667~acl%3D%252f*~hmac%3D26ce47629a98fd1fa27d92cf243b8e6cbeb42bedf5bd6d06a01613bf44c9c479%0A&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 720p)</sublink>
-<sublink>http://enter.pdns.cz:8081/hls/essenza148/chunks.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/TSN-2-HD/mpegts?token=hcWUvw2Ur3(TSN 2 720p)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-2-HD/mpegts?token=hcWUvw2Ur3(Fox Sport 2 720p)</sublink> 
-<sublink>http://ronaldo7.ga/live/fox2/chunks.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-3-HD/mpegts?token=hcWUvw2Ur3(BT Sport 3 720p)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-3/mpegts?token=hcWUvw2Ur3(BT Sport 3 SD)</sublink>
-<sublink>http://www.shelfawareness.org/files/stream1/master.m3u8</sublink></link>
-<referer></referer>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Barcelona_vs_Chelsea_live_Football/stream10</sublink></link><referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Champions League - Tottenham vs Juventus [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1520475558~acl%3D%252f*~hmac%3Db3fbf852d74bb2c011aa41af65af4a770c0d209d9c9f4697d4806f0280c7de48&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 1080p)</sublink>
-<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1520475558~acl%3D%252f*~hmac%3Db3fbf852d74bb2c011aa41af65af4a770c0d209d9c9f4697d4806f0280c7de48&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 720p)</sublink>
-<sublink>https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/CogDGrOJEJIj9tytAZueghf-N7V3juGGqI5egQxiovFt1dXWb5-8YJbwW9qgr_teVP5jT03uzhd_yuxYtOrqXh-bRbEuXx2V38fsCUhKTNr4iNM7D2EJFNQ2OO-H07xyotxupgXpzFawaS8w9UjgEuf-uD4zPROjTizY-SNni1ogyh0sPPYJZ-Sy6I25uhe6PZpWTGLWLSHPsfCCWYrQipg30cxVHaD4JHJxJfZa8fUck7U0bSmwVKH3n0xjkRvl4Sn10N1ukBI9QAkpnC8o7qO8g96ADTeZa8LumVDzyvCRHTBXqOrBdoYrP4jUIhFxfzBdTyF01G31JKwp6M77y9WlhKkYNEC9NVZKHW3QO8bioTqYzCRmbPyGBMYcNZ0svPC7VXOAEbpV-qSgwDmS5OWEV5oMTg5KOtwprO_7GrxgBbfo8JqHB1htQm3JkxDEpp2ty5YGiGFTn4DO02_Q7q2rj5A8BKYpfyu2ZLeuj4vBnA5pDNWfleY4AdQaaOSncNsuRraNJiF-L_cSEP_zRQLYfezQIMaUBgsO5yQaDDwyT7PQJe66yPedEA.m3u8</sublink>
-<sublink>http://enter.pdns.cz:8081/hls/essenza147/chunks.m3u8</sublink>
-<sublink>http://s1.heyheymonikaa.se:8080/hls/stream.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3(TSN 5 720p)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3(Fox Sport 1 720p)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3(BT Sport 2 720p)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3(BT Sport 2 SD)</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]19:45 - 21:45 [/COLOR][/B][COLORwhite][B]Championship - Leeds vs Wolves [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://163.172.24.253:8081/a/skyyfoot/chunks.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3(SS Main Event HD)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football-HD/mpegts?token=hcWUvw2Ur3(SS Football HD)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Football/mpegts?token=hcWUvw2Ur3(SS Football SD)</sublink> 
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3(SS Main Event SD)</sublink> 
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Leeds_United_vs_Wolverhampton_Wanderers_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Utah Jazz at Indiana Pacers [/COLOR][/B]</title>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NBA Milwaukee Bucks @ Orlando Magic [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Utah_Jazz_at_Indiana_Pacers_live_NBA/nba1</sublink></link>
-<referer></referer>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Milwaukee_Bucks_Orlando_Magic_live_NBA/nba1</sublink></link><referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</item>
+</item><<<<<<
 <item>
-<title>[COLORred][B]00:30 - 03:30 [/COLOR][/B][COLORwhite][B]NHL Calgary Flames at Buffalo Sabres [/COLOR][/B]</title>
+<title>[COLORred][B]00:00 - 03:00 [/COLOR][/B][COLORwhite][B]NHL Dallas Stars @ Toronto Maple Leafs [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Calgary_Flames_at_Buffalo_Sabres_live_Hockey/nhl1</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dallas_Stars_Toronto_Maple_Leafs_live_Hockey/nhl1</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Toronto Raptors at Detroit Pistons [/COLOR][/B]</title>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Washington Wizards @ Boston Celtics [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Toronto_Raptors_at_Detroit_Pistons_live_NBA/nba2</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Washington_Wizards_Boston_Celtics_live_NBA/nba2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Memphis Grizzlies at Chicago Bulls [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Memphis_Grizzlies_at_Chicago_Bulls_live_NBA/nba3</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NBA Houston Rockets at Milwaukee Bucks [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Houston_Rockets_at_Milwaukee_Bucks_live_NBA/nba4</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Pittsburgh Penguins at Philadelphia Flyers [/COLOR][/B]</title>
+<title>[COLORred][B]01:00 - 04:00 [/COLOR][/B][COLORwhite][B]NHL Pittsburgh Penguins @ New York Rangers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Pittsburgh_Penguins_at_Philadelphia_Flyers_live_Hockey/nhl2</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Pittsburgh_Penguins_New_York_Rangers_live_Hockey/nhl2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA New Orleans Pelicans at Sacramento Kings [/COLOR][/B]</title>
-<info>[COLORyellow][B]NBA[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Orleans_Pelicans_at_Sacramento_Kings_live_NBA/nba5</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Arizona Coyotes at Vancouver Canucks [/COLOR][/B]</title>
+<title>[COLORred][B]02:30 - 05:30 [/COLOR][/B][COLORwhite][B]NHL San Jose Sharks @ Edmonton Oilers [/COLOR][/B]</title>
 <info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arizona_Coyotes_at_Vancouver_Canucks_live_Hockey/nhl3</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/San_Jose_Sharks_Edmonton_Oilers_live_Hockey/nhl3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NBA Cleveland Cavaliers at Denver Nuggets [/COLOR][/B]</title>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NBA Miami Heat @ Sacramento Kings [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cleveland_Cavaliers_at_Denver_Nuggets_live_NBA/nba6</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Miami_Heat_Sacramento_Kings_live_NBA/nba3</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
-<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NBA Orlando Magic at Los Angeles Lakers [/COLOR][/B]</title>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL New Jersey Devils @ Vegas Golden Knights [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/New_Jersey_Devils_Vegas_Golden_Knights_live_Hockey/nhl4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]03:00 - 06:00 [/COLOR][/B][COLORwhite][B]NHL Vancouver Canucks @ Anaheim Ducks [/COLOR][/B]</title>
+<info>[COLORyellow][B]Hockey[/COLOR][/B]</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Vancouver_Canucks_Anaheim_Ducks_live_Hockey/nhl5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>[COLORred][B]03:30 - 06:30 [/COLOR][/B][COLORwhite][B]NBA Los Angeles Lakers @ Golden State Warriors [/COLOR][/B]</title>
 <info>[COLORyellow][B]NBA[/COLOR][/B]</info>
 <link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Orlando_Magic_at_Los_Angeles_Lakers_live_NBA/nba7</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Los_Angeles_Lakers_Golden_State_Warriors_live_NBA/nba4</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
