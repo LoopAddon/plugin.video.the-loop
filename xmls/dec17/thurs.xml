@@ -51,6 +51,10 @@
 <sublink>http://ukdvb1.uk.to:8085/TSN-2-HD/mpegts?token=hcWUvw2Ur3(TSN 2 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3(BT Sport 2 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3(BT Sport 2 720p)</sublink> 
+<sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://d2ftczgfl2xwo1.cloudfront.net/live.m3u8</sublink>
+<sublink>http://s1.heyheymonikaa.se:8080/hls/stream.m3u8</sublink>
+<sublink>http://sigma.bankai.stream/live.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Milan_live_Football/stream2</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
