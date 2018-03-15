@@ -30,6 +30,8 @@
 <title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Arsenal vs Milan [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_7.m3u8|Cookie=hdnea%3Dexp%3D1521165476~acl%3D%252f*~hmac%3D349a904f09ec4e67c2a2f112bc3d06e8fc1c6da8cead9f6ca68c65acc39dac0d&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 1080p)</sublink>
+<sublink>https://t1-btsport-live-hls-prod.akamaized.net/out/u/bts2/4190_6.m3u8|Cookie=hdnea%3Dexp%3D1521165476~acl%3D%252f*~hmac%3D349a904f09ec4e67c2a2f112bc3d06e8fc1c6da8cead9f6ca68c65acc39dac0d&User-Agent=BTSport%234.12.2%23Android%237.0(BT Sports 2 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2-HD/mpegts?token=hcWUvw2Ur3(BT Sport 2 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/BT-Sport-2/mpegts?token=hcWUvw2Ur3(BT Sport 2 720p)</sublink> 
 <sublink>http://ukdvb1.uk.to:8085/Fox-Sport-1-HD/mpegts?token=hcWUvw2Ur3</sublink>
@@ -38,8 +40,8 @@
 <sublink>http://sigma.bankai.stream/live.m3u8</sublink>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Milan_live_Football/stream2</sublink></link>
 <referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.pinimg.com/736x/4e/5d/b6/4e5db6eb94842ecca62ecf28a59267f0--uefa-europa-europa-league.jpg</thumbnail>
+<fanart>http://images-eds.xboxlive.com/image?url=z951ykn43p4FqWbbFvR2Ec.8vbDhj8G2Xe7JngaTToAnH.Vcay4adOTqth2MM9Qeuz320reZtado5QsTAY.LmHenDafvkg_9S9o1ymn7.WQXKS2H3UC9o0WXON5ZihWEIkW9109oBDJ6A4uQEQB3VNKfD99a5lF_liY4YK7QX2SP5vBHAeL.q9G9U69CkmIg</fanart>
 </item>
 <item>
 <title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Salzburg vs Borussia Dortmund [/COLOR][/B]</title>
