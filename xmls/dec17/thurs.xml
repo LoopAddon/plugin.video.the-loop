@@ -1,34 +1,8 @@
 <item>
-<title>[COLORred][B]08:00 - 10:45 [/COLOR][/B][COLORwhite][B]Live NRL Cronulla Sutherland Sharks v St George Illawarra Dragons [/COLOR][/B]</title>
-<info>[COLORyellow][B]Rugby League - Domestic[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Cronulla_Sutherland_Sharks_v_St_George_Illawarra_Dragons_live_Rugby_League_-_Domestic/stream7</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
 <title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Athletic Club vs Olympique Marseille [/COLOR][/B]</title>
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Athletic_Club_vs_Olympique_Marseille_live_Football/stream10</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Dynamo Kyiv vs Lazio [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Dynamo_Kyiv_vs_Lazio_live_Football/stream38</sublink></link><referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]18:00 - 20:00 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Viktoria Plzen vs Sporting CP [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Viktoria_Plzen_vs_Sporting_CP_live_Football/stream21</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -64,15 +38,6 @@
 <info>[COLORyellow][B]Football[/COLOR][/B]</info>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Arsenal_vs_Milan_live_Football/stream2</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]20:05 - 22:05 [/COLOR][/B][COLORwhite][B]Europe - UEFA Europa League Olympique Lyonnais vs CSKA Moskva [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Olympique_Lyonnais_vs_CSKA_Moskva_live_Football/stream9</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
