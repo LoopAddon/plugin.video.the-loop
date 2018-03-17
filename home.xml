@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <dir>
         <name>IF you see this message. You are no longer</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml<link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
         <animated_fanart></animated_fanart>
@@ -10,7 +10,7 @@
 
 <dir>
         <name>being kept in The Loop. You need to download </name>
-        <link>https://9l7gf7x5o9v.xyz/2GUvC4X</link>
+        <link>https://9l7gf7x5o9v.xyz/2GUvC4X<link>
         <thumbnail>https://i.imgur.com/jMQzfCv.png</thumbnail>
         <animated_fanart><animated_fanart>
         <fanart>https://i.imgur.com/jMQzfCv.png</fanart>
@@ -18,7 +18,7 @@
 
 <dir>
         <name>our new repo from https://loopaddon.uk/loop </name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/GameZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/GameZone.xml<link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/9PV0lhZ.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -27,7 +27,7 @@
 
 <dir>
         <name>as this version will no longer be updated.</name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TestZone.xml</link>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TestZone.xml<link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/8HazFEz.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -36,7 +36,7 @@
 
 <plugin>
         <name>See you on the other side.</name>
-        <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
+        <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone<link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
         <animated_fanart><animated_fanart>
