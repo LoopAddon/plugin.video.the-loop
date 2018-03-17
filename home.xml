@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <dir>
-        <name>Fan Zone</name>
+        <name>IF you see this message. You are no longer</name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail>https://i.imgur.com/xxFuVCq.png</thumbnail>
@@ -9,7 +9,7 @@
 </dir>
 
 <dir>
-        <name>EPL ScoreZone </name>
+        <name>being kept in The Loop. You need to download </name>
         <link>https://9l7gf7x5o9v.xyz/2GUvC4X</link>
         <thumbnail>https://i.imgur.com/jMQzfCv.png</thumbnail>
         <animated_fanart><animated_fanart>
@@ -17,7 +17,7 @@
 </dir>
 
 <dir>
-        <name>Game Zone<name>
+        <name>our new repo from https://loopaddon.uk/loop </name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/GameZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/9PV0lhZ.png</thumbnail>
@@ -26,7 +26,7 @@
 </dir>
 
 <dir>
-        <name>Test Zone<name>
+        <name>as this version will no longer be updated.</name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TestZone.xml</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/8HazFEz.png</thumbnail>
@@ -35,7 +35,7 @@
 </dir>
 
 <plugin>
-        <name>Acestream Zone</name>
+        <name>See you on the other side.</name>
         <link>plugin://plugin.video.live.streamspro/?url=https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/AceZone.xml&mode=1&name=AceZone</link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
@@ -44,7 +44,7 @@
 </plugin>
                 
 <dir>
-        <name>Its Christmas lets have Christmas Movies<name>
+        <name>@Munkee_8 and @TheLoop85204328</name>
         <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/xmls/dec17/xmas.xml<link>
         <animated_thumbnail><animated_thumbnail>
         <thumbnail>https://i.imgur.com/K2UgR6H.png</thumbnail>
@@ -52,11 +52,4 @@
         <fanart>https://i.imgur.com/K2UgR6H.png</fanart>
 </dir>
 
-<dir>
-        <name>TV Zone<name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/TVZone</link>
-        <animated_thumbnail><animated_thumbnail>
-        <thumbnail>https://i.imgur.com/kEJor0g.png</thumbnail>
-        <animated_fanart><animated_fanart>
-        <fanart>https://i.imgur.com/kEJor0g.png</fanart>
-</dir>
+
